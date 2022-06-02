@@ -19,6 +19,9 @@ Szu Hui Ng received the B.S., M.S., and Ph.D. degrees in industrial and operatio
 * Quality and Reliability Engineering
 
 # Contact
+
 Phone: 6516 3095
+
 Email: isensh@nus.edu.sg
+
 Office: E1 – 08 – 09
