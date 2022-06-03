@@ -7,5 +7,6 @@ author_profile: true
 
 {% include network2.html %}
 
-## Current Student
+## Current Students
 ## Graduated students
+
