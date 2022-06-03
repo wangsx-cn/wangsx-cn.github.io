@@ -5,8 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 
-
-
 {% include network.html %}
 
 ## Current Student
