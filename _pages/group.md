@@ -7,7 +7,8 @@ author_profile: true
 
 ## Current students
 
-<iframe src="network.html"></iframe>
-
+<div id="header">
+       network.html
+</div>
 
 ## Graduated students
