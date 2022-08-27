@@ -50,12 +50,12 @@ tr:nth-child(even) {
     <td><a href='https://arxiv.org/pdf/2205.04901.pdf'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang H., Wang S., Meng Q., Ng Z. H. (2022), Enhanced Global Optimization with Parallel Global and Local Structures</td>
+    <td>Wang H., Wang S., Meng Q., Ng S. H. (2022), Enhanced Global Optimization with Parallel Global and Local Structures</td>
     <td>Submitted</td>
     <td><a href='https://arxiv.org/pdf/2201.10255.pdf'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang S., Ng Z. H., Haskell W. B. (2019), A Multi-Level Simulation Optimization Approach for Quantile Functions</td>
+    <td>Wang S., Ng S. H., Haskell W. B. (2019), A Multi-Level Simulation Optimization Approach for Quantile Functions</td>
     <td>INFORMS Journal on Computing</td>
     <td><a href='https://arxiv.org/pdf/1901.05768.pdf'>Download</a></td>
   </tr>
@@ -65,23 +65,48 @@ tr:nth-child(even) {
     <td>Download</td>
   </tr>
   <tr>
-    <td>Pedrielli G., Wang S., Ng Z. H. (2020), An Extended Two-Stage Sequential Optimization Approach: Properties and Performance</td>
+    <td>Pedrielli G., Wang S., Ng S. H. (2020), An Extended Two-Stage Sequential Optimization Approach: Properties and Performance</td>
     <td>European Journal of Operational Research</td>
     <td><a href='https://www.sciencedirect.com/science/article/am/pii/S0377221720303982'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang H., Yuan J., Ng Z. H. (2020), Gaussian process based optimization algorithms with input uncertainty</td>
+    <td>Wang H., Yuan J., Ng S. H. (2020), Gaussian process based optimization algorithms with input uncertainty</td>
     <td>IISE transactions</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Gaussian%20process%20based%20optimization%20algorithms%20with%20input%20uncertainty.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
-    <td>Yuan J., Ng Z. H. (2020), An Integrated Method for Simultaneous Calibration and Parameter Selection in Computer Models</td>
+    <td>Yuan J., Ng S. H. (2020), An Integrated Method for Simultaneous Calibration and Parameter Selection in Computer Models</td>
     <td>ACM trans on Modeling and Computer Simulation (TOMACS)</td>
     <td>Download</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Li G., Tan M. H., Ng S. H. (2019), Metamodel-based optimization of stochastic computer models for engineering design under uncertain objective function</td>
+    <td>IISE transactions</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Yuan J., Ng S. H. (2015), Calibration, Validation, and Prediction in Random Simulation Models: Gaussian Process Metamodels and a Bayesian Integrated Solution</td>
+    <td>TOMACS</td>
+    <td><a href=''>Download</a></td>
+  </tr>
+  <tr>
+    <td>Quan N., Yin J., Ng S. H., Lee L. H. (2013), Simulation optimization via kriging: a sequential search using expected improvement with computing budget constraints</td>
+    <td>IISE transactions</td>
+    <td><a href=''>Download</a></td>
+  </tr>
+  <tr>
+    <td>Ng S. H., Yin J. (2012), Bayesian Kriging Analysis and Design for Stochastic Simulations</td>
+    <td>TOMACS</td>
+    <td><a href=''>Download</a></td>
+  </tr>
+  <tr>
+    <td>Yuan J., Ng S. H., Tsui K. L. (2013), Calibration of Stochastic Computer Models Using Stochastic Approximation Methods</td>
+    <td>IEEE Trans on Automation Science and Engineering</td>
+    <td><a href=''>Download</a></td>
+  </tr>
+  <tr>
+    <td>Yin J., Ng S.H., Ng K.M. (2011), Kriging metamodel with modified nugget-effect: The heteroscedastic variance case</td>
+    <td>Computers & Industrial Engineering</td>
     <td><a href=''>Download</a></td>
   </tr>
   <tr>
@@ -99,6 +124,7 @@ tr:nth-child(even) {
     <td></td>
     <td><a href=''>Download</a></td>
   </tr>
+
   
 </table>
 
