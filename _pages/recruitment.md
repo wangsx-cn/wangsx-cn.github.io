@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-### Research Fellow position, Simulation Modelling and Bayesian Optimization, under A/P Ng Szu Hui, NUS ISEM
-**One Research Fellow position, Simulation Modelling and Bayesian Optimization, under A/P Ng Szu Hui, NUS ISEM**
+## One Research Fellow position, Simulation Modelling and Bayesian Optimization, under A/P Ng Szu Hui, NUS ISEM
 
 We have an opening position for a Research Fellow in the area of simulation modelling and optimization.  The emphasis will be on metamodeling for computer simulations and algorithmic development for simulation optimization. Knowledge of Gaussian Process (GP) models and Bayesian Optimization (BO) would be an advantage, but not a requirement.  Experience with high dimensional data and machine learning techniques would also be a plus.
 
@@ -20,8 +19,11 @@ We have an opening position for a Research Fellow in the area of simulation mode
 
 We are considering applicants with strong analytical skills and programming knowledge. Interested candidates should email their detailed curriculum vitae with details of research experience and list of publications to isensh@nus.edu.sg with the title “Application for Research Fellow in Sim Opt”. Review or interview of applicants will begin as soon as possible and will continue until both positions are filled.
 
-### Ph.D. Position with full scholarship, Simulation Modelling and Bayesian Optimization, under A/P Ng Szu Hui, NUS ISEM
-**One Ph.D. Position with full scholarship, Simulation Modelling and Bayesian Optimization, under A/P Ng Szu Hui, NUS ISEM**
+<br>
+---
+<br>
+
+## One Ph.D. Position with full scholarship, Simulation Modelling and Bayesian Optimization, under A/P Ng Szu Hui, NUS ISEM
 
 We have one fully funded Ph.D. Position in the Department of Industrial Systems Engineering and Management at National University of Singapore, with a starting date of Spring 2023 or Fall 2023. We are looking for self-motivated Ph.D. students with solid mathematical backgrounds and coding skills. The Ph.D. student will work under the supervision of A/P Ng Szu Hui. Our research lies in metamodeling for computer simulations and algorithmic development for simulation optimization. 
 
