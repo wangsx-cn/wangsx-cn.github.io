@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -61,9 +60,9 @@ tr:nth-child(even) {
     <td><a href='https://arxiv.org/pdf/1901.05768.pdf'>Download</a></td>
   </tr>
   <tr>
-    <td>XXX Stochastic optimization with adaptive restart: a framework for integrated local and global learning</td>
+    <td>Stochastic optimization with adaptive restart: a framework for integrated local and global learning</td>
     <td>Journal of Global Optimization</td>
-    <td><a href=''>Download</a></td>
+    <td>Download</td>
   </tr>
   <tr>
     <td>Pedrielli G., Wang S., Ng Z. H. (2020), An Extended Two-Stage Sequential Optimization Approach: Properties and Performance</td>
@@ -71,14 +70,14 @@ tr:nth-child(even) {
     <td><a href='https://www.sciencedirect.com/science/article/am/pii/S0377221720303982'>Download</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href=''>Download</a></td>
+    <td>Wang H., Yuan J., Ng Z. H. (2020), Gaussian process based optimization algorithms with input uncertainty</td>
+    <td>IISE transactions</td>
+    <td>Download</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href=''>Download</a></td>
+    <td>Yuan J., Ng Z. H. (2020), An Integrated Method for Simultaneous Calibration and Parameter Selection in Computer Models</td>
+    <td>ACM trans on Modeling and Computer Simulation (TOMACS)</td>
+    <td>Download</td>
   </tr>
   <tr>
     <td></td>
