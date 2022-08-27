@@ -4,27 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 <html>
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
 <body>
 
 
@@ -152,7 +132,7 @@ tr:nth-child(even) {
   <tr>
     <td>Wang S., Ng S. H. (2017), A joint Gaussian process metamodel to improve quantile predictions</td>
     <td>Conference Proceedings</td>
-    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_joint_Gaussian_process_metamodel_to_improve_quantile_predictions.pdf?raw=true'>Download<a/></td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_joint_Gaussian_process_metamodel_to_improve_quantile_predictions.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Pedrielli G., Ng S. H. (2016), G-STAR: A new Kriging-based trust region method for global optimization</td>
@@ -204,11 +184,10 @@ tr:nth-child(even) {
     <td>Conference Proceedings</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_study_on_the_effects_of_parameter_estimation_on_kriging_models_prediction_error_in_stochastic_simulations.pdf?raw=true'>Download</a></td>
   </tr>
-  
 </table>
-
 </body>
 </html>
+
 
 
 
