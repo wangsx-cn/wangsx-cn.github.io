@@ -107,7 +107,7 @@ tr:nth-child(even) {
   <tr>
     <td>Yin J., Ng S.H., Ng K.M. (2011), Kriging metamodel with modified nugget-effect: The heteroscedastic variance case</td>
     <td>Computers & Industrial Engineering</td>
-    <td><a href=''>Download</a></td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/1-s2.0-S0360835211001331-main.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Xuereb M., Ng S. H., Pedrielli G. (2020), Stochastic Gaussian Process Model Averaging for High-Dimensional Inputs</td>
@@ -142,17 +142,17 @@ tr:nth-child(even) {
   <tr>
     <td>Meng Q., Ng S. H. (2017), Enhancing pattern search for global optimization with an additive global and local Gaussian Process model</td>
     <td>Conference Proceedings</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Enhancing_pattern_search_for_global_optimization_with_an_additive_global_and_local_Gaussian_Process_model.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Mathesen L., Pedrielli G., Ng S. H. (2017), Trust region based stochastic optimization with adaptive restart: A family of global optimization algorithms</td>
     <td>Conference Proceedings</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Trust_region_based_stochastic_optimization_with_adaptive_restart_A_family_of_global_optimization_algorithms.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Wang S., Ng S. H. (2017), A joint Gaussian process metamodel to improve quantile predictions</td>
     <td>Conference Proceedings</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_joint_Gaussian_process_metamodel_to_improve_quantile_predictions.pdf?raw=true'>Download<a/></td>
   </tr>
   <tr>
     <td>Pedrielli G., Ng S. H. (2016), G-STAR: A new Kriging-based trust region method for global optimization</td>
@@ -187,26 +187,23 @@ tr:nth-child(even) {
   <tr>
     <td>Jun Y., Ng S. H. (2011), Bayesian calibration of stochastic computer models</td>
     <td>Conference Proceedings</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Bayesian_calibration_of_stochastic_computer_models.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Yin, J., Ng, S.H., Ng, K.M. (2010), A Bayesian metamodeling approach for stochastic simulations</td>
     <td>Conference Proceedings</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_Bayesian_metamodeling_approach_for_stochastic_simulations.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Yin, J., Ng, S.H., Ng, K.M. (2008), Kriging model with modified nugget effect for random simulation with heterogeneous variances</td>
     <td>Conference Proceedings</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Kriging_model_with_modified_nugget_effect_for_random_simulation_with_heterogeneous_variances.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Yin, J., Ng, S.H., Ng, K.M. (2009), A study on the effects of parameter estimation on kriging model's prediction error in stochastic simulations</td>
     <td>Conference Proceedings</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_study_on_the_effects_of_parameter_estimation_on_kriging_models_prediction_error_in_stochastic_simulations.pdf?raw=true'>Download</a></td>
   </tr>
-
-
-
   
 </table>
 
