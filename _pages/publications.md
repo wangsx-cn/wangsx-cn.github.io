@@ -70,39 +70,39 @@ tr:nth-child(even) {
     <td><a href='https://www.sciencedirect.com/science/article/am/pii/S0377221720303982'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang H., Yuan J., Ng S. H. (2020), Gaussian process based optimization algorithms with input uncertainty</td>
+    <td>Wang H., Jun Y., Ng S. H. (2020), Gaussian process based optimization algorithms with input uncertainty</td>
     <td>IISE transactions</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Gaussian%20process%20based%20optimization%20algorithms%20with%20input%20uncertainty.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
-    <td>Yuan J., Ng S. H. (2020), An Integrated Method for Simultaneous Calibration and Parameter Selection in Computer Models</td>
+    <td>Jun Y., Ng S. H. (2020), An Integrated Method for Simultaneous Calibration and Parameter Selection in Computer Models</td>
     <td>ACM trans on Modeling and Computer Simulation (TOMACS)</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Li G., Tan M. H., Ng S. H. (2019), Metamodel-based optimization of stochastic computer models for engineering design under uncertain objective function</td>
     <td>IISE transactions</td>
-    <td>Download</td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Metamodel%20based%20optimization%20of%20stochastic%20computer%20models%20for%20engineering%20design%20under%20uncertain%20objective%20function.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
-    <td>Yuan J., Ng S. H. (2015), Calibration, Validation, and Prediction in Random Simulation Models: Gaussian Process Metamodels and a Bayesian Integrated Solution</td>
+    <td>Jun Y., Ng S. H. (2015), Calibration, Validation, and Prediction in Random Simulation Models: Gaussian Process Metamodels and a Bayesian Integrated Solution</td>
     <td>TOMACS</td>
-    <td><a href=''>Download</a></td>
+    <td>Download</td>
   </tr>
   <tr>
     <td>Quan N., Yin J., Ng S. H., Lee L. H. (2013), Simulation optimization via kriging: a sequential search using expected improvement with computing budget constraints</td>
     <td>IISE transactions</td>
-    <td><a href=''>Download</a></td>
+    <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Simulation%20optimization%20via%20kriging%20a%20sequential%20search%20using%20expected%20improvement%20with%20computing%20budget%20constraints.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Ng S. H., Yin J. (2012), Bayesian Kriging Analysis and Design for Stochastic Simulations</td>
     <td>TOMACS</td>
-    <td><a href=''>Download</a></td>
+    <td>Download</td>
   </tr>
   <tr>
-    <td>Yuan J., Ng S. H., Tsui K. L. (2013), Calibration of Stochastic Computer Models Using Stochastic Approximation Methods</td>
+    <td>Jun Y., Ng S. H., Tsui K. L. (2013), Calibration of Stochastic Computer Models Using Stochastic Approximation Methods</td>
     <td>IEEE Trans on Automation Science and Engineering</td>
-    <td><a href=''>Download</a></td>
+    <td>Download</td>
   </tr>
   <tr>
     <td>Yin J., Ng S.H., Ng K.M. (2011), Kriging metamodel with modified nugget-effect: The heteroscedastic variance case</td>
@@ -110,20 +110,102 @@ tr:nth-child(even) {
     <td><a href=''>Download</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href=''>Download</a></td>
+    <td>Xuereb M., Ng S. H., Pedrielli G. (2020), Stochastic Gaussian Process Model Averaging for High-Dimensional Inputs</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href=''>Download</a></td>
+    <td>Wang H. Ng, S. H., Zhang X. (2020), A Gaussian Process Based Algorithm for Stochastic Simulation Optimization with Input Distribution Uncertainty</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href=''>Download</a></td>
+    <td>Wang S., Ng S. H. (2020), Partition-Based Bayesian Optimization for Stochastic Simulations</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
   </tr>
+  <tr>
+    <td>Xuereb M., Huo T. M., Ng S. H. (2020), Principal Component Analysis for High Dimension Stochastic Gaussian Process Model Fitting</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Wang H., Jun Y., Ng S. H. (2020), Informational Approach to Global Optimization with Input Uncertainty for Homoscedastic Stochastic Simulation</td>
+    <td>Conference Proceedings (Outstanding Paper Reward)</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Wang S., Ng S. H., Haskell W. B. (2018), QUANTILE SIMULATION OPTIMIZATION WITH STOCHASTIC CO-KRIGING MODEL</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Meng Q., Ng S. H. (2017), Enhancing pattern search for global optimization with an additive global and local Gaussian Process model</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Mathesen L., Pedrielli G., Ng S. H. (2017), Trust region based stochastic optimization with adaptive restart: A family of global optimization algorithms</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Wang S., Ng S. H. (2017), A joint Gaussian process metamodel to improve quantile predictions</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Pedrielli G., Ng S. H. (2016), G-STAR: A new Kriging-based trust region method for global optimization</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Meng Q., Ng S. H. (2016), Combined Global and Local method for stochastic simulation optimization with an AGLGP model</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Meng Q., Ng S. H. (2015), An Additive Global and Local Gaussian Process model for large data sets</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Pedrielli G., Ng S. H. (2015), Kriging-based simulation-optimization: A stochastic recursion perspective</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Chen X., Pedrielli G., Ng S. H. (2015), SNAT: Simulation-based search for navigation safety. The case of Singapore Strait</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Jun Y., Ng S. H. (2013), An entropy based sequential calibration approach for stochastic computer models</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Jun Y., Ng S. H. (2011), Bayesian calibration of stochastic computer models</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Yin, J., Ng, S.H., Ng, K.M. (2010), A Bayesian metamodeling approach for stochastic simulations</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Yin, J., Ng, S.H., Ng, K.M. (2008), Kriging model with modified nugget effect for random simulation with heterogeneous variances</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+  <tr>
+    <td>Yin, J., Ng, S.H., Ng, K.M. (2009), A study on the effects of parameter estimation on kriging model's prediction error in stochastic simulations</td>
+    <td>Conference Proceedings</td>
+    <td>Download</td>
+  </tr>
+
+
 
   
 </table>
