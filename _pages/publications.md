@@ -108,6 +108,11 @@ tr:nth-child(even) {
     <td>Computers & Industrial Engineering</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/1-s2.0-S0360835211001331-main.pdf?raw=true'>Download</a></td>
   </tr>
+
+</table>
+<br>
+<h3> Conference Proceedings </h3>
+<table>
   <tr>
     <td>Xuereb M., Ng S. H., Pedrielli G. (2020), Stochastic Gaussian Process Model Averaging for High-Dimensional Inputs</td>
     <td>Conference Proceedings</td>
@@ -133,10 +138,6 @@ tr:nth-child(even) {
     <td>Conference Proceedings (Outstanding Paper Reward)</td>
     <td>Download</td>
   </tr>
-</table>
-<br>
-<h3> Conference Proceedings </h3>
-<table>
 <tr>
     <td>Wang S., Ng S. H., Haskell W. B. (2018), QUANTILE SIMULATION OPTIMIZATION WITH STOCHASTIC CO-KRIGING MODEL</td>
     <td>Conference Proceedings</td>
