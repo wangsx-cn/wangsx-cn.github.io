@@ -26,24 +26,14 @@ tr:nth-child(even) {
 
 <body>
 
-
+<h3> Preprint </h3>
 <table>
-  <tr>
-    <th>Paper</th>
-    <th>Publication</th>
-    <th>File</th>
-  </tr>
   <tr>
     <td>Wang H., Zhang E., Ng S. H., Pedrielli G. (2022), A model aggregation approach for high-dimensional large-scale optimization</td>
     <td>Submitted</td>
     <td><a href='https://arxiv.org/pdf/2205.07525.pdf'>Download</a></td>
   </tr>
   <tr>
-    <td>Meng Q., Wang S., Ng S. H. (2021), Combined Global and Local Search for Optimization with Gaussian Process Models</td>
-    <td>INFORMS Journal on Computing</td>
-    <td><a href='https://arxiv.org/pdf/2107.03217.pdf'>Download</a></td>
-  </tr>
-    <tr>
     <td>Hu S., Wang H., Dai Z., Low B. K. H., Ng S. H. (2022), Adjusted Expected Improvement for Cumulative Regret Minimization in Noisy Bayesian Optimization</td>
     <td>Submitted</td>
     <td><a href='https://arxiv.org/pdf/2205.04901.pdf'>Download</a></td>
@@ -52,6 +42,16 @@ tr:nth-child(even) {
     <td>Wang H., Wang S., Meng Q., Ng S. H. (2022), Enhanced Global Optimization with Parallel Global and Local Structures</td>
     <td>Submitted</td>
     <td><a href='https://arxiv.org/pdf/2201.10255.pdf'>Download</a></td>
+  </tr>
+</table>
+
+<br>
+<h3>Journal Publications</h3>
+<table>
+  <tr>
+    <td>Meng Q., Wang S., Ng S. H. (2021), Combined Global and Local Search for Optimization with Gaussian Process Models</td>
+    <td>INFORMS Journal on Computing</td>
+    <td><a href='https://arxiv.org/pdf/2107.03217.pdf'>Download</a></td>
   </tr>
   <tr>
     <td>Wang S., Ng S. H., Haskell W. B. (2019), A Multi-Level Simulation Optimization Approach for Quantile Functions</td>
@@ -133,7 +133,11 @@ tr:nth-child(even) {
     <td>Conference Proceedings (Outstanding Paper Reward)</td>
     <td>Download</td>
   </tr>
-  <tr>
+</table>
+<br>
+<h3> Conference Proceedings </h3>
+<table>
+<tr>
     <td>Wang S., Ng S. H., Haskell W. B. (2018), QUANTILE SIMULATION OPTIMIZATION WITH STOCHASTIC CO-KRIGING MODEL</td>
     <td>Conference Proceedings</td>
     <td>Download</td>
