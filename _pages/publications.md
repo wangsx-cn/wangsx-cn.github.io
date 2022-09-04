@@ -115,97 +115,97 @@ tr:nth-child(even) {
 <table>
   <tr>
     <td>Xuereb M., Ng S. H., Pedrielli G. (2020), Stochastic Gaussian Process Model Averaging for High-Dimensional Inputs</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Wang H. Ng, S. H., Zhang X. (2020), A Gaussian Process Based Algorithm for Stochastic Simulation Optimization with Input Distribution Uncertainty</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Wang S., Ng S. H. (2020), Partition-Based Bayesian Optimization for Stochastic Simulations</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Xuereb M., Huo T. M., Ng S. H. (2020), Principal Component Analysis for High Dimension Stochastic Gaussian Process Model Fitting</td>
-    <td>Conference Proceedings</td>
+    <td>IEEE International Conference on Industrial Engineering and Engineering Management</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Wang H., Jun Y., Ng S. H. (2020), Informational Approach to Global Optimization with Input Uncertainty for Homoscedastic Stochastic Simulation</td>
-    <td>Conference Proceedings (Outstanding Paper Reward)</td>
+    <td>IEEE International Conference on Industrial Engineering and Engineering Management (Outstanding Paper Award)</td>
     <td>Download</td>
   </tr>
 <tr>
     <td>Wang S., Ng S. H., Haskell W. B. (2018), QUANTILE SIMULATION OPTIMIZATION WITH STOCHASTIC CO-KRIGING MODEL</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Meng Q., Ng S. H. (2017), Enhancing pattern search for global optimization with an additive global and local Gaussian Process model</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Enhancing_pattern_search_for_global_optimization_with_an_additive_global_and_local_Gaussian_Process_model.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Mathesen L., Pedrielli G., Ng S. H. (2017), Trust region based stochastic optimization with adaptive restart: A family of global optimization algorithms</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Trust_region_based_stochastic_optimization_with_adaptive_restart_A_family_of_global_optimization_algorithms.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Wang S., Ng S. H. (2017), A joint Gaussian process metamodel to improve quantile predictions</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_joint_Gaussian_process_metamodel_to_improve_quantile_predictions.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Pedrielli G., Ng S. H. (2016), G-STAR: A new Kriging-based trust region method for global optimization</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Meng Q., Ng S. H. (2016), Combined Global and Local method for stochastic simulation optimization with an AGLGP model</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Meng Q., Ng S. H. (2015), An Additive Global and Local Gaussian Process model for large data sets</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Pedrielli G., Ng S. H. (2015), Kriging-based simulation-optimization: A stochastic recursion perspective</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Chen X., Pedrielli G., Ng S. H. (2015), SNAT: Simulation-based search for navigation safety. The case of Singapore Strait</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Jun Y., Ng S. H. (2013), An entropy based sequential calibration approach for stochastic computer models</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td>Download</td>
   </tr>
   <tr>
     <td>Jun Y., Ng S. H. (2011), Bayesian calibration of stochastic computer models</td>
-    <td>Conference Proceedings</td>
+    <td>IEEE International Conference on Industrial Engineering and Engineering Management</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Bayesian_calibration_of_stochastic_computer_models.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Yin, J., Ng, S.H., Ng, K.M. (2010), A Bayesian metamodeling approach for stochastic simulations</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_Bayesian_metamodeling_approach_for_stochastic_simulations.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Yin, J., Ng, S.H., Ng, K.M. (2008), Kriging model with modified nugget effect for random simulation with heterogeneous variances</td>
-    <td>Conference Proceedings</td>
+    <td>IEEE International Conference on Industrial Engineering and Engineering Management</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/Kriging_model_with_modified_nugget_effect_for_random_simulation_with_heterogeneous_variances.pdf?raw=true'>Download</a></td>
   </tr>
   <tr>
     <td>Yin, J., Ng, S.H., Ng, K.M. (2009), A study on the effects of parameter estimation on kriging model's prediction error in stochastic simulations</td>
-    <td>Conference Proceedings</td>
+    <td>Winter Simulation Conference</td>
     <td><a href='https://github.com/bonusisem/bonusisem.github.io/blob/master/_includes/A_study_on_the_effects_of_parameter_estimation_on_kriging_models_prediction_error_in_stochastic_simulations.pdf?raw=true'>Download</a></td>
   </tr>
 </table>
