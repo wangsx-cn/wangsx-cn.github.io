@@ -14,7 +14,6 @@ author_profile: true
 
 <br>
 <h3> Current Members </h3>
-* Wang Haowei
 * Li Hongpeng
 * Zhang Ercong
 * Han Congyu
