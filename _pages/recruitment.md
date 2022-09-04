@@ -41,6 +41,7 @@ We have one fully funded Ph.D. Position in the Department of Industrial Systems 
 We are looking for self-motivated students, if you are interested, please send the following documents to isensh@nus.edu.sg  with the title “Application for Spring/Fall 2023 Ph.D. Position”:
 
 •	Latest curriculum vitae and transcript (required)
+
 •	Research interests or research experiences (if applicable)
 
 Review or interview of applicants will begin as soon as possible for Spring 2023 admission and will continue until both positions are filled.
