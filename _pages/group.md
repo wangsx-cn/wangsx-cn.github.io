@@ -15,6 +15,7 @@ author_profile: true
 <br>
 <h3> Current Members </h3>
 * Dr. Wang Haowei
+* Dr. Khaja Irfan Babu Soudagar Abdul
 * Li Hongpeng
 * Zhang Ercong
 * Han Congyu
