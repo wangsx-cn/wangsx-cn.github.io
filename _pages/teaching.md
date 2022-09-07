@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h3>Modules</h3>
+<h2>Modules</h2>
 
 **IE2100 Probability Models with Applications** <br> Required sophomore level class that focuses on stochastic modeling and probabilistic analysis <br>
 **IE3101 Statistics for Engineering Applications** <br> Required junior level class that covers the foundation and application of statistics in the engineering context, including parametric and nonparametric methods <br> 
