@@ -5,14 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-<h3> Current Members </h3>
-•	Dr. Wang Haowei<br>
-•	Dr. Khaja Irfan Babu Soudagar Abdul<br>
-•	Li Hongpeng<br>
-•	Zhang Ercong<br>
-•	Han Congyu<br>
-•	Pu Mingyu<br>
-•	Gao Gui<br>
+
 
 <h3>PhD supervision</h3>
 •	Zhang Ercong, “Bayesian Optimization for High Dimensional Problems”, expected graduation 2025 <br>
@@ -38,6 +31,13 @@ author_profile: true
 •	Kenneth Wong Kai Kiang, “Statistical Optimization of Radiography Inspection Process on Jet Engine Component”, 2004<br>
 
 
-
+<h3> Current Members </h3>
+•	Dr. Wang Haowei<br>
+•	Dr. Khaja Irfan Babu Soudagar Abdul<br>
+•	Li Hongpeng<br>
+•	Zhang Ercong<br>
+•	Han Congyu<br>
+•	Pu Mingyu<br>
+•	Gao Gui<br>
 
 
