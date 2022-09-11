@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Software and code packages"
-permalink: /code/
+permalink: /software/
 author_profile: true
 ---
 
