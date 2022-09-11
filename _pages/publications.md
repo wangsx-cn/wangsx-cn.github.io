@@ -431,8 +431,8 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Ng S.H., Chick S.E. (2001) “Reducing Input Parameter Uncertainty for Simulations”</td>
-    <td>https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/NgC.pdf</td>
-    <td><a href='Proceedings of the Winter Simulation Conference 2001, Volume 1, Pages 364-371, Institute of Electrical and Electronics Engineers.  Arlington, Virginia, USA'>Download</a></td>
+    <td>Proceedings of the Winter Simulation Conference 2001, Volume 1, Pages 364-371, Institute of Electrical and Electronics Engineers.  Arlington, Virginia, USA</td>
+    <td><a href='https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/NgC.pdf'>Download</a></td>
   </tr>
 </table>
 </html>
