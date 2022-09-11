@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Software and code packages"
+title:
 permalink: /software/
 author_profile: true
 ---
