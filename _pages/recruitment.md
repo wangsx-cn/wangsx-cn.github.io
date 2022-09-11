@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Recruitment"
+title: 
 permalink: /recruitment/
 author_profile: true
 ---
