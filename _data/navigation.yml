@@ -8,13 +8,17 @@ main:
     
   - title: "Teaching"
     url: /teaching/  
-    
-  - title: "Recruitment"
-    url: /recruitment/
 
   - title: "Grant"
-    url: /research/
+    url: /grant/
+    
+  - title: "Software and code packages"
+    url: /code/
        
+  - title: "Recruitment"
+    url: /recruitment/
+    
+ 
     
 #   - title: "Portfolio"
 #     url: /portfolio/
