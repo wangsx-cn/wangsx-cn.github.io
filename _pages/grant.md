@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Funded Research
+## Grant
 
 * An Integrated Model for Maritime Emission Reduction (AIMMER), (funded by Singapore Maritime Institute), 01/2022 - 12/2024, $2,471,664, (PI)
 * Vessel Collision Avoidance - Phase II, (funded by Centre of Excellence in Modeling and Simulation for Next Generation Ports - SMI), 11/2021 - 05/2023, $435,000 (PI) 
@@ -27,3 +27,15 @@ author_profile: true
 * Robust operational planning in an uncertain environment with rising bunker prices (funded by the NOL Fellowship programme), 04/2009 - 04/2011, $206,100 (PI)
 * Sensitivity and Uncertainty Analysis of Complex Simulation Systems (funded by Singapore Ministry of Education Academic Research Fund - Tier 1), 01/2004 - 12/2007, $81,504 (PI)
 * Modeling and Analysis of Firmware Reliability (funded by Singapore Ministry of Education Academic Research Fund - Tier 1), 04/2003 - 03/2005, $97,954 (Co-PI)
+
+## Award
+
+* IEOM Distinguished Woman in Industry and Academia Award (2021)
+* Expert Reviewer of Fourth IMO GHG Study (2020)
+* Nominated by Singapore and appointed by International Maritime Organization (IMO) Fourth GHG Study Steering Committee to a 12-person expert panel to provide an expert review of the Fourth IMO GHG Study (MEPC75/7/15).  
+* NUS Excellent Teacher Award (2004, 2008)
+* Faculty of Engineering Teaching Commendation List award (2003, 2005, 2006, 2007, 2017)
+* Faculty of Engineering Teaching Honours List award (2004, 2008, 2012)
+* Outstanding paper award (2018) at the 2018 IEEE International Conference on Industrial Engineering and Engineering Management, Bangkok Thailand
+* Next Generation Container Port Challenge 2013 (organized by the Maritime Port Authority, Singapore), Grand Prize Winner (Team member)* Best paper award (2004) at the 2004 Asian International Workshop on Advanced Reliability Modeling, Hiroshima City, Japan
+* Alfred P. Sloan Research Fellowship (1997)
