@@ -8,12 +8,15 @@ main:
     
   - title: "Teaching"
     url: /teaching/  
+    
+  - title: "Talks"
+    url: /talks/ 
 
   - title: "Grant and Award"
     url: /grant/
     
   - title: "Software and code packages"
-    url: /code/
+    url: /software/
        
   - title: "Recruitment"
     url: /recruitment/
