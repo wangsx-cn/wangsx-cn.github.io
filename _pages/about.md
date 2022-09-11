@@ -39,6 +39,7 @@ Dissertation advisor: Professor Stephen E. Chick
 * Guest Editor for the Asia-Pacific Journal of Operational Research, Special issue on “Expanding Role of Operations Research in Industrial Engineering” 2012
 * Editorial Board member for the International Journal of Experimental Design and Process Optimisation 2009 – present 
 * Associated Guest Editor for the Journal of Computer Science, Special issue on “Reliability and Autonomic Management” 2005 
+* 
 **Ad hoc referee for**: Operations Research, Management Science, ACM Transactions on Modeling and Computer Simulation, INFORMS Journal on Computing, Stochastic Systems, IISE Transactions on Operations Engineering (Simulation Modeling and Analysis), Journal of Simulation, European Journal of Operational Research, Computers & Operations Research, IISE Transactions on Quality and Reliability Engineering, The American Statistician, Communications in Statistics, Energy Economics, Transportation Research Part B
 
 
