@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 ## Teaching Modules
-
-
 <html>
 
 <style>
@@ -36,7 +34,7 @@ tr:nth-child(even) {
     <td>Required junior level class that covers the foundation and application of statistics in the engineering context, including parametric and nonparametric methods</td>
   </tr>
 <tr>
-<td>IE3110 Simulation*</td>
+<td>IE3110 Simulation</td>
 <td>Required junior level class that covers the foundation and application of discrete event simulation, including modeling techniques, random number generators, simulated data analysis and variance reduction techniques </td>
 </tr>
 <tr>
