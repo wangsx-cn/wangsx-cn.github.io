@@ -29,10 +29,10 @@ tr:nth-child(even) {
 <body>
 
 <table>
-  <tr>
-    <td>IE2100 Probability Models with Applications</td>
-    <td>Required junior level class that covers the foundation and application of statistics in the engineering context, including parametric and nonparametric methods</td>
-  </tr>
+<tr>
+<td>IE2100 Probability Models with Applications</td>
+<td>Required junior level class that covers the foundation and application of statistics in the engineering context, including parametric and nonparametric methods</td>
+</tr>
 <tr>
 <td>IE3110 Simulation</td>
 <td>Required junior level class that covers the foundation and application of discrete event simulation, including modeling techniques, random number generators, simulated data analysis and variance reduction techniques </td>
@@ -52,6 +52,7 @@ tr:nth-child(even) {
 <tr>
 <td>tIE5122 Statistical Quality Control</td>
 <td> Elective course for M.Sc. students that covers the basic principles to state-of-the-art concepts in statistical quality control</td>
+</tr>
 <tr>
 <td>IE5504 Systems Modeling and Advanced Simulation</td>
 <td>Elective course for M.Sc. students that covers the fundamental aspects of dynamic modeling and stochastic simulation</td>

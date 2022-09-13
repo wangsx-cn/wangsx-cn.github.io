@@ -27,6 +27,7 @@ author_profile: true
 | Hu Qingpei     | “Software Reliability Modeling and Analysis”, 2007 (co-supervise with Xie M.)                                                                                                                            |
 
 ## Masters supervision
+
 | Name                   | Description                                                                                                     |
 |------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Zhang Nan              | “An Online Truncation Method for Transient Bias Reduction in Steady State Simulations”, 2018                    |
