@@ -30,6 +30,9 @@ tr:nth-child(even) {
 
 <table>
 <tr>
+<th>Description</th>
+</tr>
+<tr>
 <td>Invited panelist on “Professional Development”, Winter Simulation Conference 2022, (Dec 11 -14, 2022)</td>
 </tr>
 <tr>

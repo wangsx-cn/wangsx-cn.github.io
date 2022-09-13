@@ -29,6 +29,10 @@ tr:nth-child(even) {
 <h3> Teaching Modules </h3>
 <table>
 <tr>
+<th>Module</th>
+<th>Description</th>
+</tr>
+<tr>
 <td>IE2100 Probability Models with Applications</td>
 <td>Required junior level class that covers the foundation and application of statistics in the engineering context, including parametric and nonparametric methods</td>
 </tr>
