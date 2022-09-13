@@ -26,7 +26,7 @@ tr:nth-child(even) {
 </style>
 
 <body>
-
+<h3> Teaching Modules </h3>
 <table>
 <tr>
 <td>IE2100 Probability Models with Applications</td>
