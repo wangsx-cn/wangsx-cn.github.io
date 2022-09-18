@@ -26,182 +26,185 @@ tr:nth-child(even) {
 
 <body>
 
-<h3> Maritime transport and efficiency </h3>
-<table>
-  <tr>
-    <td>Sou S.W., Goh T., Lee X.N., Ng S.H., Chai K.H. (2022), Reducing the carbon intensity of international shipping–the impact of energy efficiency measures</td>
-    <td>Energy Policy</td>
-    <td><a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4118045'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Zhong S., Goh T., Ang B.W., Su B., Ng S.H., Chai K.H. (2021), Driving Factors of Changes in International Maritime Energy Consumption</td>
-    <td>Microdata Evidence 2014 - 2017, Energy Policy, 154, 112288</td>
-    <td><a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766557'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Yuan J., Wang H., Ng S.H., Nian V. (2020), Ship emission mitigation strategies choice under uncertainty</td>
-    <td>Energies 13(9), 2213-2223</td>
-    <td><a href='https://www.mdpi.com/1996-1073/13/9/2213'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Pedrielli G., Xing Y., Peh J., Koh K.W., Ng S.H. (2019), A Real Time Simulation Optimization Framework for Vessel Collision Avoidance</td>
-    <td>IEEE Transactions on Intelligent Transportation Systems, 21(3), 1204-1215</td>
-    <td><a href='https://asu.pure.elsevier.com/en/publications/a-real-time-simulation-optimization-framework-for-vessel-collisio'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Chi H., Pedrielli G., Ng S.H., Kister T., Bressan S., (2018), A framework for real-time monitoring of energy efficiency of marine vessels</td>
-    <td>Energy, 145, 246-260</td>
-    <td><a href='https://ideas.repec.org/a/eee/energy/v145y2018icp246-260.html'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Yuan J., Ng S.H. (2017), Emission reduction measures ranking under uncertainty</td>
-    <td>Applied Energy, 188, 270-279</td>
-    <td><a href='https://www.sciencedirect.com/science/article/abs/pii/S0306261916317408'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Yuan J., Ng S.H., Sou W.S. (2016), Uncertainty quantification of CO2 emission reduction for maritime shipping</td>
-    <td>Energy Policy, 88, 113-130</td>
-    <td><a href='https://www.sciencedirect.com/science/article/abs/pii/S0301421515301488'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Zhang Y., Meng Q., Ng S.H. (2016), Shipping efficiency comparison between Northern Sea Route and the conventional Asia-Europe shipping route via Suez Canal</td>
-    <td>Transport Geography, 57, 241-249</td>
-    <td><a href='https://ideas.repec.org/a/eee/jotrge/v57y2016icp241-249.html'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Pedrielli G., Lee L.H., Ng S.H. (2015), Optimal bunkering contract in a buyer–seller supply chain under price and consumption uncertainty</td>
-    <td>Transportation Research Part E: Logistics and Transportation Review, 77, 77-94</td>
-    <td><a href='https://www.sciencedirect.com/science/article/abs/pii/S1366554515000435'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Ghosh S., Lee L.H., Ng S.H. (2015) Bunkering decisions for a shipping liner in an uncertain environment with service contract</td>
-    <td>European Journal of Operational Research, 244, no. 3, 792-802</td>
-    <td><a href='https://ideas.repec.org/a/eee/ejores/v244y2015i3p792-802.html'>Download</a></td>
-  </tr>
-  <tr>
-    <td>Yao Z., Ng S.H., Lee L.H. (2012), A Study on Bunker Fuel Management for Shipping Liner Services</td>
-    <td>Computers & Operations Research, 39, 1160-1172</td>
-    <td><a href='https://www.sciencedirect.com/science/article/abs/pii/S030505481100205X'>Download</a></td>
-  </tr>
-</table>
 <h3>Simulation analysis and optimization</h3>
 <table>
   <tr>
-    <td>Meng Q., Wang S., Ng S.H. (2022), Combined Global and Local Optimization with Gaussian Process Models</td>
+    <td><b>Combined Global and Local Optimization with Gaussian Process Models</b>, with Meng Q., Wang S., Ng S.H. (2022)</td>
     <td>INFORMS Journal on Computing, 34(1), 622-637</td>
-    <td><a href='https://www.researchgate.net/publication/353066554_Combined_Global_and_Local_Search_for_Optimization_with_Gaussian_Process_Models'>Download</a></td>
+    <td><a href='https://arxiv.org/abs/2107.03217'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang S., Ng S.H., Haskell W.B. (2022), A Multi-Level Simulation Optimization Approach for Quantile Functions</td>
+    <td><b>A Multi-Level Simulation Optimization Approach for Quantile Functions</b>, with Wang S., Ng S.H., Haskell W.B. (2022)</td>
     <td>INFORMS Journal on Computing, 34(1), 569-585</td>
     <td><a href='https://arxiv.org/abs/1901.05768'>Download</a></td>
   </tr>
   <tr>
-    <td>Mathesen L., Pedrielli G., Ng S.H., Zabinsky Z. (2021), Stochastic Optimization with Adaptive Restart: A Framework for Integrated Local and Global Learning</td>
+    <td><b>Stochastic Optimization with Adaptive Restart: A Framework for Integrated Local and Global Learning</b>, with Mathesen L., Pedrielli G., Ng S.H., Zabinsky Z. (2021), </td>
     <td>Journal of Global Optimization, 79, 87-110</td>
     <td><a href='https://dl.acm.org/doi/10.1007/s10898-020-00937-5'>Download</a></td>
   </tr>
   <tr>
-    <td>Pedrielli G., Wang S. Ng S.H. (2020), An Extended Two-Stage Sequential Optimization Approach: Properties and Performance</td>
+    <td><b>An Extended Two-Stage Sequential Optimization Approach: Properties and Performance</b>, with Pedrielli G., Wang S. Ng S.H. (2020)</td>
     <td>European Journal of Operational Research, 287(3), 929-945</td>
     <td><a href='https://asu.pure.elsevier.com/en/publications/an-extended-two-stage-sequential-optimization-approach-properties'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang S., Ng S.H. (2020), Enhancing Response Predictions with a Joint Gaussian Process Model for Stochastic Simulation Models</td>
+    <td><b>Enhancing Response Predictions with a Joint Gaussian Process Model for Stochastic Simulation Models</b>, with Wang S., Ng S.H. (2020)</td>
     <td>ACM Transactions on Modeling and Computer Simulation, 30, no.1, Article 4</td>
     <td><a href='https://dl.acm.org/doi/abs/10.1145/3364219'>Download</a></td>
   </tr>
   <tr>
-    <td>Yuan J., Ng S.H. (2020), An Integrated Method for Simultaneous Calibration and Parameter Selection in Computer Models</td>
+    <td><b>An Integrated Method for Simultaneous Calibration and Parameter Selection in Computer Models</b>, with Yuan J., Ng S.H. (2020)</td>
     <td>ACM Transactions on Modeling and Computer Simulation, 30, no.1, Article 7</td>
     <td><a href='https://dl.acm.org/doi/10.1145/3364217'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang H., Yuan J., Ng S.H. (2020) Gaussian Process Based Optimization Algorithms with Input Uncertainty</td>
+    <td><b>Gaussian Process Based Optimization Algorithms with Input Uncertainty</b>, with Wang H., Yuan J., Ng S.H. (2020)</td>
     <td>IISE Transactions, 52(4), 377-393</td>
     <td><a href='https://www.tandfonline.com/doi/abs/10.1080/24725854.2019.1639859'>Download</a></td>
   </tr>
   <tr>
-    <td>Zhang N., Yuan J., Ng S.H. (2019), A Data-driven Online Truncation Method for Transient Bias Reduction in Steady-State Simulations</td>
+    <td><b>A Data-driven Online Truncation Method for Transient Bias Reduction in Steady-State Simulations</b>, with Zhang N., Yuan J., Ng S.H. (2019)</td>
     <td>Computers and Industrial Engineering, 135, 723-745</td>
     <td><a href='https://en.x-mol.com/paper/article/1415697931820011520'>Download</a></td>
   </tr>
   <tr>
-    <td>Li G., Tan M.H., Ng S.H., (2019), Metamodel-based Optimization of Stochastic Computer Models for Engineering Design under Uncertain Objective Function</td>
+    <td><b>Metamodel-based Optimization of Stochastic Computer Models for Engineering Design under Uncertain Objective Function</b>, with Li G., Tan M.H., Ng S.H., (2019)</td>
     <td>IISE Transactions, 51(5), 517-530</td>
     <td><a href='https://www.tandfonline.com/doi/abs/10.1080/24725854.2018.1504355'>Download</a></td>
   </tr>
   <tr>
-    <td>Yuan J., Ng S.H. (2015), Calibration, Validation and Prediction in Random Simulation Models</td>
+    <td><b>Validation and Prediction in Random Simulation Models</b>, with Yuan J., Ng S.H. (2015), Calibration</td>
     <td>ACM Transactions on Modeling and Computer Simulation, 25, no.3, Article 18</td>
     <td><a href='https://dl.acm.org/doi/10.1145/2699713'>Download</a></td>
   </tr>
   <tr>
-    <td>Quan N., Yin J., Ng S.H., Lee L.H. (2013), Simulation Optimization via Kriging: A Sequential Search using Expected Improvement with Computing Budget Constraints</td>
+    <td><b>Simulation Optimization via Kriging: A Sequential Search using Expected Improvement with Computing Budget Constraints</b>, with Quan N., Yin J., Ng S.H., Lee L.H. (2013)</td>
     <td>IIE Transactions, 45, no.7, 763-780.  Featured summary in the IE Magazine (February 2013)</td>
     <td><a href='https://www.tandfonline.com/doi/abs/10.1080/0740817X.2012.706377'>Download</a></td>
   </tr>
   <tr>
-    <td>Yuan J., Ng S.H. (2013), A Sequential Approach for Stochastic Computer Model Calibration and Prediction</td>
+    <td><b>A Sequential Approach for Stochastic Computer Model Calibration and Prediction</b>, with Yuan J., Ng S.H. (2013)</td>
     <td>Reliability Engineering and System Safety, 111, 273-286</td>
     <td><a href='https://www.researchgate.net/publication/257392159_A_sequential_approach_for_stochastic_computer_model_calibration_and_prediction'>Download</a></td>
   </tr>
   <tr>
-    <td>Yuan J., Ng S.H., Tsui K.L. (2013), Calibration of Stochastic Computer Models Using Stochastic Approximation Methods</td>
+    <td><b>Calibration of Stochastic Computer Models Using Stochastic Approximation Methods</b>, with Yuan J., Ng S.H., Tsui K.L. (2013)</td>
     <td>IEEE Transactions on Automation Science and Engineering, 10, no.1, 171-186</td>
     <td><a href='https://ur.booksc.me/book/21811416/d0bace'>Download</a></td>
   </tr>
   <tr>
-    <td>Ng S.H., Yin J. (2012), Bayesian Kriging Analysis and Design for Stochastic Simulations</td>
+    <td><b>Bayesian Kriging Analysis and Design for Stochastic Simulations</b>, with Ng S.H., Yin J. (2012)</td>
     <td>ACM Transactions on Modeling and Computer Simulation, vol.22, no.3, Article 17</td>
     <td><a href='https://dl.acm.org/doi/10.1145/2331140.2331145'>Download</a></td>
   </tr>
   <tr>
-    <td>Yin J., Ng S.H. and Ng K.M. (2011), Kriging Metamodel with Modified Nugget-Effect: The heteroscedastic variance case</td>
+    <td><b>Kriging Metamodel with Modified Nugget-Effect: The heteroscedastic variance case</b>, with Yin J., Ng S.H. and Ng K.M. (2011)</td>
     <td>Computers & Industrial Engineering, 61, 760-777</td>
     <td><a href='https://www.researchgate.net/publication/220384497_Kriging_metamodel_with_modified_nugget-effect_The_heteroscedastic_variance_case'>Download</a></td>
   </tr>
   <tr>
-    <td>Li Y.F., Ng S.H., Xie M. and Goh T.N. (2010), A Systematic Comparison of Metamodeling Techniques for Simulation Optimization in Decision Support Systems</td>
+    <td><b>A Systematic Comparison of Metamodeling Techniques for Simulation Optimization in Decision Support Systems</b>, with Li Y.F., Ng S.H., Xie M. and Goh T.N. (2010)</td>
     <td>Li Y.F., NgApplied Soft Computing, 10, 1257-1273 S.H., Xie M. and Goh T.N. (2010), A Systematic Comparison of Metamodeling Techniques for Simulation Optimization in Decision Support Systems</td>
     <td><a href='https://www.sciencedirect.com/science/article/pii/S1568494609002841'>Download</a></td>
   </tr>
   <tr>
-    <td>Peng J., Lee L.H. and Ng S.H. (2007), Two-stage computing budget allocation approach for the response surface method</td>
+    <td><b>Two-stage computing budget allocation approach for the response surface method</b>, with Peng J., Lee L.H. and Ng S.H. (2007)</td>
     <td>International Transactions in Operational Research (ITOR), 14, no. 6, 457-473</td>
     <td><a href='https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-3995.2007.00607.x'>Download</a></td>
   </tr>
   <tr>
-    <td>Ng S.H. and Chick S.E. (2006), Reducing parameter uncertainty in stochastic systems</td>
+    <td><b>Reducing parameter uncertainty in stochastic systems</b>, with Ng S.H. and Chick S.E. (2006)</td>
     <td>ACM Transactions on Modeling and Computer Simulation, 16, no. 1, 26-51</td>
     <td><a href='https://dl.acm.org/doi/abs/10.1145/1122012.1122014'>Download</a></td>
   </tr>
 </table>
 
+
+<h3> Maritime transport and efficiency </h3>
+<table>
+  <tr>
+    <td><b>Reducing the carbon intensity of international shipping–the impact of energy efficiency measures</b>, with Sou S.W., Goh T., Lee X.N., Ng S.H., Chai K.H. (2022)</td>
+    <td>Energy Policy</td>
+    <td><a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4118045'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>Driving Factors of Changes in International Maritime Energy Consumption</b>, with Zhong S., Goh T., Ang B.W., Su B., Ng S.H., Chai K.H. (2021)</td>
+    <td>Microdata Evidence 2014 - 2017, Energy Policy, 154, 112288</td>
+    <td><a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766557'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>Ship emission mitigation strategies choice under uncertainty</b>, with Yuan J., Wang H., Ng S.H., Nian V. (2020)</td>
+    <td>Energies 13(9), 2213-2223</td>
+    <td><a href='https://www.mdpi.com/1996-1073/13/9/2213'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>A Real Time Simulation Optimization Framework for Vessel Collision Avoidance</b>, with Pedrielli G., Xing Y., Peh J., Koh K.W., Ng S.H. (2019)</td>
+    <td>IEEE Transactions on Intelligent Transportation Systems, 21(3), 1204-1215</td>
+    <td><a href='https://asu.pure.elsevier.com/en/publications/a-real-time-simulation-optimization-framework-for-vessel-collisio'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>A framework for real-time monitoring of energy efficiency of marine vessels</b>, with Chi H., Pedrielli G., Ng S.H., Kister T., Bressan S., (2018)</td>
+    <td>Energy, 145, 246-260</td>
+    <td><a href='https://ideas.repec.org/a/eee/energy/v145y2018icp246-260.html'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>Emission reduction measures ranking under uncertainty</b>, with Yuan J., Ng S.H. (2017)</td>
+    <td>Applied Energy, 188, 270-279</td>
+    <td><a href='https://www.sciencedirect.com/science/article/abs/pii/S0306261916317408'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>Uncertainty quantification of CO2 emission reduction for maritime shipping</b>, with Yuan J., Ng S.H., Sou W.S. (2016)</td>
+    <td>Energy Policy, 88, 113-130</td>
+    <td><a href='https://www.sciencedirect.com/science/article/abs/pii/S0301421515301488'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>Shipping efficiency comparison between Northern Sea Route and the conventional Asia-Europe shipping route via Suez Canal</b>, with Zhang Y., Meng Q., Ng S.H. (2016)</td>
+    <td>Transport Geography, 57, 241-249</td>
+    <td><a href='https://ideas.repec.org/a/eee/jotrge/v57y2016icp241-249.html'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>Optimal bunkering contract in a buyer–seller supply chain under price and consumption uncertainty</b>, with Pedrielli G., Lee L.H., Ng S.H. (2015)</td>
+    <td>Transportation Research Part E: Logistics and Transportation Review, 77, 77-94</td>
+    <td><a href='https://www.sciencedirect.com/science/article/abs/pii/S1366554515000435'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>Bunkering decisions for a shipping liner in an uncertain environment with service contract</b>, with Ghosh S., Lee L.H., Ng S.H. (2015)</td>
+    <td>European Journal of Operational Research, 244, no. 3, 792-802</td>
+    <td><a href='https://ideas.repec.org/a/eee/ejores/v244y2015i3p792-802.html'>Download</a></td>
+  </tr>
+  <tr>
+    <td><b>A Study on Bunker Fuel Management for Shipping Liner Services</b>, with Yao Z., Ng S.H., Lee L.H. (2012)</td>
+    <td>Computers & Operations Research, 39, 1160-1172</td>
+    <td><a href='https://www.sciencedirect.com/science/article/abs/pii/S030505481100205X'>Download</a></td>
+  </tr>
+</table>
+
+
 <h3>Quality and Reliability Engineering</h3>
 <table>
   <tr>
-    <td>Li G., Ng S.H., Tan M.H. (2020), Bayesian Optimal Designs for Efficient Estimation of the Optimum Point with Generalised Linear Models</td>
+    <td><b>Bayesian Optimal Designs for Efficient Estimation of the Optimum Point with Generalised Linear Models</b>, with Li G., Ng S.H., Tan M.H. (2020)</td>
     <td>Quality Technology & Quantitative Management, 17(1), 89-107</td>
     <td><a href='https://www.tandfonline.com/doi/abs/10.1080/16843703.2018.1542965?needAccess=true'>Download</a></td>
   </tr>
   <tr>
-    <td>Li G., Tan K.K.R., Ng S.H., Chua D.H.C., (2018), A Multilevel Zero-Inflated Model for the Study of Copper Hillocks Growth in Integrated Circuits Manufacturing</td>
+    <td><b>A Multilevel Zero-Inflated Model for the Study of Copper Hillocks Growth in Integrated Circuits Manufacturing</b>, with Li G., Tan K.K.R., Ng S.H., Chua D.H.C., (2018)</td>
     <td>IEEE Transactions on Semiconductor Manufacturing, 31(3), 385-394</td>
     <td><a href='https://ieeexplore.ieee.org/document/8408513'>Download</a></td>
   </tr>
   <tr>
-    <td>Xie M., Xiong C., Ng S.H. (2014), A Study of N-version programming and its impact on software availability</td>
+    <td><b>A Study of N-version programming and its impact on software availability</b>, with Xie M., Xiong C., Ng S.H. (2014)</td>
     <td>International Journal of System Science, 45, no.10, 2145-2157</td>
     <td><a href='https://www.tandfonline.com/doi/full/10.1080/00207721.2013.763299'>Download</a></td>
   </tr>
   <tr>
-    <td>Li X., Xie M. and Ng S.H. (2012), Multi-Objective Optimization Approaches to Software Release Time Determination</td>
+    <td><b>Multi-Objective Optimization Approaches to Software Release Time Determination</b>, with Li X., Xie M. and Ng S.H. (2012)</td>
     <td>Asia-Pacific Journal of Operational Research, 29, no. 3, 209-226</td>
     <td><a href='https://www.worldscientific.com/doi/10.1142/S0217595912400192'>Download</a></td>
   </tr>
   <tr>
-    <td>Peng R., Xie M., Ng S.H. and Levitin G. (2012), Element Maintenance and Allocation for Linear Consecutively Connected Systems</td>
+    <td><b>Element Maintenance and Allocation for Linear Consecutively Connected Systems</b>, with Peng R., Xie M., Ng S.H. and Levitin G. (2012)</td>
     <td>IIE Transactions, 44, no.11, 964-973</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63118'>Download</a></td>
   </tr>
