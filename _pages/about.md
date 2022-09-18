@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D. Industrial and Operations Engineering, University of Michigan
-* M.S., 1996 B.S. (summa cum laude) Industrial and Operations Engineering, University of Michigan
+* Ph.D. in Industrial and Operations Engineering, University of Michigan
+* M.S. in Industrial and Operations Engineering, University of Michigan
 * B.S. in Industrial and Operations Engineering, University of Michigan
 
 ## Research interests
