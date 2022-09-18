@@ -209,117 +209,117 @@ tr:nth-child(even) {
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63118'>Download</a></td>
   </tr>
   <tr>
-    <td>Levitin G., Peng R., Xie M., Ng S.H. and Haim H.B. (2012), False targets vs. protection in defending parallel systems against unintentional and intentional impacts</td>
+    <td><b>False targets vs. protection in defending parallel systems against unintentional and intentional impacts</b>, with Levitin G., Peng R., Xie M., Ng S.H. and Haim H.B. (2012)</td>
     <td>International Journal of Performability Engineering, 8(5), 465-478</td>
     <td><a href='https://cde.nus.edu.sg/isem/staff/ng-szu-hui/'>Download</a></td>
   </tr>
   <tr>
-    <td>Li X., Li Y.F., Xie M. and Ng S.H. (2011), Reliability Analysis and Optimal Version Updating for Open Source Software</td>
+    <td><b>Reliability Analysis and Optimal Version Updating for Open Source Software</b>, with Li X., Li Y.F., Xie M. and Ng S.H. (2011)</td>
     <td>Information and Software Technology, 53, no.9, 929-936</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63283'>Download</a></td>
   </tr>
   <tr>
-    <td>Xie M., Li X. and Ng S.H. (2011), Risk-based Software Release Policy under Parameter Uncertainty</td>
+    <td><b>Risk-based Software Release Policy under Parameter Uncertainty</b>, with Xie M., Li X. and Ng S.H. (2011)</td>
     <td>Journal of Risk and Reliability, 225, no.1, 42-49</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/87396'>Download</a></td>
   </tr>
   <tr>
-    <td>Peng R., Levitin G., Xie M. and Ng S.H. (2011), Optimal Defence of Single Object with Imperfect False Targets</td>
+    <td><b>Optimal Defence of Single Object with Imperfect False Targets</b>, with Peng R., Levitin G., Xie M. and Ng S.H. (2011)</td>
     <td>Journal of the Operational Research Society, 62, no. 1, 134-141</td>
     <td><a href='https://www.tandfonline.com/doi/abs/10.1057/jors.2009.171'>Download</a></td>
   </tr>
   <tr>
-    <td>Xiong C.J., Xie M. and Ng S.H. (2011), Optimal Software Maintenance Policy considering Unavailable Time</td>
+    <td><b>Optimal Software Maintenance Policy considering Unavailable Time</b>, with Xiong C.J., Xie M. and Ng S.H. (2011)</td>
     <td>Journal of Software Maintenance and Evolution, 23, no. 1, 21-33</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/87144'>Download</a></td>
   </tr>
   <tr>
-    <td>Li X., Xie M. and Ng S.H. (2010), Sensitivity Analysis of Release Time of Software Reliability Models Incorporating Testing Effort with Multiple Change-points</td>
+    <td><b>Sensitivity Analysis of Release Time of Software Reliability Models Incorporating Testing Effort with Multiple Change-points</b></b>, with Li X., Xie M. and Ng S.H. (2010)</td>
     <td>Applied Mathematical Modeling, 34, no.11, 3560-3570</td>
     <td><a href='https://www.sciencedirect.com/science/article/pii/S0307904X1000106X'>Download</a></td>
   </tr>
   <tr>
-    <td>Peng R., Levitin G., Xie M. and Ng S.H. (2010), Defending Simple Series and Parallel Systems with Imperfect False Targets</td>
+    <td><b>Defending Simple Series and Parallel Systems with Imperfect False Targets</b>, with Peng R., Levitin G., Xie M. and Ng S.H. (2010)</td>
     <td>Reliability Engineering and System Safety, 95, no.6, 679-688</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63086'>Download</a></td>
   </tr>
   <tr>
-    <td>Li S.Y., Tang L.C. and Ng S.H. (2010), Nonparametric CUSUM and EWMA control charts for detecting mean shifts</td>
+    <td><b>Nonparametric CUSUM and EWMA control charts for detecting mean shifts</b>, with Li S.Y., Tang L.C. and Ng S.H. (2010)</td>
     <td>Journal of Quality Technology, 42, no. 2, 209-226</td>
     <td><a href='https://www.tandfonline.com/doi/abs/10.1080/00224065.2010.11917817'>Download</a></td>
   </tr>
   <tr>
-    <td>Ng S.H. (2010), A Bayesian Model Averaging Approach for Multiple Response Optimization</td>
+    <td><b>A Bayesian Model Averaging Approach for Multiple Response Optimization</b>, with Ng S.H. (2010)</td>
     <td>Journal of Quality Technology, 42, no. 1, 52-68</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/53894'>Download</a></td>
   </tr>
   <tr>
-    <td>Tan M.H.Y. and Ng S.H. (2009), Estimation of the Mean and Variance Response Surfaces when the Means and Variances of the Noise variables are Unknown</td>
+    <td><b>Estimation of the Mean and Variance Response Surfaces when the Means and Variances of the Noise variables are Unknown</b>, with Tan M.H.Y. and Ng S.H. (2009)</td>
     <td>IIE Transactions, 41, no. 11, 942-956</td>
     <td><a href='https://scholars.cityu.edu.hk/en/publications/estimation-of-the-mean-and-variance-response-surfaces-when-the-means-and-variances-of-the-noise-variables-are-unknown(12f4be91-be14-4e97-b4b4-b5f1465460fd).html'>Download</a></td>
   </tr>
   <tr>
-    <td>Long Q., Xie M., Ng S.H. and Levitin G. (2008), Reliability analysis and optimization of weighted voting systems with continuous states input</td>
+    <td><b>Reliability analysis and optimization of weighted voting systems with continuous states input</b>, with Long Q., Xie M., Ng S.H. and Levitin G. (2008)</td>
     <td>European Journal of Operational Research, 191, no. 1, 240-252</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63284'>Download</a></td>
   </tr>
   <tr>
-    <td>Bai C.G., Cai K.Y., Hu Q.P. and Ng S.H. (2008), On the trend of remaining software defects estimation</td>
+    <td><b>On the trend of remaining software defects estimation</b>, with Bai C.G., Cai K.Y., Hu Q.P. and Ng S.H. (2008)</td>
     <td>IEEE Transactions on Systems, Man, and Cybernetics Part A – Systems and Humans, 38, no. 5, 1129-1142</td>
     <td><a href='https://scholar.google.com.sg/citations?user=8BcgTB0AAAAJ&hl=th'>Download</a></td>
   </tr>
   <tr>
-    <td>Dai Y.S., Xie M., Long Q. and Ng S.H. (2007), Uncertainty analysis in software reliability modeling by Bayesian approach with maximum-entropy principle</td>
-    <td>Dai Y.S., Xie M.,IEEE Transactions on Software Engineering, 33, no. 11, 781-795 Long Q. and Ng S.H. (2007), Uncertainty analysis in software reliability modeling by Bayesian approach with maximum-entropy principle</td>
+    <td><b>Uncertainty analysis in software reliability modeling by Bayesian approach with maximum-entropy principle</b>, with Dai Y.S., Xie M., Long Q. and Ng S.H. (2007)</td>
+    <td>IEEE Transactions on Software Engineering, 33, no. 11, 781-795 Long Q. and Ng S.H. (2007), Uncertainty analysis in software reliability modeling by Bayesian approach with maximum-entropy principle</td>
     <td><a href='https://www.researchgate.net/publication/3189783_Uncertainty_Analysis_in_Software_Reliability_Modeling_by_Bayesian_Analysis_with_Maximum-Entropy_Principle'>Download</a></td>
   </tr>
   <tr>
-    <td>Ng S.H., Xu K. and Wong W.K. (2007), Optimization of multiple response surfaces with secondary constraints for improving a radiography inspection process</td>
+    <td><b>Optimization of multiple response surfaces with secondary constraints for improving a radiography inspection process</b>, with Ng S.H., Xu K. and Wong W.K. (2007)</td>
     <td>Quality Engineering, 19, no. 1, 53-65</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63240'>Download</a></td>
   </tr>
   <tr>
-    <td>Xie M., Hu Q.P., Wu Y.P. and Ng S.H. (2007), A study of software fault detection and correction modeling</td>
+    <td><b>A study of software fault detection and correction modeling</b>, with Xie M., Hu Q.P., Wu Y.P. and Ng S.H. (2007)</td>
     <td>Quality and Reliability Engineering International, 23, no. 4, 459-470</td>
     <td><a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/qre.827'>Download</a></td>
   </tr>
   <tr>
-    <td>Wu Y.P., Hu Q.P., Xie M. and Ng S.H. (2007), Modeling and Analysis of Software Fault Detection and Correction Process by Considering Time Dependency</td>
+    <td><b>Modeling and Analysis of Software Fault Detection and Correction Process by Considering Time Dependency</b>, with Wu Y.P., Hu Q.P., Xie M. and Ng S.H. (2007)</td>
     <td>IEEE Transactions on Reliability, 56, no. 4, 629-642</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63185'>Download</a></td>
   </tr>
   <tr>
-    <td>Hu Q.P., Xie M., Ng S.H. and Levitin G. (2007), Robust recurrent neural network modeling for software fault detection and correction prediction</td>
+    <td><b>Robust recurrent neural network modeling for software fault detection and correction prediction</b>, with Hu Q.P., Xie M., Ng S.H. and Levitin G. (2007)</td>
     <td>Reliability Engineering and System Safety, 92, no. 3, 332-340</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/87215'>Download</a></td>
   </tr>
   <tr>
-    <td>Hu Q.P., Xie M. and Ng S.H. (2007), Software Reliability Predictions using Artificial Neural Networks</td>
+    <td><b>Software Reliability Predictions using Artificial Neural Networks</b>, with Hu Q.P., Xie M. and Ng S.H. (2007)</td>
     <td>Studies in Computational Intelligence, 40, 197-222</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63325'>Download</a></td>
   </tr>
   <tr>
-    <td>Wong W.K., Ng S.H. and Xu K. (2006), A statistical investigation and optimization of an industrial radiography inspection process for aero-engine components</td>
+    <td><b>A statistical investigation and optimization of an industrial radiography inspection process for aero-engine components</b>,with Wong W.K., Ng S.H. and Xu K. (2006)</td>
     <td>Quality and Reliability Engineering International, 22, no.3, 321-334</td>
     <td><a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/qre.698'>Download</a></td>
   </tr>
   <tr>
-    <td>Bai C.G., Hu Q.P., Xie M. and Ng S.H. (2005), Software failure prediction based on a Markov Bayesian network model</td>
+    <td><b>Software failure prediction based on a Markov Bayesian network model</b>, with Bai C.G., Hu Q.P., Xie M. and Ng S.H. (2005)</td>
     <td>Journal of Systems and Software, 74, no. 3, 275-282</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63321'>Download</a></td>
   </tr>
   <tr>
-    <td>Zhang T., Xie M., Tang L.C. and Ng S.H. (2005), Reliability and modelling of systems integrated with firmware and hardware</td>
+    <td><b>Reliability and modelling of systems integrated with firmware and hardware</b>, with Zhang T., Xie M., Tang L.C. and Ng S.H. (2005)</td>
     <td>International Journal of Reliability, Quality and Safety Engineering, 12, no. 3, 227-240</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/87390'>Download</a></td>
   </tr>
   <tr>
-    <td>Dai Y.S., Xie M., Poh K.L. and Ng S.H. (2004), A model for correlated failures in N-version programming</td>
+    <td><b>A model for correlated failures in N-version programming</b>, with Dai Y.S., Xie M., Poh K.L. and Ng S.H. (2004)</td>
     <td>IIE Transactions, 36, no. 12, 1183-1192</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/51846'>Download</a></td>
   </tr>
   <tr>
-    <td>Ng S.H. and Chick S.E. (2004), Design of follow-up experiments for improving model discrimination and parameter estimation</td>
+    <td><b>Design of follow-up experiments for improving model discrimination and parameter estimation</b>, with Ng S.H. and Chick S.E. (2004)</td>
     <td>Naval Research Logistics, 51, no. 8, 1129-1148</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/63092'>Download</a></td>
   </tr>
@@ -328,112 +328,112 @@ tr:nth-child(even) {
 <h3>Selected articles in published conference proceedings</h3>
 <table>
   <tr>
-    <td>Wang H., Ng S.H., Zhang X. (2020), “A Gaussian Process Based Algorithm for Stochastic Simulation Optimization with Input Distribution Uncertainty</td>
+    <td><b>A Gaussian Process Based Algorithm for Stochastic Simulation Optimization with Input Distribution Uncertainty</b>, with Wang H., Ng S.H., Zhang X. (2020)</td>
     <td>Proceedings of the Winter Simulation Conference 2020</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3466184.3466518'>Download</a></td>
   </tr>
   <tr>
-    <td>Xuereb M., Ng S.H., Pedrielli G. (2020), “Stochastic Gaussian Process Model Averaging for High Dimensional Inputs”</td>
+    <td><b>Stochastic Gaussian Process Model Averaging for High Dimensional Inputs</b>, with Xuereb M., Ng S.H., Pedrielli G. (2020)</td>
     <td>Proceedings of the Winter Simulation Conference 2020</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3466184.3466225'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang S., Ng S.H. (2020), “Partition Based Bayesian Optimization for Stochastic Simulations”</td>
+    <td><b>Partition Based Bayesian Optimization for Stochastic Simulations</b>, with Wang S., Ng S.H. (2020)</td>
     <td>Proceedings of the Winter Simulation Conference 2020</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3466184.3466510'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang S., Ng S.H., Haskell W.B. (2018), “Quantile Simulation Optimization with a Stochastic Co-Kriging Model”</td>
+    <td><b>Quantile Simulation Optimization with a Stochastic Co-Kriging Model</b>, with Wang S., Ng S.H., Haskell W.B. (2018)</td>
     <td>Proceedings of the Winter Simulation Conference 2018</td>
     <td><a href='https://www.semanticscholar.org/paper/QUANTILE-SIMULATION-OPTIMIZATION-WITH-STOCHASTIC-Wang-Ng/bbffbda2fec2776ad1d1cf05f39ca235ff446988'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang H., Yuan J., Ng S.H. (2018), “Informational Approach to Global Optimization with Input Uncertainty for Homoscedastic Stochastic Simulation”</td>
+    <td><b>Informational Approach to Global Optimization with Input Uncertainty for Homoscedastic Stochastic Simulation</b>, with Wang H., Yuan J., Ng S.H. (2018)</td>
     <td>Proceedings of the 2018 IEEE International Conference on Industrial Engineering and Engineering (received outstanding paper award)</td>
     <td><a href='https://www.researchgate.net/publication/330396550_Informational_Approach_to_Global_Optimization_with_Input_Uncertainty_for_Homoscedastic_Stochastic_Simulation'>Download</a></td>
   </tr>
   <tr>
-    <td>Wang S., Ng S.H. (2017), “A joint Gaussian process metamodel to improve quantile predictions”</td>
+    <td><b>A joint Gaussian process metamodel to improve quantile predictions</b>, with Wang S., Ng S.H. (2017)</td>
     <td>Proceedings of the Winter Simulation Conference 2017</td>
     <td><a href='https://www.informs-sim.org/wsc17papers/includes/files/152.pdf'>Download</a></td>
   </tr>
   <tr>
-    <td>Mathesen L., Pedrielli G., Ng S.H. (2017), “Trust region based stochastic optimization with adaptive restart: A family of global optimization algorithms”</td>
+    <td><b>Trust region based stochastic optimization with adaptive restart: A family of global optimization algorithms</b>, with Mathesen L., Pedrielli G., Ng S.H. (2017)</td>
     <td>Proceedings of the Winter Simulation Conference 2017</td>
     <td><a href='https://www.researchgate.net/publication/322319638_Trust_region_based_stochastic_optimization_with_adaptive_restart_A_family_of_global_optimization_algorithms'>Download</a></td>
   </tr>
   <tr>
-    <td>Meng Q., Ng S.H. (2017), “Enhancing pattern search for global optimization with an additive global and local Gaussian Process model”</td>
+    <td><b>Enhancing pattern search for global optimization with an additive global and local Gaussian Process model</b>, with Meng Q., Ng S.H. (2017)</td>
     <td>Proceedings of the Winter Simulation Conference 2017</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3242181.3242356'>Download</a></td>
   </tr>
   <tr>
-    <td>Meng Q., Ng S.H. (2016), “Combined global and local method for stochastic simulation optimization with an AGLGP model”</td>
+    <td><b>Combined global and local method for stochastic simulation optimization with an AGLGP model</b>, with Meng Q., Ng S.H. (2016)</td>
     <td>Proceedings of the Winter Simulation Conference 2016</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3042094.3042208'>Download</a></td>
   </tr>
   <tr>
-    <td>Meng Q., Ng S.H. (2015), “An Additive Global and Local Gaussian Process Model for Large Data Sets”</td>
+    <td><b>An Additive Global and Local Gaussian Process Model for Large Data Sets</b>, with Meng Q., Ng S.H. (2015)</td>
     <td>Proceedings of the Winter Simulation Conference 2015</td>
     <td><a href='https://www.informs-sim.org/wsc15papers/043.pdf'>Download</a></td>
   </tr>
   <tr>
-    <td>Pedrielli G., Ng S.H. (2015), “Kriging-based Simulation Optimization: A Stochastic Recursion Perspective”</td>
+    <td><b>Kriging-based Simulation Optimization: A Stochastic Recursion Perspective</b>, with Pedrielli G., Ng S.H. (2015)</td>
     <td>Proceedings of the Winter Simulation Conference 2015</td>
     <td><a href='https://asu.pure.elsevier.com/en/publications/kriging-based-simulation-optimization-a-stochastic-recursion-pers'>Download</a></td>
   </tr>
   <tr>
-    <td>Chen X.Y., Pedrielli G., Ng S.H. (2014), “SNAT: Simulation-Based Search for Navigational Safety. The case of Singapore Strait”</td>
+    <td><b>SNAT: Simulation-Based Search for Navigational Safety. The case of Singapore Strait</b>, with Chen X.Y., Pedrielli G., Ng S.H. (2014)</td>
     <td>Proceedings of the Winter Simulation Conference 2014, Pages 589-600, Institute of Electrical and Electronics Engineers. Savannah, USA</td>
     <td><a href='https://asu.pure.elsevier.com/en/publications/snat-simulation-based-search-for-navigation-safety-the-case-of-si'>Download</a></td>
   </tr>
   <tr>
-    <td>Yuan J., Ng S.H. (2013), “An Entropy Based Sequential Calibration Approach for Stochastic Computer Models”</td>
+    <td><b>An Entropy Based Sequential Calibration Approach for Stochastic Computer Models</b>, with Yuan J., Ng S.H. (2013)</td>
     <td>Proceedings of the Winter Simulation Conference 2013, Pages 589-600, Institute of Electrical and Electronics Engineers. Washington D.C., USA</td>
     <td><a href='https://www.researchgate.net/publication/269329533_An_entropy_based_sequential_calibration_approach_for_stochastic_computer_models'>Download</a></td>
   </tr>
   <tr>
-    <td>Yin J., Ng S.H., Ng K.M. (2010), “A Bayesian Metamodeling Approach for Stochastic Simulations”</td>
+    <td><b>A Bayesian Metamodeling Approach for Stochastic Simulations</b>, with Yin J., Ng S.H., Ng K.M. (2010)</td>
     <td>Proceedings of the Winter Simulation Conference 2010, Pages 1055-1066, Institute of Electrical and Electronics Engineers. Baltimore, MD, USA</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/72227'>Download</a></td>
   </tr>
   <tr>
-    <td>Yin J., Ng S.H., Ng K.M. (2009), “A Study on the Effects of Parameter Estimation on Kriging Model’s Prediction Error in Stochastic Simulations”</td>
+    <td><b>A Study on the Effects of Parameter Estimation on Kriging Model’s Prediction Error in Stochastic Simulations</b>, with Yin J., Ng S.H., Ng K.M. (2009)</td>
     <td>Proceedings of the Winter Simulation Conference 2009, Pages 674-685, Institute of Electrical and Electronics Engineers. Austin, Texas, USA</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/72266'>Download</a></td>
   </tr>
   <tr>
-    <td>Yin J., Ng S.H., Ng K.M. (2008), “Kriging Model with Modified Nugget Effect”</td>
+    <td><b>Kriging Model with Modified Nugget Effect</b>, with Yin J., Ng S.H., Ng K.M. (2008)</td>
     <td>Proceedings of the IEEE International Conference on Industrial Engineering and Engineering Management 2008, Pages 1714-1718, Institute of Electrical and Electronics Engineers.  Singapore</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/72343'>Download</a></td>
   </tr>
   <tr>
-    <td>Long Q., Xie M. and Ng S.H. (2006), “Reliability Analysis of Weighted Voting Systems with Continuous State Input”</td>
+    <td><b>Reliability Analysis of Weighted Voting Systems with Continuous State Input</b>, with Long Q., Xie M. and Ng S.H. (2006)</td>
     <td>Proceedings of the first IEEE International Conference on System Integration and Reliability Improvements. Hanoi, Vietnam</td>
     <td><a href='https://www.researchgate.net/publication/4940246_Reliability_analysis_and_optimization_of_weighted_voting_systems_with_continuous_states_input'>Download</a></td>
   </tr>
   <tr>
-    <td>Hu Q.P., Dai Y.S., Xie M. and Ng S.H. (2006), “Early software reliability prediction with extended ANN model”</td>
+    <td><b>Early software reliability prediction with extended ANN model</b>, with Hu Q.P., Dai Y.S., Xie M. and Ng S.H. (2006)</td>
     <td>Proceedings of the IEEE International Computer Software and Applications Conference. Pages 1325-1331. Chicago, Illinois, USA</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/72323'>Download</a></td>
   </tr>
   <tr>
-    <td>Zhang T.L., Xie M., Tang L.C. and Ng S.H. (2004), “Reliability and modeling of systems integrated with firmware and hardware”</td>
+    <td><b>Reliability and modeling of systems integrated with firmware and hardware</b>, with Zhang T.L., Xie M., Tang L.C. and Ng S.H. (2004)</td>
     <td>Proceedings of 2004 Asian International Workshop on Advanced Reliability Modeling, Pages 617-624.  Hiroshima City, Japan (received the best paper award)</td>
     <td><a href='https://www.researchgate.net/publication/332971234_Modified_Beta_Linear_Exponential_Distribution_with_Hydrologic_Applications'>Download</a></td>
   </tr>
   <tr>
-    <td>Riano G., Ng S.H., Serfozo R., Hackman S., Lendermann P., Chan L.P. (2003), “Benchmarking of a Stochastic Production Planning Model in a Simulation Testbed”</td>
+    <td><b>Benchmarking of a Stochastic Production Planning Model in a Simulation Testbed</b>, with Riano G., Ng S.H., Serfozo R., Hackman S., Lendermann P., Chan L.P. (2003)</td>
     <td>Proceedings of the Winter Simulation Conference 2003, Volume 2, Pages 1183-1191, Institute of Electrical and Electronics Engineers.  New Orleans, Louisiana, USA</td>
     <td><a href='https://www.researchgate.net/publication/4053632_Benchmarking_of_a_stochastic_production_planning_model_in_a_simulation_testbed'>Download</a></td>
   </tr>
   <tr>
-    <td>Chick S.E., Ng S.H. (2002) “Joint Criterion for Factor Identification and Parameter Estimation”</td>
+    <td><b>Joint Criterion for Factor Identification and Parameter Estimation</b>, with Chick S.E., Ng S.H. (2002)</td>
     <td>Proceedings of the Winter Simulation Conference 2002, Volume 1, Pages 400-406, Institute of Electrical and Electronics Engineers.  San Diego, California, USA</td>
     <td><a href='https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.6050&rep=rep1&type=pdf'>Download</a></td>
   </tr>
   <tr>
-    <td>Ng S.H., Chick S.E. (2001) “Reducing Input Parameter Uncertainty for Simulations”</td>
+    <td><b>Reducing Input Parameter Uncertainty for Simulations</b>, with Ng S.H., Chick S.E. (2001)</td>
     <td>Proceedings of the Winter Simulation Conference 2001, Volume 1, Pages 364-371, Institute of Electrical and Electronics Engineers.  Arlington, Virginia, USA</td>
     <td><a href='https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/NgC.pdf'>Download</a></td>
   </tr>
