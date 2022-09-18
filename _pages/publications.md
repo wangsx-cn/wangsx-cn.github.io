@@ -23,13 +23,13 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
-table th:first-of-type {
-    width: 55%;
+tr td:first-child {
+    width: 50%;
 }
-table th:nth-of-type(2) {
-    width: 35%;
+tr td:nth-child(2) {
+    width: 40%;
 }
-table th:nth-of-type(3) {
+tr td:nth-child(3) {
     width: 10%;
 }
 
