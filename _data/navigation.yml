@@ -7,13 +7,7 @@ main:
     url: /group/ 
     
   - title: "Teaching"
-    url: /teaching/  
-    
-  - title: "Talks"
-    url: /talks/ 
-
-  - title: "Grant and Award"
-    url: /grant/
+    url: /teaching/
     
   - title: "Software"
     url: /software/
