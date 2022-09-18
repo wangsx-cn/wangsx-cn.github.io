@@ -11,6 +11,7 @@ redirect_from:
 ## Education
 * Ph.D. Industrial and Operations Engineering, University of Michigan
 * M.S., 1996 B.S. (summa cum laude) Industrial and Operations Engineering, University of Michigan
+* B.S. in Industrial and Operations Engineering, University of Michigan
 
 ## Research interests
 * Applied Statistical Modeling and Analysis
