@@ -22,6 +22,17 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+table th:first-of-type {
+    width: 55%;
+}
+table th:nth-of-type(2) {
+    width: 35%;
+}
+table th:nth-of-type(3) {
+    width: 10%;
+}
+
 </style>
 
 <body>
