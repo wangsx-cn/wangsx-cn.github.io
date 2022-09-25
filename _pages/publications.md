@@ -137,11 +137,11 @@ tr td:nth-child(3) {
   <tr>
     <td><b>Reducing the carbon intensity of international shipping–the impact of energy efficiency measures</b>, with Sou S.W., Goh T., Lee X.N., Ng S.H., Chai K.H. (2022)</td>
     <td>Energy Policy</td>
-    <td><a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4118045'>Download</a></td>
+    <td><a href='https://authors.elsevier.com/c/1fkKT_6se4Hb4A'>Download</a></td>
   </tr>
   <tr>
-    <td><b>Driving Factors of Changes in International Maritime Energy Consumption</b>, with Zhong S., Goh T., Ang B.W., Su B., Ng S.H., Chai K.H. (2021)</td>
-    <td>Microdata Evidence 2014 - 2017, Energy Policy, 154, 112288</td>
+    <td><b>Driving Factors of Changes in International Maritime Energy Consumption: Microdata Evidence 2014 - 2017</b>, with Zhong S., Goh T., Ang B.W., Su B., Ng S.H., Chai K.H. (2021)</td>
+    <td>Energy Policy, 154, 112288</td>
     <td><a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766557'>Download</a></td>
   </tr>
   <tr>
