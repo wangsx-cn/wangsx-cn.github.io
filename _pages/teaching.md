@@ -53,7 +53,7 @@ tr:nth-child(even) {
 <td> Required M.Sc. course that covers the fundamentals of probability, stochastic processes and introduces discrete-event simulation</td>
 </tr>
 <tr>
-<td>tIE5122 Statistical Quality Control</td>
+<td>IE5122 Statistical Quality Control</td>
 <td> Elective course for M.Sc. students that covers the basic principles to state-of-the-art concepts in statistical quality control</td>
 </tr>
 <tr>
