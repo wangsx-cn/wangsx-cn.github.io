@@ -55,7 +55,7 @@ tr td:nth-child(3) {
     <td><a href='https://arxiv.org/abs/2201.10255'>Download</a></td>
   </tr>
     <tr>
-    <td><b>A nonparametric Bayesian approach for simulation optimization with input uncertainty</b>, with Wang H., Zhang X., Ng S.H. (2021)</td>
+    <td><b>A Nonparametric Bayesian Approach for Simulation Optimization with Input Uncertainty</b>, with Wang H., Zhang X., Ng S.H. (2021)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2008.02154'>Download</a></td>
   </tr>
