@@ -39,32 +39,26 @@ tr td:nth-child(3) {
 
 <h3>Simulation analysis and optimization</h3>
 <table>
-  
   <tr>
     <td><b>Adjusted Expected Improvement for Cumulative Regret Minimization in Noisy Bayesian Optimization</b>, with Hu S., Wang H., Dai Z., Low B.K.H., Ng S.H. (2022)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2205.04901'>Download</a></td>
   </tr>
-  
     <tr>
     <td><b>A Model Aggregation Approach for High-dimensional Large-scale Optimization</b>, with  Wang H., Zhang E., Ng S.H., Pedrielli G. (2022)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2205.07525'>Download</a></td>
   </tr>
-  
     <tr>
     <td><b>Enhanced Global Optimization with Parallel Global and Local Structures</b>, with Wang H., Wang S.,Meng Q., Ng S.H. (2022)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2201.10255'>Download</a></td>
   </tr>
-  
     <tr>
     <td><b>A nonparametric Bayesian approach for simulation optimization with input uncertainty</b>, with Wang H., Zhang X., Ng S.H. (2021)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2008.02154'>Download</a></td>
   </tr>
-  
-  
   <tr>
     <td><b>Combined Global and Local Optimization with Gaussian Process Models</b>, with Meng Q., Wang S., Ng S.H. (2022)</td>
     <td>INFORMS Journal on Computing, 34(1), 622-637</td>
