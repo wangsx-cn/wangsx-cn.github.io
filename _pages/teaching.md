@@ -62,7 +62,7 @@ tr:nth-child(even) {
 </tr>
 <tr>
 <td>IE6004 Advanced Engineering Probability and Simulation</td>
-<td>level course required for Ph.D. level students covering in depth the foundational aspects of probability, stochastic processes and stochastic simulation</td>
+<td>Advanced level course required for Ph.D. level students covering in depth the foundational aspects of probability, stochastic processes and stochastic simulation</td>
 </tr>
 <tr>
 <td>IE6099 ISE Research Methodology</td>
