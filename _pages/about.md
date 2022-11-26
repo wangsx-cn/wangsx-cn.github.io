@@ -1,33 +1,30 @@
 ---
 permalink: /
 title: " "
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## Employment
+* Institute of Data Science, National University of Singapore
+  - Research Fellow
+  - Advisor: [Prof. Vincent Tan](https://vyftan.github.io/)
+  - Mar 2022 – Present
+
 ## Education
-* Ph.D. in Industrial and Operations Engineering, University of Michigan
-* M.S. in Industrial and Operations Engineering, University of Michigan
-* B.S. in Industrial and Operations Engineering, University of Michigan
-
-## Research interests
-* Applied Statistical Modeling and Analysis
-* Simulation Analysis and Optimization
-* Maritime Transport and Efficiency
-
-## Current university appointments and affiliations
-* Head, Department of Industrial Systems Engineering & Management, Nov 2021 – present
-* Acting Head, Department of Industrial Systems Engineering & Management, Jan 2020 – Oct 2021
-* Track Leader (shipping transport and efficiency) – Centre for Maritime Studies, National University of Singapore, 2012 – present 
-* Affiliate Researcher (energy for maritime transport) – Energy Studies Institute, National University of Singapore, 2018 – present   
-* Fellow – Global Centre for Maritime Decarbonisation (GCMD), Jan 2022 – Dec 2023
-
+* Ph.D. in Industrial and Operations Engineering, National University of Singapore
+  - Advisor: [Prof. Andrew Lim](https://www.limandrew.org)
+  - Aug 2018 – Dec 2021
+  - Thesis: [Distributionally Robust State Estimation](../Supports/Publications/Bear/[Wang Shixiong] PhD_Thesis.pdf)[\[Slides\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis)[\[Codes\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis)[\[Formal Access\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
+* M.Eng. in Systems and Control Engineering, Northwestern Polytechnical University
+  - Advisor: Prof. Jianhua He
+  - Sep 2016 – Mar 2018
+* B.Eng. in Detection, Guidance, and Control Technology, Northwestern Polytechnical University
+  - Sep 2012 – Jun 2016
 
 ## Contact
-* Phone: 6516 3095
-* Email: isensh@nus.edu.sg
-* Office: E1 – 08 – 09
+* Email: s.wang@u.nus.edu
 
