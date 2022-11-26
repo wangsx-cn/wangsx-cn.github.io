@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ng Szu Hui"
+title                    : "Shixiong Wang"
 title_separator          : "-"
-name                     : &name "Ng Szu Hui"
-description              : &description "Associate Professor at National University of Singapore"
-url                      : https://bonusisem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shixiong Wang"
+description              : &description "Research Fellow, Institute of Data Science, National University of Singapore"
+url                      : https://bear-wangsx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bonusisem.github.io"
+repository               : "bear-wangsx.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ng Szu Hui"
-  avatar           : "prof_pic_crop.jpg"
-  bio              : "Associate Professor, \n\n Head of Department of Industrial Systems Engineering & Management, \n\n  National University of Singapore"
+  name             : "Shixiong Wang"
+  avatar           : "profile.jpg"
+  bio              : "Research Fellow, \n\nInstitute of Data Science, \n\nNational University of Singaporee"
   location         : "Singapore"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=N9QE_BYAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=ph1whhMAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Shixiong-Wang-4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"bonusisem"
+  github           : "https://github.com/Spratm-Asleaf" #"bear-wangsx"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7928-6918" #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
