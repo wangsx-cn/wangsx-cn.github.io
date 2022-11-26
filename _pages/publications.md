@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<html>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -34,8 +33,6 @@ tr td:nth-child(3) {
 }
 
 </style>
-
-<body>
   
 <h3>Navigation</h3>
   <p>
@@ -105,8 +102,6 @@ tr td:nth-child(3) {
       </p>
     </li> 
   </ol>
-  
-</html>
 
 
 
