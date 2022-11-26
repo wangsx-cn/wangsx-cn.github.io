@@ -1,33 +1,18 @@
 # main links links
 main:
+  - title: "Biography"
+    url: /biography/ 
+    
+  - title: "Research"
+    url: /research/ 
+    
   - title: "Publications"
     url: /publications/
+    
+  - title: "Circle"
+    url: /circle/
+    
+  - title: "Open Sources"
+    url: /open_sources/
+    
 
-  - title: "Group"
-    url: /group/ 
-    
-  - title: "Teaching"
-    url: /teaching/
-    
-  - title: "Software"
-    url: /software/
-       
-  - title: "Recruitment"
-    url: /recruitment/
-    
- 
-    
-#   - title: "Portfolio"
-#     url: /portfolio/
- 
-#   - title: "Talks"
-#     url: /talks/    
-
-#   - title: "Blog Posts"
-#     url: /year-archive/
-    
-#   - title: "CV"
-#     url: /cv/
-    
-#   - title: "Guide"
-#     url: /markdown/
