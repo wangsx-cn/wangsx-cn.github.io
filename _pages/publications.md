@@ -4,37 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-
-tr td:first-child {
-    width: 50%;
-}
-tr td:nth-child(2) {
-    width: 40%;
-}
-tr td:nth-child(3) {
-    width: 10%;
-}
-
-</style>
   
-<h3>Navigation</h3>
+<h3>Navigation By Topic</h3>
   <p>
     &emsp;&emsp;&ensp;<a href="#ssp">Statistical Signal Processing</a><br>
     &emsp;&emsp;&ensp;<a href="#it">Intelligent Transportation</a>
