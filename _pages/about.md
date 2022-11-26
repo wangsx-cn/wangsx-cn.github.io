@@ -10,7 +10,7 @@ redirect_from:
 
 ## Employment
 * [Institute of Data Science](https://ids.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/)
-  - Research Fellow
+  - [Research Fellow](https://ids.nus.edu.sg/people-researchers.html)
   - Advisor: [Prof. Vincent Tan](https://vyftan.github.io/)
   - Mar 2022 – Present
 
