@@ -44,7 +44,7 @@ tr td:nth-child(3) {
   </p>
 
 <h3 id="ssp">Statistical Signal Processing</h3>
-  <ol reversed="">		<!-- u: unordered, l: list-->
+  <ol reversed>		<!-- u: unordered, l: list-->
     <li>
       <p>
         <a href="https://ieeexplore.ieee.org/abstract/document/9872130">Distributionally Robust State Estimation for Nonlinear Systems</a>
@@ -76,7 +76,7 @@ tr td:nth-child(3) {
 
 
 <h3 id="it">Intelligent Transportation</h3>
-  <ol reversed="">		<!-- u: unordered, l: list-->
+  <ol reversed>		<!-- u: unordered, l: list-->
     <li>
       <p>
         <a href="https://ieeexplore.ieee.org/abstract/document/9872130">Distributionally Robust State Estimation for Nonlinear Systems</a>
