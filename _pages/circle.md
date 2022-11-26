@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: /recruitment/
+permalink: /circle/
 author_profile: true
 ---
 
