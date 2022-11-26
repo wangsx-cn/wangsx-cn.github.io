@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home | Spratm-Asleaf"
-title_separator          : "|"
+title                    : "Home"
+title_separator          : "-"
 name                     : &name "Shixiong Wang"
 description              : &description "Research Fellow,<br>National University of Singapore"
 url                      : https://bear-wangsx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
