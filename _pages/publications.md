@@ -54,7 +54,6 @@ tr td:nth-child(3) {
         IEEE Transactions on Signal Processing, Vol. 70, pp. 4408-4423, Aug 2022
       </p>
     </li> 
-
     <li>
       <p>
         <a href="https://ieeexplore.ieee.org/abstract/document/9656678">Distributionally Robust State Estimation for Linear Systems Subject to Uncertainty and Outlier</a>
@@ -64,7 +63,6 @@ tr td:nth-child(3) {
         IEEE Transactions on Signal Processing, Vol. 70, pp. 452-467, Dec 2021
       </p>
     </li> 
-
     <li>
       <p>
         <a href="https://ieeexplore.ieee.org/abstract/document/9563203">Robust State Estimation for Linear Systems Under Distributional Uncertainty</a>
@@ -88,7 +86,6 @@ tr td:nth-child(3) {
         IEEE Transactions on Signal Processing, Vol. 70, pp. 4408-4423, Aug 2022
       </p>
     </li> 
-
     <li>
       <p>
         <a href="https://ieeexplore.ieee.org/abstract/document/9656678">Distributionally Robust State Estimation for Linear Systems Subject to Uncertainty and Outlier</a>
@@ -98,7 +95,6 @@ tr td:nth-child(3) {
         IEEE Transactions on Signal Processing, Vol. 70, pp. 452-467, Dec 2021
       </p>
     </li> 
-
     <li>
       <p>
         <a href="https://ieeexplore.ieee.org/abstract/document/9563203">Robust State Estimation for Linear Systems Under Distributional Uncertainty</a>
@@ -109,7 +105,7 @@ tr td:nth-child(3) {
       </p>
     </li> 
   </ol>
-
+  
 </html>
 
 
