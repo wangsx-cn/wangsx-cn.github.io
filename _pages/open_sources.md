@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: /software/
+permalink: /open_sources/
 author_profile: true
 ---
 
