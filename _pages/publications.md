@@ -18,21 +18,21 @@ author_profile: true
     <h3 id="se">&emsp;State Estimation</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://ieeexplore.ieee.org/abstract/document/9872130">Distributionally Robust State Estimation for Nonlinear Systems</a>
+                <a href="https://ieeexplore.ieee.org/document/9872130">Distributionally Robust State Estimation for Nonlinear Systems</a>
                 <br>
                 <b>Shixiong Wang</b>
                 <br>
                 IEEE Transactions on Signal Processing, Vol. 70, pp. 4408-4423, Aug 2022
             </li> 
             <li>
-                <a href="https://ieeexplore.ieee.org/abstract/document/9656678">Distributionally Robust State Estimation for Linear Systems Subject to Uncertainty and Outlier</a>
+                <a href="https://ieeexplore.ieee.org/document/9656678">Distributionally Robust State Estimation for Linear Systems Subject to Uncertainty and Outlier</a>
                 <br>
                 <b>Shixiong Wang</b> and Zhisheng Ye
                 <br>
                 IEEE Transactions on Signal Processing, Vol. 70, pp. 452-467, Dec 2021
             </li> 
             <li>
-                <a href="https://ieeexplore.ieee.org/abstract/document/9563203">Robust State Estimation for Linear Systems Under Distributional Uncertainty</a>
+                <a href="https://ieeexplore.ieee.org/document/9563203">Robust State Estimation for Linear Systems Under Distributional Uncertainty</a>
                 <br>
                 <b>Shixiong Wang</b>, Zhongming Wu, and Andrew Lim
                 <br>
@@ -49,7 +49,7 @@ author_profile: true
     <h3 id="ts">&emsp;Time Series</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://ieeexplore.ieee.org/abstract/document/9354187">A Model for Non-Stationary Time Series and its Applications in Filtering and Anomaly Detection</a>
+                <a href="https://ieeexplore.ieee.org/document/9354187">A Model for Non-Stationary Time Series and its Applications in Filtering and Anomaly Detection</a>
                 <br>
                 <b>Shixiong Wang</b>, Chongshou Li, and Andrew Lim
                 <br>
@@ -59,7 +59,7 @@ author_profile: true
     <h3 id="pt">&emsp;Positioning and Tracking</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://ieeexplore.ieee.org/abstract/document/9427087">Denoising, Outlier/Dropout Correction, and Sensor Selection in Range-Based Positioning
+                <a href="https://ieeexplore.ieee.org/document/9427087">Denoising, Outlier/Dropout Correction, and Sensor Selection in Range-Based Positioning
 </a>
                 <br>
                 <b>Shixiong Wang</b>, Zhongming Wu, and Andrew Lim
@@ -70,14 +70,14 @@ author_profile: true
 <h2 id="it">Intelligent Transportation</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
         <li>
-            <a href="https://ieeexplore.ieee.org/abstract/document/9656678">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
+            <a href="https://ieeexplore.ieee.org/document/9352528">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
             <br>
             <b>Shixiong Wang</b>, Chongshou Li, and Andrew Lim
             <br>
             IEEE Transactions on Intelligent Transportation Systems, Vol. 23, pp. 6347-6356, Feb 2021
         </li> 
         <li>
-            <a href="https://ieeexplore.ieee.org/abstract/document/9563203">Accurate Tracking, Collision Detection, and Optimal Scheduling of Airport Ground Support Equipment</a>
+            <a href="https://ieeexplore.ieee.org/document/9125922">Accurate Tracking, Collision Detection, and Optimal Scheduling of Airport Ground Support Equipment</a>
             <br>
             <b>Shixiong Wang</b>, Yuxin Che, Huangjie Zhao, and Andrew Lim
             <br>
