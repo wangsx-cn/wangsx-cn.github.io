@@ -12,6 +12,9 @@ main:
   - title: "Circle"
     url: /circle/
     
+  - title: "Comments"
+    url: /comments/
+    
   - title: "Open Sources"
     url: /open_sources/
     
