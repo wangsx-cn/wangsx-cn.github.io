@@ -19,7 +19,7 @@ I have publications with:
   - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
 
 ## Trusted Collabarators
-+ __I have preprints with___:
++ __I have preprints with__:
   * [Prof. Yang Liu](https://www.nuslumos.org/)
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System) Modeling and Analysis
   * [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
