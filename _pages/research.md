@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 ## Publication Topics
-<p align="justify">
-My up-to-now publication topics include statistical signal processing (e.g., optimal estimation theory, time series analysis, and target tracking), statistical machine learning (e.g., generalization error theory), and intelligent transportation. 
-</p>
+My up-to-now publication topics include statistical signal processing (e.g., optimal estimation theory, time series analysis, and target tracking), statistical machine learning (e.g., generalization error theory), and intelligent transportation.{: style="text-align: justify"}
 
 ## Research Topics
 <p align="justify">
