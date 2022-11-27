@@ -110,7 +110,7 @@ table, th, td {
             <td>2014</td>
         </tr>
         <tr>
-            <td>Second prize in National Mathematics Contest for China High School Students (Gausu Region)</td>
+            <td>Second prize in National Mathematics Contest for High School Students (Gausu Region)</td>
             <td>2011</td>
         </tr>
         <tr>
