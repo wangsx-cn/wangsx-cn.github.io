@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 ## Publication Topics
+<p align="justify">
 My up-to-now publication topics include statistical signal processing (e.g., optimal estimation theory, time series analysis, and target tracking), statistical machine learning (e.g., generalization error theory), and intelligent transportation. 
+</p>
 
 ## Research Topics
+<p align="justify">
 I am quite interested in probabilistic, statistical, and optimization theories. My research interests and theoretical backgrounds include statistics and optimization theories with applications in signal processing, machine learning, and control theory. Specifically, I am interested in and familiar with the following areas:
+ </p>
 * Frequentist and Bayesian Statistics
 * General Optimization Theory
 * Stachastic Programming
