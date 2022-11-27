@@ -45,28 +45,28 @@ table, th, td {
           <td></td>
         </tr>
         <tr>
-          <td>Pacemaker to NPU Merit Students and Special-class Scholarship</td>
-          <td>2015</td>
-          <td>Only Three Owners in NPU Each Year</td>
-        </tr>
-        <tr>
-          <td>NPU Merit Students and First-class Scholarships</td>
-          <td>2013, 2014</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>NPU First-class Scholarship for Graduate Student</td>
-          <td>2017</td>
-          <td></td>
-        </tr>
-        <tr>
           <td>The Baogang Scholarship</td>
           <td>2015</td>
-          <td>Only Three Owners in NPU Each Year</td>
+          <td>Only For Top-Three Undergraduate Students in NPU Each Year</td>
+        </tr>
+        <tr>
+          <td>Pacemaker to NPU Merit Students and Special-Class Scholarship</td>
+          <td>2015</td>
+          <td>Only For Top-Ten Undergraduate Students in NPU Each Year</td>
         </tr>
         <tr>
           <td>Ceng Xianzi Pacemaker to Chinese Merit Students</td>
           <td>2015</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>NPU Merit Undergraduate Students and First-Class Scholarships</td>
+          <td>2013, 2014</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>NPU First-Class Scholarship for Graduate Student</td>
+          <td>2016, 2017</td>
           <td></td>
         </tr>
         <tr>
@@ -82,11 +82,6 @@ table, th, td {
         <tr>
           <td>Ceng Xianzi Scholarships</td>
           <td>2013, 2014, 2015</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>First-class Scholarship for NPU Graduate Students</td>
-          <td>2016</td>
           <td></td>
         </tr>
         <tr>
@@ -115,24 +110,24 @@ table, th, td {
             <td>2014</td>
         </tr>
         <tr>
-            <td>Third prize in The Electrician Mathematical Contest in Modeling (EMCM)</td>
-            <td>2013</td>
+            <td>Second prize in National Mathematics Contest for China High School Students (Gausu Region)</td>
+            <td>2011</td>
+        </tr>
+        <tr>
+            <td>First prize in <i>Robocup China (3D Simulation Group)</i></td>
+            <td>2014</td>
         </tr>
         <tr>
             <td>First prize (Champion) in The International Humanoid Robot Competition (FIRA)</td>
             <td>2015</td>
         </tr>
         <tr>
-            <td>First prize in Robocup China (3D Simulation Group)</td>
-            <td>2014</td>
-        </tr>
-        <tr>
             <td>First prize in The International Humanoid Robot Competition (FIRA)</td>
             <td>2016</td>
         </tr>
         <tr>
-            <td>Second prize in National Mathematics Contest for China High School Students</td>
-            <td>2011</td>
+            <td>Third prize in The Electrician Mathematical Contest in Modeling (EMCM)</td>
+            <td>2013</td>
         </tr>
         <tr>
             <td>Third prize in NPU Mathematical Contest in Modeling</td>
