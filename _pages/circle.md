@@ -4,63 +4,44 @@ title: " "
 permalink: /circle/
 author_profile: true
 ---
-<!DOCTYPE html>
-<html>
-<style>
-table {
-	border-collapse: collapse;
-    font-family: Tahoma, Geneva, sans-serif;
-}
-table td {
-	padding: 15px;
-}
-table thead th {
-	background-color: #8ceacd;
-	color: #000000;
-	font-weight: bold;
-	font-size: 20px;
-	border: 1px solid #54585d;
-}
-table tbody td {
-	color: #636363;
-	border: 1px solid #dddfe1;
-}
-table tbody tr {
-	background-color: #f9fafb;
-}
-table tbody tr:nth-child(odd) {
-	background-color: #ffffff;
-}
-</style>
-<body>
 
-<h2>A basic HTML table</h2>
+## Coauthors
+I have publications with:
+* [Prof. Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
+  - Research Interests: Transportation Research, Operations Research, Management Science, Analytics
+* [Prof. Chongshou Li](https://scholar.google.com/citations?user=pQsr70EAAAAJ&hl=en)
+  - Hierarchical Learning, Retail Forecasting, Point Cloud Analysis, Data Analytics
+* [Prof. Zhongming Wu](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
+  - Mathematical Programming, Optimization, Operations Research
+* [Dr. Yuxin Che](https://scholar.google.com.sg/citations?user=Cj8PVYYAAAAJ&hl=en)
+  - Packing, Vehicel Routing, Scheduling
+* [Dr. Huangjie Zhao](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en)
+  - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
 
-<table style="width:100%">
-	<thead>
-        <tr>
-          <th>fasdfasd</th>
-          <th>Contact</th>
-          <th>Country</th>
-        </tr>
-    </thead>
-	<tbody>
-        <tr>
-          <td>Alfreds Futterkiste</td>
-          <td>Maria Anders</td>
-          <td>Germany</td>
-        </tr>
-        <tr>
-          <td>Centro comercial Moctezuma</td>
-          <td>Francisco Chang</td>
-          <td>Mexico</td>
-        </tr>
-  	</tbody>
-</table>
+## Trusted Collabarators
++ __I have preprints with___:
+  * [Prof. Yang Liu](https://www.nuslumos.org/)
+    - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System) Modeling and Analysis
+  * [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
+    - Machine learning, Optimization
+  * [Dr. Haowei Wang](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
+    - Bayesian Optimization, Uncertainty Analysis
+  * [Mr. Xinke Li](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
+    - Deep Learning, 3D Vision, Geometry Learning
 
-<p>To understand the example better, we have added borders to the table.</p>
-
-</body>
-</html>
-
-
++ __We have agreed on long-term collabaration__:
+  * [Dr. Yue Zhao](https://scholar.google.com/citations?user=CGSAYhcAAAAJ&hl=en)
+    - Robust Optimization, Adversarial Machine Learning
+  * [Dr. Jingwen Li](https://scholar.google.com.sg/citations?user=2nbigR8AAAAJ&hl=en)
+    - Deep Reinforcement Learning, Combinatorial Optimization
+  * [Dr. Xun Zhang](https://scholar.google.com/citations?user=hHphcVMAAAAJ&hl=en)
+    - Operations Management, Asymptotic Statistics, Optimization Algorithms
+  * [Dr. Yuming Huang](https://scholar.google.com/citations?user=xv6lgqIAAAAJ&hl=en&oi=ao)
+    - Blockchain, Cryptocurrency, Decentralized Systems
+  * [Dr. Binbin Pan](https://scholar.google.com/citations?user=fjOhMJoAAAAJ&hl=en)
+    - Logistics, Transportations, Operations Research, Supply Chain
+  * [Mr. Kanxin Hu](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
+    - Machine Scheduling, Combinatorial Optimization
+  * [Mr. Chen Wang](https://scholar.google.com/citations?user=DnrU0k0AAAAJ&hl=en)
+    - Machine Learning, Theoretical Computer Science, Learning Theory, Sublinear Algorithms, Biostatistics
+  
