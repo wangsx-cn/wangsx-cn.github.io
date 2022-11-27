@@ -20,9 +20,9 @@ author_profile: true
 
 + __I have preprints with__:
   * [Prof. Yang Liu](https://www.nuslumos.org/)
-    - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System) Modeling and Analysis
+    - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
   * [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
-    - Machine learning, Optimization
+    - Machine Learning, Optimization
   * [Dr. Haowei Wang](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
     - Bayesian Optimization, Uncertainty Analysis
   * [Mr. Xinke Li](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
