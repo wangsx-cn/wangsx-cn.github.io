@@ -13,9 +13,11 @@ My up-to-now publication topics include statistical signal processing (e.g., opt
 </html></body>
 
 ## Research Topics
+<html><body>
 <p align="justify">
 I am quite interested in probabilistic, statistical, and optimization theories. My research interests and theoretical backgrounds include statistics and optimization theories with applications in signal processing, machine learning, and control theory. Specifically, I am interested in and familiar with the following areas:
 </p>
+</html></body>
 
 * Frequentist and Bayesian Statistics
 * General Optimization Theory
@@ -29,9 +31,11 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 * Instrumentation and Measurement Systems
 
 ## Academic Activities
+<html><body>
 <p align="justify">
 I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Transactions on Instrumentation and Measurement. I also occasionally reviewed papers for IEEE Signal Processing Letters, IEEE Transactions on Circuits and Systems, and IISE Transactions. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well justified.
 </p>
+</html></body>
 
 ## Courses
 + __Studied During Ph.D.__
