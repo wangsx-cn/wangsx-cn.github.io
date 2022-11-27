@@ -5,20 +5,19 @@ permalink: /circle/
 author_profile: true
 ---
 
-## Coauthors
-I have publications with:
-* [Prof. Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
-  - Transportation Research, Operations Research, Management Science, Analytics
-* [Prof. Chongshou Li](https://scholar.google.com/citations?user=pQsr70EAAAAJ&hl=en)
-  - Hierarchical Learning, Retail Forecasting, Point Cloud Analysis, Data Analytics
-* [Prof. Zhongming Wu](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
-  - Mathematical Programming, Optimization, Operations Research
-* [Dr. Yuxin Che](https://scholar.google.com.sg/citations?user=Cj8PVYYAAAAJ&hl=en)
-  - Packing, Vehicel Routing, Scheduling
-* [Dr. Huangjie Zhao](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en)
-  - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
-
 ## Trusted Collabarators
++ __I have publications with (Coauthors)__:
+  * [Prof. Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
+    - Transportation Research, Operations Research, Management Science, Analytics
+  * [Prof. Chongshou Li](https://scholar.google.com/citations?user=pQsr70EAAAAJ&hl=en)
+    - Hierarchical Learning, Retail Forecasting, Point Cloud Analysis, Data Analytics
+  * [Prof. Zhongming Wu](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
+    - Mathematical Programming, Optimization, Operations Research
+  * [Dr. Yuxin Che](https://scholar.google.com.sg/citations?user=Cj8PVYYAAAAJ&hl=en)
+    - Packing, Vehicel Routing, Scheduling
+  * [Dr. Huangjie Zhao](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en)
+    - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
+
 + __I have preprints with__:
   * [Prof. Yang Liu](https://www.nuslumos.org/)
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System) Modeling and Analysis
