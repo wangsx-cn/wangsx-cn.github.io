@@ -5,6 +5,13 @@ permalink: /biography/
 author_profile: true
 ---
 
+<style>
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+</style>
+
 ## Biographical Sketch
 Dr. Shixiong Wang is currently a Postdoctoral Research Fellow with the Institute of Data Science,
 National University of Singapore (NUS). He received his Bachelor Degree (Engineering) and Master
@@ -14,7 +21,9 @@ the Department of Industrial Systems Engineering and Management, National Univer
 Singapore, in July 2022.
 
 ## Awards
-* NUS Research Scholarship (Granted by Ministry of Education, Singapore) 2018
+|Award|Year|
+|NUS Research Scholarship (Granted by Ministry of Education, Singapore) |2018|
+
 * Chinese National Scholarships 2013,2015
 * Chinese National Scholarship for Graduate Student (Master) 2017
 * Pacemaker to NPU Merit Students and Special-class Scholarship (only ten owners annually) 2015
