@@ -20,7 +20,11 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 * Target Positioning and Tracking
 * Instrumentation and Measurement Systems
 
+## Academic Activities
+I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Transactions on Instrumentation and Measurement. I also occasionally reviewed papers for IEEE Signal Processing Letters, IEEE Transactions on Circuits and Systems, and IISE Transactions. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well justified.
+
 ## Courses
+&nbsp;
 ### Studied During Ph.D.
 * I got A+/A/A- for all Ph.D. courses
 * Courses List:
@@ -48,5 +52,4 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 ### Studied During Bachelar
 * I got GPA of 92.19% (4.22 in 5, equivalently) in the third academic year and 90.13% (4.01 in 5, equivalently) in the previous three academic years
 
-## Academic Activities
-I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Transactions on Instrumentation and Measurement. I also occasionally reviewed papers for IEEE Signal Processing Letters, IEEE Transactions on Circuits and Systems, and IISE Transactions. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well justified.
+
