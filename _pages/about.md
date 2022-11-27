@@ -21,7 +21,7 @@ redirect_from:
   - Advisor: [Prof. Andrew Lim](https://www.limandrew.org)
     + Prof. Andrew Lim left the National University of Singapore in Apr 2021 and since then [Prof. Zhisheng Ye](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/) hosted me until I submitted my thesis in Dec 2021.
   - Aug 2018 – Dec 2021
-  - Thesis: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis//[Wang Shixiong] PhD_Thesis.pdf)
+  - Thesis: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
     + [\[Slides\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[Codes\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[Formal Access\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
 * M.Eng. in Systems and Control Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
   - Advisor: Prof. Jianhua He
