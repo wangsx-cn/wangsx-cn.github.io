@@ -5,7 +5,7 @@ permalink: /comments/
 author_profile: true
 ---
 
-## <html><body><span style="color: red">Invitation</span></body></html>
+## <span style="color: red">Invitation</span>
 If you want other people quickly know what kind of person I am or if you want me to improve myself everyday, please feel free to email me (s.wang@u.nus.edu) about your critiques, suggestions, and comments on me. They will be shown below without any changes! You can also send me an [anonyous email](https://anonymousemail.me/) to offer your critiques, suggestions, and/or comments without disclosing your identity.
 
 ## How do other people think of me?
