@@ -24,7 +24,7 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Transactions on Instrumentation and Measurement. I also occasionally reviewed papers for IEEE Signal Processing Letters, IEEE Transactions on Circuits and Systems, and IISE Transactions. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well justified.
 
 ## Courses
-### &emsp;Studied During Ph.D.
+### &ensp;Studied During Ph.D.
 * I got A+/A/A- for all Ph.D. courses
 * Courses List:
   - Advanced Engineering Statistics
@@ -37,7 +37,7 @@ I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Tran
   - Theory and Algorithms for Machine Learning
   - Neural Networks and Deep Learning
   - Deep Learning for Robotics
-### &emsp;Studied During Master
+### &ensp;Studied During Master
 * I got GPA of 90.44% (4.04 in 5, equivalently)
 * Courses List:
   - Applied Functional Analysis
@@ -48,7 +48,7 @@ I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Tran
   - Data Buses
   - Modern Digital Signal Processing
   - Digital Signal Processing Based on Matlab
-### &emsp;Studied During Bachelar
+### &ensp;Studied During Bachelar
 * I got GPA of 92.19% (4.22 in 5, equivalently) in the third academic year and 90.13% (4.01 in 5, equivalently) in the previous three academic years
 
 
