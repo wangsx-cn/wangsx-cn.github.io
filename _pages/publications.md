@@ -12,7 +12,7 @@ author_profile: true
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">Positioning and Tracking</a><br>
     &emsp;&emsp;<a href="#it">Intelligent Transportation</a>
 <h2 id="ssp">Statistical Signal Processing</h2>
-    <h3 id="se">&emsp;State Estimation</h3>
+### State Estimation
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
                 <a href="https://ieeexplore.ieee.org/abstract/document/9872130">Distributionally Robust State Estimation for Nonlinear Systems</a>
