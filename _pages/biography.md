@@ -21,6 +21,13 @@ the Department of Industrial Systems Engineering and Management, National Univer
 Singapore, in July 2022.
 
 ## Awards
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
+
 |Award|Year|
 |NUS Research Scholarship (Granted by Ministry of Education, Singapore) |2018|
 
