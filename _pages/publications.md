@@ -8,9 +8,9 @@ author_profile: true
 <h2>Navigation By Topic</h2>
     &emsp;&emsp;<a href="#ssp">Statistical Signal Processing</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#se">State Estimation</a><br>
-    &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#ts">Time Series</a><br>
-    &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#pt">Positioning and Tracking</a><br>
-    &emsp;&emsp;&ensp;<a href="#it">Intelligent Transportation</a>
+    &emsp;&emsp;&emsp;&emsp;<a href="#ts">Time Series</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#pt">Positioning and Tracking</a><br>
+    &emsp;&emsp;<a href="#it">Intelligent Transportation</a>
 <h2 id="ssp">Statistical Signal Processing</h2>
     <h3 id="se">State Estimation</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
