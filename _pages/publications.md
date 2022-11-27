@@ -9,16 +9,15 @@ author_profile: true
   <p>
     &emsp;&emsp;&ensp;<a href="#ssp">Statistical Signal Processing</a><br>
       <ul>
-         <li> <a href="#se">State Estimation</a></li>
-         <li> <a href="#ts">Time Series</a></li>
-         <li> <a href="#pt">Positioning and Tracking</a></li> 
+         &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<li> <a href="#se">State Estimation</a></li>
+         &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<li> <a href="#ts">Time Series</a></li>
+         &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<li> <a href="#pt">Positioning and Tracking</a></li> 
       </ul>
     &emsp;&emsp;&ensp;<a href="#it">Intelligent Transportation</a>
   </p>
 
 <h2 id="ssp">Statistical Signal Processing</h2>
-  <ul>
-     <li> <h3 id="se">State Estimation</h3></li>
+    <h3 id="se">State Estimation</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
         <li>
           <p>
