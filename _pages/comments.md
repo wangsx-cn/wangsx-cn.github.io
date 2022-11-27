@@ -8,7 +8,7 @@ author_profile: true
 ## <span style="color: red">Invitation</span>
 <html><body>
 <p align="justify">
-If you want other people quickly know what kind of person I am or if you want me to improve myself everyday, please feel free to email me (s.wang@u.nus.edu) about your critiques, suggestions, and comments on me. They will be shown below without any changes! You can also send me an <a = href"https://anonymousemail.me/">anonyous email</a> to offer your critiques, suggestions, and/or comments without disclosing your identity.
+If you want other people quickly know what kind of person I am or if you want me to improve myself everyday, please feel free to email me (s.wang@u.nus.edu) about your critiques, suggestions, and comments on me. They will be shown below without any changes! You can also send me an <a href="https://anonymousemail.me/">anonyous email</a> to offer your critiques, suggestions, and/or comments without disclosing your identity.
 </p>
 </body></html>
 
