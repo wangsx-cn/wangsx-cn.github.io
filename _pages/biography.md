@@ -26,9 +26,9 @@ Singapore, in July 2022.
 <h3>Awards</h3>
     <table>
         <tr>
-          <td>Item</td>
-          <td>Year</td>
-          <td>Remark</td>
+          <td><b>Item</b></td>
+          <td><b>Year</b></td>
+          <td><b>Remark</b></td>
         </tr>
         <tr>
           <td>NUS Research Scholarship (Granted by Ministry of Education, Singapore)</td>
@@ -100,8 +100,8 @@ Singapore, in July 2022.
 <h3>Contests</h3>
     <table>
         <tr>
-            <td>Item</td>
-            <td>Year</td>
+            <td><b>Item</b></td>
+            <td><b>Year</b></td>
         </tr>
         <tr>
             <td>First price in The MIIT Innovation and Entrepreneurship Contest For China College Students</td>
