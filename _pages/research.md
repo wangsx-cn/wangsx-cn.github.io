@@ -24,7 +24,7 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Transactions on Instrumentation and Measurement. I also occasionally reviewed papers for IEEE Signal Processing Letters, IEEE Transactions on Circuits and Systems, and IISE Transactions. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well justified.
 
 ## Courses
-&nbsp;### Studied During Ph.D.
+### &nbsp;Studied During Ph.D.
 * I got A+/A/A- for all Ph.D. courses
 * Courses List:
   - Advanced Engineering Statistics
