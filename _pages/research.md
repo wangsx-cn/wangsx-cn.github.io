@@ -49,6 +49,6 @@ I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Tran
     - Modern Digital Signal Processing
     - Digital Signal Processing Based on Matlab
 + __Studied During Bachelar__
-  * I got GPA of 92.19% (4.22 in 5, equivalently) in the third academic year and 90.13% (4.01 in 5, equivalently) in the previous three academic years
+  * I got GPA of 92.19% (4.22 in 5, equivalently) in the third academic year and 90.13% (4.01 in 5, equivalently) in the first three academic years
 
 
