@@ -24,31 +24,31 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Transactions on Instrumentation and Measurement. I also occasionally reviewed papers for IEEE Signal Processing Letters, IEEE Transactions on Circuits and Systems, and IISE Transactions. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well justified.
 
 ## Courses
-### Studied During Ph.D.
-* I got A+/A/A- for all Ph.D. courses
-* Courses List:
-  - Advanced Engineering Statistics
-  - Robust Optimization
-  - Foundations of Optimization
-  - Modern Control Systems
-  - Applied Forecasting Methods
-  - Theory and Algorithms for Dynamic Programming
-  - Industrial Data Analytics
-  - Theory and Algorithms for Machine Learning
-  - Neural Networks and Deep Learning
-  - Deep Learning for Robotics
-### Studied During Master
-* I got GPA of 90.44% (4.04 in 5, equivalently)
-* Courses List:
-  - Applied Functional Analysis
-  - Differential Equations in Mathematical Physics
-  - Optimal Estimation Theory and its Applications
-  - Aerodynamics and Flight Control Systems
-  - Integrated Avionics Data Fusion Techniques and Its Application
-  - Data Buses
-  - Modern Digital Signal Processing
-  - Digital Signal Processing Based on Matlab
-### Studied During Bachelar
-* I got GPA of 92.19% (4.22 in 5, equivalently) in the third academic year and 90.13% (4.01 in 5, equivalently) in the previous three academic years
++ __Studied During Ph.D.__
+  * I got A+/A/A- for all Ph.D. courses
+  * Courses List:
+    - Advanced Engineering Statistics
+    - Robust Optimization
+    - Foundations of Optimization
+    - Modern Control Systems
+    - Applied Forecasting Methods
+    - Theory and Algorithms for Dynamic Programming
+    - Industrial Data Analytics
+    - Theory and Algorithms for Machine Learning
+    - Neural Networks and Deep Learning
+    - Deep Learning for Robotics
++ __Studied During Master__
+  * I got GPA of 90.44% (4.04 in 5, equivalently)
+  * Courses List:
+    - Applied Functional Analysis
+    - Differential Equations in Mathematical Physics
+    - Optimal Estimation Theory and its Applications
+    - Aerodynamics and Flight Control Systems
+    - Integrated Avionics Data Fusion Techniques and Its Application
+    - Data Buses
+    - Modern Digital Signal Processing
+    - Digital Signal Processing Based on Matlab
++ __Studied During Bachelar__
+  * I got GPA of 92.19% (4.22 in 5, equivalently) in the third academic year and 90.13% (4.01 in 5, equivalently) in the previous three academic years
 
 
