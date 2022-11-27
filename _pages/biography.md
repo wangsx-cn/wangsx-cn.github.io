@@ -21,19 +21,19 @@ the Department of Industrial Systems Engineering and Management, National Univer
 Singapore, in July 2022.
 
 ## Awards
-|NUS Research Scholarship (Granted by Ministry of Education, Singapore) |2018||
-|Chinese National Scholarships |2013,2015||
-|Chinese National Scholarship for Graduate Student (Master) |2017||
-|Pacemaker to NPU Merit Students and Special-class Scholarship |2015|Only Three Owners in NPU Each Year|
-|NPU Merit Students and First-class Scholarships |2013,2014||
-|NPU First-class Scholarship for Graduate Student |2017||
-|The Baogang Scholarship |2015|Only Three Owners in NPU Each Year|
-|Ceng Xianzi Pacemaker to Chinese Merit Students|2015||
-|The Samsung Scholarship |2014||
-|China Telecom. Scholarship |2016||
-|Ceng Xianzi Scholarships |2013,2014,2015||
-|First-class Scholarship for NPU Graduate Students |2016||
-|Several titles of Merit Students in High/Middle School |2006-2012||
+|NUS Research Scholarship (Granted by Ministry of Education, Singapore)   |2018                     |                                   |
+|Chinese National Scholarships                                            |2013,2015                |                                   |
+|Chinese National Scholarship for Graduate Student (Master)               |2017                     |                                   |
+|Pacemaker to NPU Merit Students and Special-class Scholarship            |2015                     |Only Three Owners in NPU Each Year |
+|NPU Merit Students and First-class Scholarships                          |2013,2014                |                                   |
+|NPU First-class Scholarship for Graduate Student                         |2017                     |                                   |
+|The Baogang Scholarship                                                  |2015                     |Only Three Owners in NPU Each Year |
+|Ceng Xianzi Pacemaker to Chinese Merit Students                          |2015                     |                                   |
+|The Samsung Scholarship                                                  |2014                     |                                   |
+|China Telecom. Scholarship                                               |2016                     |                                   |
+|Ceng Xianzi Scholarships                                                 |2013,2014,2015           |                                   |
+|First-class Scholarship for NPU Graduate Students                        |2016                     |                                   |
+|Several titles of Merit Students in High/Middle School                   |2006-2012                |                                   |
 
 ## Contests
 * First price in The MIIT Innovation and Entrepreneurship Contest For China College Students 2016
