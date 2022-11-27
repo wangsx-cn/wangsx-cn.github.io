@@ -69,7 +69,7 @@ author_profile: true
     <li>
         <a href="https://ieeexplore.ieee.org/abstract/document/9656678">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
         <br>
-        <b>Shixiong Wang</b> and Zhisheng Ye
+        <b>Shixiong Wang</b>, Yuxin Che, Huangjie Zhao, and Andrew Lim
         <br>
         IEEE Transactions on Intelligent Transportation Systems, Vol. 23, pp. 6347-6356, Feb 2021
     </li> 
