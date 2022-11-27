@@ -13,6 +13,7 @@ author_profile: true
     &emsp;&emsp;&emsp;&emsp;<a href="#ts">Time Series</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">Positioning and Tracking</a><br>
     &emsp;&emsp;<a href="#it">Intelligent Transportation</a>
+    &emsp;&emsp;<a href="#pp">Preprints</a>
 <h2 id="ssp">Statistical Signal Processing</h2>
     <h3 id="se">&emsp;State Estimation</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
@@ -67,22 +68,46 @@ author_profile: true
             </li> 
         </ol>
 <h2 id="it">Intelligent Transportation</h2>
-  <ol reversed>		<!-- u: unordered, l: list-->
-    <li>
-        <a href="https://ieeexplore.ieee.org/abstract/document/9656678">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
-        <br>
-        <b>Shixiong Wang</b>, Chongshou Li, and Andrew Lim
-        <br>
-        IEEE Transactions on Intelligent Transportation Systems, Vol. 23, pp. 6347-6356, Feb 2021
-    </li> 
-    <li>
-        <a href="https://ieeexplore.ieee.org/abstract/document/9563203">Accurate Tracking, Collision Detection, and Optimal Scheduling of Airport Ground Support Equipment</a>
-        <br>
-        <b>Shixiong Wang</b>, Yuxin Che, Huangjie Zhao, and Andrew Lim
-        <br>
-        IEEE Internet of Things Journal, Vol. 8, pp. 572-584, Jun 2020
-    </li> 
-  </ol>
+    <ol reversed>		<!-- u: unordered, l: list-->
+        <li>
+            <a href="https://ieeexplore.ieee.org/abstract/document/9656678">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
+            <br>
+            <b>Shixiong Wang</b>, Chongshou Li, and Andrew Lim
+            <br>
+            IEEE Transactions on Intelligent Transportation Systems, Vol. 23, pp. 6347-6356, Feb 2021
+        </li> 
+        <li>
+            <a href="https://ieeexplore.ieee.org/abstract/document/9563203">Accurate Tracking, Collision Detection, and Optimal Scheduling of Airport Ground Support Equipment</a>
+            <br>
+            <b>Shixiong Wang</b>, Yuxin Che, Huangjie Zhao, and Andrew Lim
+            <br>
+            IEEE Internet of Things Journal, Vol. 8, pp. 572-584, Jun 2020
+        </li> 
+    </ol>
+<h2 id="pp">Preprints</h2>
+    <ol reversed>		<!-- u: unordered, l: list-->
+        <li>
+            Distributionally Robust State Estimation for Jump Linear Systems
+            <br>
+            <b>Shixiong Wang</b>
+            <br>
+            Submitted on 23 Jun 2022
+        </li> 
+        <li>
+            A Railway Accident Prevention System Using An Intelligent Pilot Vehicle
+            <br>
+            <b>Shixiong Wang</b>, Xinke Li, and Yang Liu
+            <br>
+            Submitted on 24 Nov 2022
+        </li> 
+        <li>
+            Distributional Robustness Reduces Generalization Errors
+            <br>
+            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
+            <br>
+            In Preparation
+        </li> 
+    </ol>
 </body>
 </html>
 
