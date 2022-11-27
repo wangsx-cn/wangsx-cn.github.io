@@ -8,7 +8,7 @@ author_profile: true
 ## Coauthors
 I have publications with:
 * [Prof. Andrew Lim](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
-  - Research Interests: Transportation Research, Operations Research, Management Science, Analytics
+  - Transportation Research, Operations Research, Management Science, Analytics
 * [Prof. Chongshou Li](https://scholar.google.com/citations?user=pQsr70EAAAAJ&hl=en)
   - Hierarchical Learning, Retail Forecasting, Point Cloud Analysis, Data Analytics
 * [Prof. Zhongming Wu](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
