@@ -17,9 +17,9 @@ table, th, td {
 
 <h3>Biographical Sketch</h3>
   Dr. Shixiong Wang was born on 24 Feb 1996 (lunar calendar) in Gangu, Gansu, China. He is currently a Postdoctoral Research Fellow with the Institute of Data Science, National University of Singapore (NUS).
-<br>
+<br><br>
   He received his Bachelor Degree (Engineering) from the School of Electronics and Information, Northwestern Polytechnical University (NPU), China, in July 2016. He was admitted by the NPU Graduate School exempting the entrance examination and exceptionally permitted to graduate one year ahead of the schedule. He got his Master Degree (Engineering) from the School of Electronics and Information, Northwestern Polytechnical University (NPU), China, in May 2018. He obtained his Ph.D. degree from the Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore, in July 2022.
-<br>
+<br><br>
   He was the head of the 3D Simulation Team, Soccer Robot Contest Base, NPU, from 2014 to 2016. Under his leadership, the 3D Simulation Team obtained its first <i>First Prize</i> and <i>Third Place</i> in <i>Robocup China (3D Simulation Group)</i> in 2014 and 2015, respectively.
 
 <h3>Awards</h3>
