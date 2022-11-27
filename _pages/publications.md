@@ -9,9 +9,9 @@ author_profile: true
   <p>
     &emsp;&emsp;&ensp;<a href="#ssp">Statistical Signal Processing</a><br>
       <ul>
-         &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<li> <a href="#se">State Estimation</a></li>
-         &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<li> <a href="#ts">Time Series</a></li>
-         &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<li> <a href="#pt">Positioning and Tracking</a></li> 
+         <li>&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#se">State Estimation</a></li>
+         <li>&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#ts">Time Series</a></li>
+         <li>&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#pt">Positioning and Tracking</a></li> 
       </ul>
     &emsp;&emsp;&ensp;<a href="#it">Intelligent Transportation</a>
   </p>
@@ -47,9 +47,8 @@ author_profile: true
           </p>
         </li> 
       </ol>
-     <li> <h3 id="ts">Time Series</h3></li>
-     <li> <h3 id="pt">Positioning and Tracking</h3></li> 
-  </ul>
+    <h3 id="ts">Time Series</h3>
+    <h3 id="pt">Positioning and Tracking</h3>
 
 <h2 id="it">Intelligent Transportation</h2>
   <ol reversed>		<!-- u: unordered, l: list-->
