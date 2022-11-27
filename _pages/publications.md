@@ -6,13 +6,13 @@ author_profile: true
 ---
   
 <h2>Navigation By Topic</h2>
-    &emsp;&emsp;&ensp;<a href="#ssp">Statistical Signal Processing</a><br>
-    &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#se">State Estimation</a><br>
+    &emsp;&emsp;<a href="#ssp">Statistical Signal Processing</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#se">State Estimation</a><br>
     &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#ts">Time Series</a><br>
     &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#pt">Positioning and Tracking</a><br>
     &emsp;&emsp;&ensp;<a href="#it">Intelligent Transportation</a>
 <h2 id="ssp">Statistical Signal Processing</h2>
-    &emsp;&emsp;&ensp;<h3 id="se">State Estimation</h3>
+    <h3 id="se">State Estimation</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
                 <a href="https://ieeexplore.ieee.org/abstract/document/9872130">Distributionally Robust State Estimation for Nonlinear Systems</a>
@@ -43,7 +43,7 @@ author_profile: true
                 Signal Processing, Vol. 161, pp. 268-288, Aug 2019
             </li> 
         </ol>
-    &emsp;&emsp;&ensp;<h3 id="ts">Time Series</h3>
+    <h3 id="ts">Time Series</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
                 <a href="https://ieeexplore.ieee.org/abstract/document/9354187">A Model for Non-Stationary Time Series and its Applications in Filtering and Anomaly Detection</a>
