@@ -26,7 +26,7 @@ I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Tran
 ## Courses
 + __Studied During Ph.D.__
   * I got A+/A/A- for all Ph.D. courses
-  * Courses List:
+  * Course List:
     - Advanced Engineering Statistics
     - Robust Optimization
     - Foundations of Optimization
@@ -39,7 +39,7 @@ I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Tran
     - Deep Learning for Robotics
 + __Studied During Master__
   * I got GPA of 90.44% (4.04 in 5, equivalently)
-  * Courses List:
+  * Course List:
     - Applied Functional Analysis
     - Differential Equations in Mathematical Physics
     - Optimal Estimation Theory and its Applications
