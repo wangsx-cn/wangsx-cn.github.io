@@ -21,6 +21,8 @@ the Department of Industrial Systems Engineering and Management, National Univer
 Singapore, in July 2022.
 
 ## Awards
+|Item                                                                     |          Year           |              Remark               |
+| :------------                                                           |     :-------------:     |     :------------:                |
 |NUS Research Scholarship (Granted by Ministry of Education, Singapore)   |2018                     |                                   |
 |Chinese National Scholarships                                            |2013,2015                |                                   |
 |Chinese National Scholarship for Graduate Student (Master)               |2017                     |                                   |
