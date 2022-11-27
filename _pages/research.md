@@ -24,6 +24,7 @@ I am quite interested in probabilistic, statistical, and optimization theories. 
 * Stachastic Programming
 * Distributionally Robust Optimization
 * State Estimation and Filtering Theory
+* Statistical Learning Theory
 * Time Series Analysis
 * Linear and Nonlinear System, and Hidden Markov Process
 * Control Theory and Application, Navigation and Guidance, and Reinforcement Learning
