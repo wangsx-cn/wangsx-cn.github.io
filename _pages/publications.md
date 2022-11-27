@@ -69,14 +69,14 @@ author_profile: true
     <li>
         <a href="https://ieeexplore.ieee.org/abstract/document/9656678">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
         <br>
-        <b>Shixiong Wang</b>, Yuxin Che, Huangjie Zhao, and Andrew Lim
+        <b>Shixiong Wang</b>, Chongshou Li, and Andrew Lim
         <br>
         IEEE Transactions on Intelligent Transportation Systems, Vol. 23, pp. 6347-6356, Feb 2021
     </li> 
     <li>
         <a href="https://ieeexplore.ieee.org/abstract/document/9563203">Accurate Tracking, Collision Detection, and Optimal Scheduling of Airport Ground Support Equipment</a>
         <br>
-        <b>Shixiong Wang</b>, Zhongming Wu, and Andrew Lim
+        <b>Shixiong Wang</b>, Yuxin Che, Huangjie Zhao, and Andrew Lim
         <br>
         IEEE Internet of Things Journal, Vol. 8, pp. 572-584, Jun 2020
     </li> 
