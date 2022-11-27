@@ -5,6 +5,8 @@ permalink: /biography/
 author_profile: true
 ---
 
+<html>
+<body>
 <style>
 table, th, td {
   border: 1px solid white;
@@ -12,7 +14,7 @@ table, th, td {
 }
 </style>
 
-## Biographical Sketch
+<h3>Biographical Sketch</h3>
 Dr. Shixiong Wang is currently a Postdoctoral Research Fellow with the Institute of Data Science,
 National University of Singapore (NUS). He received his Bachelor Degree (Engineering) and Master
 Degree (Engineering) from the School of Electronics and Information, Northwestern Polytechnical University
@@ -20,22 +22,79 @@ Degree (Engineering) from the School of Electronics and Information, Northwester
 the Department of Industrial Systems Engineering and Management, National University of Singapore,
 Singapore, in July 2022.
 
-## Awards
-|                                  Item                                   |          Year           |              Remark               |
-|                             :------------                               |     :-------------:     |           :------------:          |
-|NUS Research Scholarship (Granted by Ministry of Education, Singapore)   |2018                     |                                   |
-|Chinese National Scholarships                                            |2013,2015                |                                   |
-|Chinese National Scholarship for Graduate Student (Master)               |2017                     |                                   |
-|Pacemaker to NPU Merit Students and Special-class Scholarship            |2015                     |Only Three Owners in NPU Each Year |
-|NPU Merit Students and First-class Scholarships                          |2013,2014                |                                   |
-|NPU First-class Scholarship for Graduate Student                         |2017                     |                                   |
-|The Baogang Scholarship                                                  |2015                     |Only Three Owners in NPU Each Year |
-|Ceng Xianzi Pacemaker to Chinese Merit Students                          |2015                     |                                   |
-|The Samsung Scholarship                                                  |2014                     |                                   |
-|China Telecom. Scholarship                                               |2016                     |                                   |
-|Ceng Xianzi Scholarships                                                 |2013,2014,2015           |                                   |
-|First-class Scholarship for NPU Graduate Students                        |2016                     |                                   |
-|Several titles of Merit Students in High/Middle School                   |2006-2012                |                                   |
+<h3>Awards</h3>
+  <table>
+  <tr>
+    <td>Item</td>
+    <td>Year</td>
+    <td>Remark</td>
+  </tr>
+  <tr>
+    <td>NUS Research Scholarship (Granted by Ministry of Education, Singapore)</td>
+    <td>2018</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Chinese National Scholarships</td>
+    <td>2013,2015</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Chinese National Scholarship for Graduate Student (Master)</td>
+    <td>2017</td>
+    <td>Only Three Owners in NPU Each Year</td>
+  </tr>
+  <tr>
+    <td>Pacemaker to NPU Merit Students and Special-class Scholarship</td>
+    <td>2015</td>
+    <td>Only Three Owners in NPU Each Year</td>
+  </tr>
+  <tr>
+    <td>NPU Merit Students and First-class Scholarships</td>
+    <td>2013,2014</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NPU First-class Scholarship for Graduate Student</td>
+    <td>2017</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The Baogang Scholarship</td>
+    <td>2015</td>
+    <td>Only Three Owners in NPU Each Year</td>
+  </tr>
+  <tr>
+    <td>Ceng Xianzi Pacemaker to Chinese Merit Students</td>
+    <td>2015</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The Samsung Scholarship</td>
+    <td>2014</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>China Telecom. Scholarship</td>
+    <td>2016</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ceng Xianzi Scholarships</td>
+    <td>2013,2014,2015</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>First-class Scholarship for NPU Graduate Students</td>
+    <td>2016</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Several titles of Merit Students in High/Middle School</td>
+    <td>2006-2012</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Contests
 * First price in The MIIT Innovation and Entrepreneurship Contest For China College Students 2016
@@ -50,3 +109,7 @@ Singapore, in July 2022.
 * Second prize in NPU ACM-ICPC 2013
 * First prize in NPU Programming Contest in C/C++ 2014,2015
 * Second prize in Physics Contest for High School Student in Tianshui, China 2011
+
+</body>
+</html>
+
