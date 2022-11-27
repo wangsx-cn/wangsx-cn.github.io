@@ -37,7 +37,7 @@ Singapore, in July 2022.
         </tr>
         <tr>
           <td>Chinese National Scholarships</td>
-          <td>2013,2015</td>
+          <td>2013, 2015</td>
           <td></td>
         </tr>
         <tr>
@@ -52,7 +52,7 @@ Singapore, in July 2022.
         </tr>
         <tr>
           <td>NPU Merit Students and First-class Scholarships</td>
-          <td>2013,2014</td>
+          <td>2013, 2014</td>
           <td></td>
         </tr>
         <tr>
@@ -82,7 +82,7 @@ Singapore, in July 2022.
         </tr>
         <tr>
           <td>Ceng Xianzi Scholarships</td>
-          <td>2013,2014,2015</td>
+          <td>2013, 2014, 2015</td>
           <td></td>
         </tr>
         <tr>
@@ -145,7 +145,7 @@ Singapore, in July 2022.
         </tr>
         <tr>
             <td>First prize in NPU Programming Contest in C/C++</td>
-            <td>2014,2015</td>
+            <td>2014, 2015</td>
         </tr>
         <tr>
             <td>Second prize in Physics Contest for High School Student in Tianshui, China</td>
