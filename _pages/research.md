@@ -12,6 +12,7 @@ My up-to-now publication topics include statistical signal processing (e.g., opt
 I am quite interested in probabilistic, statistical, and optimization theories. My research interests and theoretical backgrounds include statistics and optimization theories with applications in signal processing, machine learning, and control theory. Specifically, I am interested in and familiar with the following areas:
 * Frequentist and Bayesian Statistics
 * General Optimization Theory
+* Stachastic Programming
 * Distributionally Robust Optimization
 * State Estimation and Filtering Theory
 * Time Series Analysis
