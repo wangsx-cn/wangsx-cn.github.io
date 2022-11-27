@@ -11,7 +11,6 @@ author_profile: true
     &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#ts">Time Series</a><br>
     &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;<a href="#pt">Positioning and Tracking</a><br>
     &emsp;&emsp;&ensp;<a href="#it">Intelligent Transportation</a>
-
 <h2 id="ssp">Statistical Signal Processing</h2>
     <h3 id="se">State Estimation</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
@@ -44,7 +43,6 @@ author_profile: true
                 Signal Processing, Vol. 161, pp. 268-288, Aug 2019
             </li> 
         </ol>
-        
     <h3 id="ts">Time Series</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
@@ -55,7 +53,6 @@ author_profile: true
                 IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-11, Feb 2021
             </li> 
         </ol>
-        
     <h3 id="pt">Positioning and Tracking</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
@@ -67,7 +64,6 @@ author_profile: true
                 IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-13, May 2021
             </li> 
         </ol>
-
 <h2 id="it">Intelligent Transportation</h2>
   <ol reversed>		<!-- u: unordered, l: list-->
     <li>
