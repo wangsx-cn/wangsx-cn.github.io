@@ -43,7 +43,7 @@ Singapore, in July 2022.
         <tr>
           <td>Chinese National Scholarship for Graduate Student (Master)</td>
           <td>2017</td>
-          <td>Only Three Owners in NPU Each Year</td>
+          <td></td>
         </tr>
         <tr>
           <td>Pacemaker to NPU Merit Students and Special-class Scholarship</td>
