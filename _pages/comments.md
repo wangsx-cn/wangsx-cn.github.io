@@ -29,7 +29,7 @@ I believe it is important to be:
   - It is always important to quickly understand what happened and other people's concerns, styles, opinions, cultures, etc. This is because only when we have good understandings about what happened in the past can we take optimal actions (or say best words) for the future; Only when we have good understandings about others can we appropriately respect and get along well with them.
   - Do not try to play tricks with me because I can quickly find it, although I do not always let you know. But this may let me have some (bad) labels on you in my mind, although you may never know them. The more such labels you have, the farther we are.
   - I am not an opinionated and stubborn person and I am open to hear critiques, comments, and suggestions. I am happy to change myself everyday. But I change myself only when I can realize that I am wrong: I do not directly follow other people's instructions even though he/she is a renowned person. In my understanding, "you are right and I have a different opinion from you" does not necessarily imply that "I am wrong".
-    + Therefore, please explain your opinions and concerns to me.
+    + Therefore, please explain your opinions and concerns to me before I get your points.
 
 ## How do other people think of me?
 * Prof. [Andrew Lim](https://www.limandrew.org/) (My Ph.D. advisor)
