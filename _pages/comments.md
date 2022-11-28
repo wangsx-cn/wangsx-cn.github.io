@@ -39,7 +39,7 @@ author_profile: true
 * [Tan Kok Choon教授](https://bizfaculty.nus.edu.sg/faculty-details/?profId=239) (我担任助教的一门[课程](https://nusmods.com/modules/MTM5001/maritime-industry-fundamentals)的老师)
   - "你是我过去12年里遇到过的最好的助教。感谢你对我教学的帮助。"
     + 2021年12月28日下午6:48
-* [Tang Loon Ching教授](https://cde.nus.edu.sg/isem/staff/tang-loon-ching/) (我担任助教的一门[course](https://nusmods.com/modules/IE4243/decision-modeling-risk-analysis)的老师)
+* [Tang Loon Ching教授](https://cde.nus.edu.sg/isem/staff/tang-loon-ching/) (我担任助教的一门[课程](https://nusmods.com/modules/IE4243/decision-modeling-risk-analysis)的老师)
   - "非常好！你是目前为止我遇到过的最好的助教。" 
     + 2020年9月11日上午11:26
   - "你是一个优秀的助教；我见到过的最好的助教之一。" 
