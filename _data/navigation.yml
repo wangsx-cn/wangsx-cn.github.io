@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "Biography"
+  - title: "简介"
     url: /biography/ 
     
-  - title: "Research"
+  - title: "研究"
     url: /research/ 
     
-  - title: "Publications"
+  - title: "出版物"
     url: /publications/
     
-  - title: "Circle"
+  - title: "合作者"
     url: /circle/
     
-  - title: "Comments"
+  - title: "评价"
     url: /comments/
     
-  - title: "Open Sources"
+  - title: "开源"
     url: /open_sources/
     
 
