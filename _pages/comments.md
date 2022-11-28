@@ -47,3 +47,4 @@ author_profile: true
 * [赵皇杰博士](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en) (我的朋友和合作者)
   - "你是一个积极乐观的人。很开心有你这个朋友。在我读博期间你总是帮我摆脱舒适圈。谢谢你的帮助。"
     + 2022年11月28日下午8:50
+    + 王世雄回复：谢谢！
