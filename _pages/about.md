@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# 欢迎! Please visit my [English](https://bear-wangsx.github.io/) site.
+# 欢迎访问! 
+Please visit my [English site](https://bear-wangsx.github.io/).
 
 ## 工作
 * [数据科学研究院](https://ids.nus.edu.sg/), [新加坡国立大学](https://www.nus.edu.sg/)
