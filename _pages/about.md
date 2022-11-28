@@ -27,7 +27,7 @@ Please visit my [English site](https://bear-wangsx.github.io/).
 * [西北工业大学](https://www.nwpu.edu.cn/)电子信息学院系统与控制工程系硕士
   - 指导老师: 何建华教授
   - 2016年9月 - 2018年3月
-* [西北工业大学](https://www.nwpu.edu.cn/)电子信息学院探测制导与控制专业学士
+* [西北工业大学](https://www.nwpu.edu.cn/)电子信息学院探测制导与控制技术专业学士
   - 2012年9月 - 2016年6月
 
 ## 联系我
