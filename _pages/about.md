@@ -17,7 +17,7 @@ redirect_from:
   - Mar 2022 – Present
 
 ## Education
-* Ph.D. in [Industrial and Operations Engineering](https://cde.nus.edu.sg/isem/), [National University of Singapore](https://www.nus.edu.sg/)
+* Ph.D. in [Industrial Systems Engineering and Management](https://cde.nus.edu.sg/isem/), [National University of Singapore](https://www.nus.edu.sg/)
   - Advisor: [Prof. Andrew Lim](https://www.limandrew.org)
     + Prof. Andrew Lim left the National University of Singapore in Apr 2021 and since then [Prof. Zhisheng Ye](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/) hosted me until I submitted my thesis in Dec 2021.
   - Aug 2018 – Dec 2021
