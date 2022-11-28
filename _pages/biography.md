@@ -15,7 +15,7 @@ table, th, td {
 }
 </style>
 
-<h3>Biographical Sketch</h3>
+<h3>简介</h3>
   <p align="justify">
   王世雄博士于1996年2月24日（农历）出生于中国甘肃省甘谷县。他目前是新加坡国立大学(NUS)数据科学研究所博士后研究员。
 
@@ -24,7 +24,7 @@ table, th, td {
   王世雄于2014年至2016年间担任西北工业大学足球机器人基地3D仿真组组长，于2014年和2015年分别获得<i>足球机器人杯(3D仿真组)</i>首次一等奖和季军。
   </p>
   
-<h3>Awards</h3>
+<h3>个人荣誉</h3>
     <table>
         <tr>
           <td><b>获奖项目</b></td>
@@ -93,7 +93,7 @@ table, th, td {
         </tr>
     </table>
 
-<h3>Contests</h3>
+<h3>竞赛获奖</h3>
     <table>
         <tr>
             <td><b>获奖项目</b></td>
