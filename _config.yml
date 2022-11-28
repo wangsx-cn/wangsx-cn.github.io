@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Home"
+locale                   : "cn"
+title                    : "首页"
 title_separator          : "-"
-name                     : &name "Shixiong Wang"
-description              : &description "Research Fellow,<br>National University of Singapore"
-url                      : https://bear-wangsx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "王世雄"
+description              : &description "研究院,<br>新加坡国立大学"
+url                      : https://wangsx-cn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bear-wangsx.github.io"
+repository               : "wangsx-cn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shixiong Wang"
+  name             : "王世雄"
   avatar           : "profile.jpg"
-  bio              : "Baby Baby Good Bear!"
-  location         : "Singapore"
+  bio              : "诗书礼易，一夜春秋！"
+  location         : "新加坡"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ph1whhMAAAAJ&hl=en"
   email            :
