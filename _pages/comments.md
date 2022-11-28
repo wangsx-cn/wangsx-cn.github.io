@@ -16,6 +16,8 @@ If you want other people quickly know what kind of person I am or if you want me
 I believe it is important to be:
 * __Responsible__.
   - I should take care of any of my duties and play well every role that I need to be. I never complain of and escape from what I should do. As a student, I know that I should work hard on every course. As a Ph.D., I know that I should read existing literature and do creative researches. As a son, I know that I need to respect any expectations for me from my parents, although I do not always follow all of them because parents also make mistakes. As a friend, I know that I should help others to the best of my ability and be reliable for everything that my friend asked me to do. As a reviewer, I know that I should review every subission qucikly without delays and provide detailed and well-justified comments. 
+  - If you asked me to do something and I agreed, then you can go back to bed and sleep because I am reliable. (But please allow me to refuse your request if it is _extremely_ inconvenient for me.)
+  - I reply to every message (WeChat, Email, etc.) soon after I see it. I do everything as quickly as I can if I am supposed to be.
 * __Sincere__.
   - I understand that it might be "clever" and "emotionally intelligent" to close mouth, to hedge, to wait and see, and/or to play tricks. But this is not my perference. I prefer to tell everyone what I am really thinking because this would be helpful for others to take their optimal actions. I seldom hedge; I would tell people what are my expectations and concerns, and why I can/cannot do a favor this time.
 * __Kind__.
