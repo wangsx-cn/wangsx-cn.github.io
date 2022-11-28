@@ -27,10 +27,10 @@ author_profile: true
 * __乐于助人__
   - 帮助别人也是一种功德。
 * __聪明和智慧__
-  - It is always important to quickly understand what happened and other people's concerns, styles, opinions, cultures, etc. This is because only when we have good understandings about what happened in the past can we take optimal actions (or say best words) for the future; Only when we have good understandings about others can we appropriately respect and get along well with them.
-  - Do not try to play tricks with me because I can quickly find it, although I do not always let you know. But this may let me have some (bad) labels on you in my mind, although you may never know them. The more such labels you have, the farther we are.
-  - I am not an opinionated and stubborn person and I am open to hear critiques, comments, and suggestions. I am happy to change myself everyday. But I change myself only when I can realize that I am wrong: I do not directly follow other people's instructions even though he/she is a renowned person. In my understanding, "you are right and I have a different opinion from you" does not necessarily imply that "I am wrong".
-    + Therefore, please explain your opinions and concerns to me before I get your points.
+  - 人是社会人，应该承担社会责任，因此学着跟别人打交道很重要。我会认真分析别人的意图和真实想法并尽我最大的能力去尊重和理解TA们。
+  - 不要试着跟我玩套路，因为我能很快的知道你想干什么或者你想从我这得到什么，虽然我大多时候会假装没明白。本着“吃亏是福”的原则，我大多时候不会计较。但是这不代表我啥都不懂或者软弱可欺哦~
+  - 我并不是固执的人。我乐于听取别人的建议和意见并恰当的改正自己。但是我一般不会直接听从别人的指示，就算这个人是一个特别厉害的人。只有当我意识到我真的错了的时候，我才会改变自己。所以如果你觉得我在犯错，请一定耐心告诉我原因和分析。如果我听明白了你的意思，并意识到我的确错了，我一定会改。
+    * 有时候我没听别人的意见可能仅仅是因为我没听懂别人什么意思，或者我还没意识到我错在哪儿了。
 
 ## 别人口中的我
 * [Andrew Lim]教授(https://www.limandrew.org/) (我的博士导师)
