@@ -24,11 +24,12 @@ I believe it is important to be:
   - As a human, I know that I should respect everyone no matter who he/she is. Humans are not machines: we have emotions. I respect every personal style and personal opinion as long as it is in the line of laws, rules, and policies. I never intentionally embarrass, trouble, and/or do harm to others. 
   - Please feel free to refuse me if you think what I am asking for is not convenient for you: I never mind this because everyone has his/her personal concerns.
 * __Helpful__.
-  - It is a virtue to help others without asking for bonuses.
+  - It is a virtue to help others without asking for bonuses. Bring hopes to others is also a beneficence。
 * __Clever__.
   - It is always important to quickly understand what happened and other people's concerns, styles, opinions, cultures, etc. This is because only when we have good understandings about what happened in the past can we take optimal actions (or say best words) for the future; Only when we have good understandings about others can we appropriately respect and get along well with them.
   - Do not try to play tricks with me because I can quickly find it, although I do not always let you know. But this may let me have some (bad) labels on you in my mind, although you may never know them. The more such labels you have, the farther we are.
   - I am not an opinionated and stubborn person and I am open to hear critiques, comments, and suggestions. I am happy to change myself everyday. But I change myself only when I can realize that I am wrong: I do not directly follow other people's instructions even though he/she is a renowned person. In my understanding, "you are right and I have a different opinion from you" does not necessarily imply that "I am wrong".
+    + Therefore, please explain your opinions and concerns to me.
 
 ## How do other people think of me?
 * Prof. [Andrew Lim](https://www.limandrew.org/) (My Ph.D. advisor)
