@@ -8,27 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my personal website!
+# 欢迎! Please visit my [English](https://bear-wangsx.github.io/) site.
 
-## Employment
-* [Institute of Data Science](https://ids.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/)
-  - [Research Fellow](https://ids.nus.edu.sg/people-researchers.html)
-  - Advisor: [Prof. Vincent Tan](https://vyftan.github.io/)
-  - Mar 2022 – Present
+## 工作
+* [数据科学研究院](https://ids.nus.edu.sg/), [新加坡国立大学](https://www.nus.edu.sg/)
+  - [研究员](https://ids.nus.edu.sg/people-researchers.html)
+  - 指导老师: [Vincent Tan教授](https://vyftan.github.io/)
+  - 2022年3月 – 至今
 
-## Education
-* Ph.D. in [Industrial Systems Engineering and Management](https://cde.nus.edu.sg/isem/), [National University of Singapore](https://www.nus.edu.sg/)
-  - Advisor: [Prof. Andrew Lim](https://www.limandrew.org)
-    + Prof. Andrew Lim left the National University of Singapore in Apr 2021 and since then [Prof. Zhisheng Ye](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/) hosted me until I submitted my thesis in Dec 2021.
-  - Aug 2018 – Dec 2021
-  - Thesis: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
-    + [\[Slides\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[Codes\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[Formal Access\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
-* M.Eng. in Systems and Control Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
-  - Advisor: Prof. Jianhua He
-  - Sep 2016 – Mar 2018
-* B.Eng. in Detection, Guidance, and Control Technology, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
-  - Sep 2012 – Jun 2016
+## 教育背景
+* [新加坡国立大学](https://www.nus.edu.sg/)[工业系统工程与管理系](https://cde.nus.edu.sg/isem/)哲学博士
+  - 指导老师: [Andrew Lim教授](https://www.limandrew.org)
+    + Andrew Lim教授于2021年4月离开新加坡国立大学。[Zhisheng Ye教授](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/)指导我于2021年12月提交了博士论文.
+  - 2018年8月 – 2021年12月
+  - 博士论文: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
+    + [\[演示稿\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[源代码\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[校园访问\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
+* [西北工业大学](https://www.nwpu.edu.cn/)电子信息学院系统与控制工程系硕士
+  - 指导老师: 何建华教授
+  - 2016年9月 - 2018年3月
+* [西北工业大学](https://www.nwpu.edu.cn/)电子信息学院探测制导与控制专业学士
+  - 2012年9月 - 2016年6月
 
-## Contact
-* Email: s.wang@u.nus.edu
+## 联系我
+* 邮箱: s.wang@u.nus.edu
 
