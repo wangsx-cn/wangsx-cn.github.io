@@ -11,7 +11,7 @@ redirect_from:
 # 欢迎访问! 
 Please visit my [English site](https://bear-wangsx.github.io/).
 
-## 工作
+## 工作经历
 * [新加坡国立大学](https://www.nus.edu.sg/)[数据科学研究院](https://ids.nus.edu.sg/)
   - [研究员](https://ids.nus.edu.sg/people-researchers.html)
   - 指导老师: [Vincent Tan教授](https://vyftan.github.io/)
