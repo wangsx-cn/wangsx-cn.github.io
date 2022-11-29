@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 合作者
-+ __如下所列是我的合作者__:
++ __如下所列是我的论文合作者__:
   * [Andrew Lim教授](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
     - Transportation Research, Operations Research, Management Science, Analytics
   * [李崇寿教授](https://scholar.google.com/citations?user=pQsr70EAAAAJ&hl=en)
@@ -28,7 +28,7 @@ author_profile: true
   * [李欣科](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
     - Deep Learning, 3D Vision, Geometry Learning
 
-+ __如下所列是我的长期合作者__:
++ __如下所列是我的长期全方位合作者__:
   * [赵越博士](https://scholar.google.com/citations?user=CGSAYhcAAAAJ&hl=en)
     - Robust Optimization, Adversarial Machine Learning
   * [李静文博士](https://scholar.google.com.sg/citations?user=2nbigR8AAAAJ&hl=en)
