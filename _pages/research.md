@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publication Topics
+## 发表领域
 <html><body>
 <p align="justify">
  我发表的论文涉及如下领域：统计信号处理理论(例如最优估计理论、时间序列分析、和目标跟踪)、统计机器学习理论(例如泛化误差理论)、和智能交通技术。
 </p>
 </body></html>
 
-## Research Topics
+## 研究领域
 <html><body>
 <p align="justify">
  我的研究兴趣包括概率理论、统计理论、和优化理论，以及它们在信号处理、机器学习、和控制理论中的应用。具体地，我熟悉以下领域:
@@ -31,7 +31,7 @@ author_profile: true
 * 目标定位和跟踪
 * 仪器与测量系统
 
-## Academic Activities
+## 学术活动
 <html><body>
 <p align="justify">
 我是IEEE Transactions on Signal Processing和IEEE Transactions on Instrumentation and Measurement的活跃审稿人，但我偶尔也为IEEE Signal Processing Letters、IEEE Transactions on Circuits and Systems、和IISE Transactions审稿。我是个认真负责的审稿人：我从不拖延（一般在接到审稿邀请的前两周内就返回审稿意见），并且我的审稿意见是非常详细和专业的。
