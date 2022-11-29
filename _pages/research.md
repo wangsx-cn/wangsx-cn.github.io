@@ -8,62 +8,62 @@ author_profile: true
 ## Publication Topics
 <html><body>
 <p align="justify">
-My up-to-now publication topics include statistical signal processing (e.g., optimal estimation theory, time series analysis, and target tracking), statistical machine learning (e.g., generalization error theory), and intelligent transportation.
+ 我发表的论文涉及如下领域：统计信号处理理论(例如最优估计理论、时间序列分析、和目标跟踪)、统计机器学习理论(如泛化误差理论)、和智能交通技术。
 </p>
 </body></html>
 
 ## Research Topics
 <html><body>
 <p align="justify">
-I am quite interested in probabilistic, statistical, and optimization theories. My research interests and theoretical backgrounds include statistics and optimization theories with applications in signal processing, machine learning, and control theory. Specifically, I am interested in and familiar with the following areas:
+ 我的研究兴趣包括概率理论、统计理论、和优化理论，以及它们在信号处理、机器学习、和控制理论中的应用。具体地，我熟悉以下领域:
 </p>
 </body></html>
 
-* Frequentist and Bayesian Statistics
-* General Optimization Theory
-* Stachastic Programming
-* Distributionally Robust Optimization
-* State Estimation and Filtering Theory
-* Statistical Learning Theory
-* Time Series Analysis
-* Linear and Nonlinear System, and Hidden Markov Process
-* Control Theory and Application, Navigation and Guidance, and Reinforcement Learning
-* Target Positioning and Tracking
-* Instrumentation and Measurement Systems
+* 频率学派和Bayes学派统计理论
+* 一般的优化理论
+* 随机规划
+* 分布鲁棒优化
+* 状态估计和滤波理论
+* 统计学习理论
+* 时间序列分析
+* 线性和非线性系统、隐Markov过程
+* 控制理论和应用, 导航和制导理论, 和强化学习理论
+* 目标定位和跟踪
+* 仪器与测量系统
 
 ## Academic Activities
 <html><body>
 <p align="justify">
-I am an active reviewer for IEEE Transactions on Signal Processing and IEEE Transactions on Instrumentation and Measurement. I also occasionally reviewed papers for IEEE Signal Processing Letters, IEEE Transactions on Circuits and Systems, and IISE Transactions. I never delayed the review process. All my review comments have been returned within the first two weeks after I received the invitations. Also, all my comments are quite detailed and well justified.
+我是IEEE Transactions on Signal Processing和IEEE Transactions on Instrumentation and Measurement的活跃审稿人，但我偶尔也为IEEE Signal Processing Letters、IEEE Transactions on Circuits and Systems、和IISE Transactions审稿。我是个认真负责的审稿人：我从不拖延（一般在接到审稿邀请的前两周内就返回审稿意见），并且我的审稿意见是非常详细和专业的。
 </p>
 </body></html>
 
-## Courses
-+ __Studied During Ph.D.__
-  * I got A+/A/A- for all Ph.D. courses
-  * Course List:
-    - Advanced Engineering Statistics
-    - Robust Optimization
-    - Foundations of Optimization
-    - Modern Control Systems
-    - Applied Forecasting Methods
-    - Theory and Algorithms for Dynamic Programming
-    - Industrial Data Analytics
-    - Theory and Algorithms for Machine Learning
-    - Neural Networks and Deep Learning
-    - Deep Learning for Robotics
-+ __Studied During Master__
-  * I got GPA of 90.44% (4.04 in 5, equivalently)
-  * Course List:
-    - Applied Functional Analysis
-    - Differential Equations in Mathematical Physics
-    - Optimal Estimation Theory and its Applications
-    - Aerodynamics and Flight Control Systems
-    - Integrated Avionics Data Fusion Techniques and Its Application
-    - Data Buses
-    - Modern Digital Signal Processing
-    - Digital Signal Processing Based on Matlab
-+ __Studied During Bachelor__
-  * I got GPA of 92.19% (4.22 in 5, equivalently) in the third academic year and 90.13% (4.01 in 5, equivalently) in the first three academic years
+## 修过的课程
++ __博士课程__
+  * 所有课程都获得A+/A/A-的成绩
+  * 课程列表:
+    - 高级工程统计
+    - 鲁棒优化
+    - 优化基础
+    - 现代控制系统
+    - 应用预测方法
+    - 动态规划理论和算法
+    - 工程数据分析
+    - 机器学习理论和算法
+    - 神经网络和深度学习
+    - 机器人学中的深度学习
++ __硕士课程__
+  * 获得学分绩90.44% (在5分制中等价于4.04)
+  * 课程列表:
+    - 应用泛函分析
+    - 数学物理方程（偏微分方程）
+    - 最有估计理论和应用
+    - 航空动力学和飞行控制系统
+    - 综合航空电子系统数据融合与应用
+    - 数据总线
+    - 现代数字信号处理
+    - 数字信号处理与MATLAB应用
++ __本科课程__
+  * 第三学年获得学分绩92.19% (在5分制中等价于4.22)，前三年平均学分绩90.13% (在5分制中等价于4.01)
 
 
