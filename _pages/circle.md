@@ -5,6 +5,19 @@ permalink: /circle/
 author_profile: true
 ---
 
+## 老师
+
+<html><body>
+<p align="justify">
+如果下面任何一位老师说我某方面做错了，那大概率我是真的错了。虽然有时候我没法快速理解背后的原因，但我还是会谨记在心并尽快搞明白为什么。因为我相信他们对我的关心是没有条件的、他们对我的意见是客观的:
+</p>
+</body></html>
+
+  * [Vincent Tan教授](https://vyftan.github.io/) (我的博士后导师)
+  * [Xiaobo Li教授](https://cde.nus.edu.sg/isem/staff/li-xiaobo/) (我的博士论文指导委员会成员)
+  * [何建华教授](https://teacher.nwpu.edu.cn/j82zf0vfmf50835d3461429868736702.html) (我的硕士论文导师)
+  * [史豪斌教授](https://teacher.nwpu.edu.cn/shihaobin.html) (我本科期间的竞赛导师)
+
 ## 合作者
 + __如下所列是我的论文合作者__:
   * [Andrew Lim教授](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
