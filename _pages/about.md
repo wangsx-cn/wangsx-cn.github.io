@@ -24,10 +24,10 @@ Please visit my [English site](https://bear-wangsx.github.io/).
   - 2018年8月 – 2021年12月
   - 博士论文: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
     + [\[演示稿\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[源代码\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[校园访问\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
-* [西北工业大学](https://www.nwpu.edu.cn/)电子信息学院系统与控制工程系硕士
+* [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)系统与控制工程系硕士
   - 指导老师: [何建华教授](https://teacher.nwpu.edu.cn/j82zf0vfmf50835d3461429868736702.html)
   - 2016年9月 - 2018年3月
-* [西北工业大学](https://www.nwpu.edu.cn/)电子信息学院探测制导与控制技术专业学士
+* [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)探测制导与控制技术专业学士
   - 2012年9月 - 2016年6月
 
 ## 联系我
