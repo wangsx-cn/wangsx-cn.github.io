@@ -101,11 +101,18 @@ author_profile: true
             Submitted on 24 Nov 2022
         </li> 
         <li>
-            Distributional Robustness Reduces Generalization Errors
+            Distributional Robustness Bounds Generalization Errors
             <br>
             <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
             <br>
-            In Preparation
+            Submitted
+        </li> 
+        <li>
+            A New Learning Model Against Distributional Uncertainty
+            <br>
+            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
+            <br>
+            Submitted
         </li> 
     </ol>
 </body>
