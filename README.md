@@ -12,7 +12,9 @@ A Github Pages template for academic websites. This was forked (then detached) b
 <html><body>
 <span style="color: red">
 Note that the script in:
+      
       _includes/footer/custom.html
+      
 is ad-hoc for myself (Shixiong Wang).
 
 It is used to count the site and page visitors for "wangsx-cn.github.io".
