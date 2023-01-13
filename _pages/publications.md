@@ -87,18 +87,11 @@ author_profile: true
 <h2 id="pp">预印本</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
         <li>
-            Distributionally Robust State Estimation for Jump Linear Systems
+            A New Learning Model Against Distributional Uncertainty
             <br>
-            <b>Shixiong Wang</b>
+            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
             <br>
-            Submitted on 23 Jun 2022
-        </li> 
-        <li>
-            A Railway Accident Prevention System Using An Intelligent Pilot Vehicle
-            <br>
-            <b>Shixiong Wang</b>, Xinke Li, and Yang Liu
-            <br>
-            Submitted on 24 Nov 2022
+            Submitted
         </li> 
         <li>
             Distributional Robustness Bounds Generalization Errors
@@ -108,11 +101,18 @@ author_profile: true
             Submitted
         </li> 
         <li>
-            A New Learning Model Against Distributional Uncertainty
+            A Railway Accident Prevention System Using An Intelligent Pilot Vehicle
             <br>
-            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
+            <b>Shixiong Wang</b>, Xinke Li, and Yang Liu
             <br>
-            Submitted
+            Submitted on 24 Nov 2022
+        </li> 
+        <li>
+            Distributionally Robust State Estimation for Jump Linear Systems
+            <br>
+            <b>Shixiong Wang</b>
+            <br>
+            Submitted on 23 Jun 2022
         </li> 
     </ol>
 </body>
