@@ -38,8 +38,6 @@ author_profile: true
 + __如下所列是我的预印本合作者__:
   * [刘杨教授](https://www.nuslumos.org/)
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
-  * [Jean Honorio教授](https://www.cs.purdue.edu/homes/jhonorio/)
-    - Machine Learning, Optimization
   * [王皓纬博士](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
     - Bayesian Optimization, Uncertainty Analysis
   * [李欣科](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
