@@ -89,7 +89,7 @@ author_profile: true
         <li>
             A New Learning Model Against Distributional Uncertainty
             <br>
-            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
+            <b>Shixiong Wang</b> and Haowei Wang
             <br>
             Submitted
         </li> 
