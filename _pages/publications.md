@@ -87,32 +87,32 @@ author_profile: true
 <h2 id="pp">预印本</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
         <li>
-            A New Learning Model Against Distributional Uncertainty
+            <a href="https://openreview.net/forum?id=42urSVyRtM">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
             <br>
-            <b>Shixiong Wang</b> and Haowei Wang
+            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
             <br>
-            Submitted
+            Submitted on 26 Jan 2023
         </li> 
         <li>
             <a href="https://arxiv.org/abs/2212.09962">Distributional Robustness Bounds Generalization Errors</a>
             <br>
             <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
             <br>
-            Submitted
+            Submitted on 12 Jan 2023
         </li> 
         <li>
             A Railway Accident Prevention System Using An Intelligent Pilot Vehicle
             <br>
             <b>Shixiong Wang</b>, Xinke Li, and Yang Liu
             <br>
-            Submitted on 24 Nov 2022
+            Submitted on 24 Nov 2022, Under Revision
         </li> 
         <li>
             Distributionally Robust State Estimation for Jump Linear Systems
             <br>
             <b>Shixiong Wang</b>
             <br>
-            Submitted on 23 Jun 2022
+            Submitted on 23 Jun 2022, Under Revision
         </li> 
     </ol>
 </body>
