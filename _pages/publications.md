@@ -87,7 +87,7 @@ author_profile: true
 <h2 id="pp">预印本</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
         <li>
-            <a href="https://openreview.net/forum?id=42urSVyRtM">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
+            <a href="https://arxiv.org/abs/2301.13565">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
             <br>
             <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
             <br>
@@ -112,7 +112,7 @@ author_profile: true
             <br>
             <b>Shixiong Wang</b>
             <br>
-            Submitted on 23 Jun 2022, Under Revision
+            Submitted on 23 Jun 2022, Revised on 31 Jan 2023
         </li> 
     </ol>
 </body>
