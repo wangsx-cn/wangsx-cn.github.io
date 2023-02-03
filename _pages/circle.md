@@ -56,7 +56,7 @@ author_profile: true
     - Blockchain, Graph Algorithms
   * [潘斌斌博士](https://scholar.google.com/citations?user=fjOhMJoAAAAJ&hl=en)
     - Logistics, Transportations, Operations Research, Supply Chain
-  * [胡侃新](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
+  * [胡侃新博士](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
     - Machine Scheduling, Combinatorial Optimization
   * [王琛](https://scholar.google.com/citations?user=DnrU0k0AAAAJ&hl=en)
     - Machine Learning, Theoretical Computer Science, Learning Theory, Sublinear Algorithms, Biostatistics
