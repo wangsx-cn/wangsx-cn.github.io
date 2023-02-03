@@ -59,7 +59,7 @@ author_profile: true
   * [胡侃新博士](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
     - Machine Scheduling, Combinatorial Optimization
   * [李一辰博士](https://scholar.google.com/citations?user=GglmcQQAAAAJ&hl=en&oi=ao)
-    - Underwater Sensor Networks, Cooperative Localization, Target tracking, Signal Processing, Information Fusion
+    - Underwater Sensor Networks, Cooperative Localization, Target Tracking, Signal Processing, Information Fusion
   * [王琛](https://scholar.google.com/citations?user=DnrU0k0AAAAJ&hl=en)
     - Machine Learning, Theoretical Computer Science, Learning Theory, Sublinear Algorithms, Biostatistics
   
