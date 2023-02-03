@@ -52,6 +52,8 @@ author_profile: true
     - Operations Management, Asymptotic Statistics, Optimization Algorithms
   * [黄禹铭博士](https://scholar.google.com/citations?user=xv6lgqIAAAAJ&hl=en&oi=ao)
     - Blockchain, Cryptocurrency, Decentralized Systems
+  * [从乾昊博士](https://scholar.google.com/citations?user=BoyWviYAAAAJ&hl=en)
+    - Blockchain, Graph Algorithms
   * [潘斌斌博士](https://scholar.google.com/citations?user=fjOhMJoAAAAJ&hl=en)
     - Logistics, Transportations, Operations Research, Supply Chain
   * [胡侃新](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
