@@ -13,9 +13,9 @@ Please visit my [English site](https://bear-wangsx.github.io/).
 
 ## 工作经历
 * [新加坡国立大学](https://www.nus.edu.sg/)[数据科学研究院](https://ids.nus.edu.sg/)
-  - [研究员](https://ids.nus.edu.sg/people-researchers.html)
+  - 博士后研究员 <!--(https://ids.nus.edu.sg/people-researchers.html)-->
   - 指导老师: [Vincent Tan教授](https://vyftan.github.io/)
-  - 2022年3月 – 至今
+  - 2022年3月 – 2023年3月
 
 ## 教育背景
 * [新加坡国立大学](https://www.nus.edu.sg/)[工业系统工程与管理系](https://cde.nus.edu.sg/isem/)哲学博士
