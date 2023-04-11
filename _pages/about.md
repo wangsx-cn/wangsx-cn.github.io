@@ -14,7 +14,7 @@ Please visit my [English site](https://bear-wangsx.github.io/).
 ## 工作经历
 * [帝国理工学院](https://www.imperial.ac.uk/)[智能传输与处理实验室](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/)
   - 博士后研究员 <!--(https://ids.nus.edu.sg/people-researchers.html)-->
-  - 指导老师: [Wei Dai教授](https://www.imperial.ac.uk/people/wei.dai1) and [Geoffrey Ye Li教授](https://www.imperial.ac.uk/people/geoffrey.li)
+  - 指导老师: [Wei Dai教授](https://www.imperial.ac.uk/people/wei.dai1) and [Geoffrey Ye Li教授](https://www.imperial.ac.uk/people/geoffrey.li)(IEEE Fellow)
   - 2023年4月 – 
 
 * [新加坡国立大学](https://www.nus.edu.sg/)[数据科学研究院](https://ids.nus.edu.sg/)
@@ -30,7 +30,7 @@ Please visit my [English site](https://bear-wangsx.github.io/).
   - 博士论文: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
     + [\[演示稿\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[源代码\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[校园访问\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
 * [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)系统与控制工程系硕士
-  - 指导老师: 何建华副教授<!--(https://teacher.nwpu.edu.cn/j82zf0vfmf50835d3461429868736702.html)-->
+  - 指导老师: [何建华副教授](https://teacher.nwpu.edu.cn/j82zf0vfmf50835d3461429868736702.html)
   - 2016年9月 - 2018年3月
 * [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)探测制导与控制技术专业学士
   - 2012年9月 - 2016年6月
