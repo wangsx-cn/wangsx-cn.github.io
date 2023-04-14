@@ -26,12 +26,13 @@ Please visit my [English site](https://bear-wangsx.github.io/).
 * [新加坡国立大学](https://www.nus.edu.sg/)[工业系统工程与管理系](https://cde.nus.edu.sg/isem/)哲学博士
   - 指导老师: [Andrew Lim教授](https://www.limandrew.org)
     + Andrew Lim教授于2021年4月离开新加坡国立大学。[Zhisheng Ye教授](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/)指导我于2021年12月提交了博士论文。
-  - 2018年8月 – 2021年12月
+  - 2018年8月 – 2022年7月（2021年12月提交学位论文，2022年7月正式获得学位）
   - 博士论文: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
     + [\[演示稿\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[源代码\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[校园访问\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
 * [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)系统与控制工程系硕士
   - 指导老师: [何建华副教授](https://teacher.nwpu.edu.cn/j82zf0vfmf50835d3461429868736702.html)
-  - 2016年9月 - 2018年3月
+  - 2016年9月 - 2018年3月（提前一年毕业）
+  - 硕士论文：[动态不确定环境下分布式决策技术研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkueNJRSNVX-zc5TVHKmDNkgGjUjUarklUUskOGx4rdd3BgrkBj0dQm4mYfJ8E3bnt&uniplatform=NZKPT)
 * [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)探测制导与控制技术专业学士
   - 2012年9月 - 2016年6月
 
