@@ -103,9 +103,9 @@ author_profile: true
         <li>
             A Railway Accident Prevention System Using An Intelligent Pilot Vehicle
             <br>
-            <b>Shixiong Wang</b>, Xinke Li, and Yang Liu
+            <b>Shixiong Wang</b>, Xinke Li, Zhirui Chen, and Yang Liu
             <br>
-            Submitted on 24 Nov 2022, Under Revision
+            Submitted on 24 Nov 2022, Revised on 11 May 2023
         </li> 
         <li>
             Distributionally Robust State Estimation for Jump Linear Systems
