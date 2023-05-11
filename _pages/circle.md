@@ -42,6 +42,8 @@ author_profile: true
     - Bayesian Optimization, Uncertainty Analysis
   * [李欣科](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
     - Deep Learning, 3D Vision, Geometry Learning
+  * [Zhirui Chen](https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en)
+    - Multi-armed Bandits, Machine Learning
 
 + __如下所列是我的长期全方位合作者__:
   * [赵越博士](https://scholar.google.com/citations?user=CGSAYhcAAAAJ&hl=en)
