@@ -112,7 +112,7 @@ author_profile: true
             <br>
             <b>Shixiong Wang</b>
             <br>
-            Submitted to IEEE Transactions on Signal Processing on 23 Jun 2022, Revised on 31 Jan 2023, Currently Under Revision
+            Submitted on 23 Jun 2022, Revised on 31 Jan 2023, Currently Under Revision
         </li> 
     </ol>
 </body>
