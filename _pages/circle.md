@@ -9,7 +9,7 @@ author_profile: true
 
 <html><body>
 <p align="justify">
-下面的老师对我的关心是没有条件的、他们对我的意见是客观的:
+下面的老师对我的关心是没有条件的、他们对我的评论和意见一般是客观的:
 </p>
 </body></html>
 
