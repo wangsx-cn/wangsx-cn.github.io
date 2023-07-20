@@ -32,7 +32,7 @@ Please visit my [English site](https://bear-wangsx.github.io/).
 * [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)系统与控制工程系硕士
   - 指导老师: [何建华副教授](https://teacher.nwpu.edu.cn/j82zf0vfmf50835d3461429868736702.html)
   - 2016年9月 - 2018年3月（提前一年毕业）
-  - 硕士论文：[动态不确定环境下分布式决策技术研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkueNJRSNVX-zc5TVHKmDNkgGjUjUarklUUskOGx4rdd3BgrkBj0dQm4mYfJ8E3bnt&uniplatform=NZKPT)
+  - 硕士论文：动态不确定环境下分布式决策技术研究
   - 优秀硕士学位论文奖
 * [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)探测制导与控制技术专业学士
   - 2012年9月 - 2016年6月
