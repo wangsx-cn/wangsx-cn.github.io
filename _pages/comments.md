@@ -36,6 +36,9 @@ author_profile: true
 * [Andrew Lim教授](https://www.limandrew.org/) (我的博士导师)
   - "你是一个擅长独立研究的学生。"
     + 他在微信聊天中这么评价我的
+* [Vincent Tan教授](https://vyftan.github.io/) (我的博后导师)
+  - "你在科学研究方面有充分的天赋。"
+    + 他在给我的2022年圣诞节贺卡中这么评价我的
 * [Tan Kok Choon教授](https://bizfaculty.nus.edu.sg/faculty-details/?profId=239) (我担任助教的一门[课程](https://nusmods.com/modules/MTM5001/maritime-industry-fundamentals)的老师)
   - "你是我过去12年里遇到过的最好的助教。感谢你对我教学的帮助。"
     + 2021年12月28日下午6:48
