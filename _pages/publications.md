@@ -112,7 +112,7 @@ author_profile: true
             <br>
             <b>Shixiong Wang</b>
             <br>
-            Submitted on 23 Jun 2022, Revised on 31 Jan 2023, Currently Under Revision (RQ: Major Revision)
+            Submitted on 23 Jun 2022, Revised on 31 Jan 2023 and 22 Jun 2023, Current Status: In Peer Review
         </li> 
     </ol>
 </body>
