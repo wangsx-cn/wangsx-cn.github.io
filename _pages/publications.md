@@ -105,7 +105,7 @@ author_profile: true
             <br>
             <b>Shixiong Wang</b>, Xinke Li, Zhirui Chen, and Yang Liu
             <br>
-            Submitted on 24 Nov 2022, Revised on 11 May 2023
+            Submitted on 24 Nov 2022, Revised on 11 May 2023 and 6 Sep 2023
         </li> 
         <li>
             Distributionally Robust State Estimation for Jump Linear Systems
