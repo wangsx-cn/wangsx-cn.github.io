@@ -24,9 +24,9 @@ author_profile: true
                 <br>
                 IEEE Transactions on Signal Processing, Vol. 70, pp. 4408-4423, Aug 2022
                 <br>
-                <a href="../files/publications/2022/[Wang 2022 TSP] Distributionally Robust State Estimation - Nonlinear.pdf">[Paper]</a>
-                <a href="../files/publications/2022/[Wang 2022 TSP] [Suppl] Distributionally Robust State Estimation - Nonlinear.pdf">[Supplementary]</a>
-                <a href="https://github.com/Spratm-Asleaf/DRSE-Nonlinear">[Codes]</a>
+                <a href="../files/publications/2022/[Wang 2022 TSP] Distributionally Robust State Estimation - Nonlinear.pdf">[论文]</a>
+                <a href="../files/publications/2022/[Wang 2022 TSP] [Suppl] Distributionally Robust State Estimation - Nonlinear.pdf">[补充材料]</a>
+                <a href="https://github.com/Spratm-Asleaf/DRSE-Nonlinear">[源代码]</a>
             </li> 
             <li>
                 <a href="https://ieeexplore.ieee.org/document/9656678">Distributionally Robust State Estimation for Linear Systems Subject to Uncertainty and Outlier</a>
@@ -35,9 +35,9 @@ author_profile: true
                 <br>
                 IEEE Transactions on Signal Processing, Vol. 70, pp. 452-467, Dec 2021
                 <br>
-                <a href="../files/publications/2022/[Wang 2022 TSP] Distributionally Robust State Estimation - Uncertianty and Outlier.pdf">[Paper]</a>
-                <a href="../files/publications/2022/[Wang 2022 TSP] [Suppl] Distributionally Robust State Estimation - Uncertianty and Outlier.pdf">[Supplementary]</a>
-                <a href="https://github.com/Spratm-Asleaf/DRSE-Outlier">[Codes]</a>
+                <a href="../files/publications/2022/[Wang 2022 TSP] Distributionally Robust State Estimation - Uncertianty and Outlier.pdf">[论文]</a>
+                <a href="../files/publications/2022/[Wang 2022 TSP] [Suppl] Distributionally Robust State Estimation - Uncertianty and Outlier.pdf">[补充材料]</a>
+                <a href="https://github.com/Spratm-Asleaf/DRSE-Outlier">[源代码]</a>
             </li> 
             <li>
                 <a href="https://ieeexplore.ieee.org/document/9563203">Robust State Estimation for Linear Systems Under Distributional Uncertainty</a>
@@ -46,9 +46,9 @@ author_profile: true
                 <br>
                 IEEE Transactions on Signal Processing, Vol. 69, pp. 5963-5978, Oct 2021
                 <br>
-                <a href="../files/publications/2021/[Wang 2021 TSP] Distributionally Robust State Estimation - Uncertianty.pdf">[Paper]</a>
-                <a href="../files/publications/2021/[Wang 2021 TSP] [Suppl] Distributionally Robust State Estimation - Uncertianty.pdf">[Supplementary]</a>
-                <a href="https://github.com/Spratm-Asleaf/DRSE">[Codes]</a>
+                <a href="../files/publications/2021/[Wang 2021 TSP] Distributionally Robust State Estimation - Uncertianty.pdf">[论文]</a>
+                <a href="../files/publications/2021/[Wang 2021 TSP] [Suppl] Distributionally Robust State Estimation - Uncertianty.pdf">[补充材料]</a>
+                <a href="https://github.com/Spratm-Asleaf/DRSE">[源代码]</a>
             </li> 
             <li>
                 <a href="https://www.sciencedirect.com/science/article/abs/pii/S016516841930091X">Optimal Joint Estimation and Identification Theorem to Linear Gaussian System with Unknown Inputs</a>
@@ -57,8 +57,8 @@ author_profile: true
                 <br>
                 Signal Processing, Vol. 161, pp. 268-288, Aug 2019
                 <br>
-                <a href="../files/publications/2019/[Wang 2019 SP] Joint Estimation and Identification.pdf">[Paper]</a>
-                <a href="https://github.com/Spratm-Asleaf/LJEI">[Codes]</a>
+                <a href="../files/publications/2019/[Wang 2019 SP] Joint Estimation and Identification.pdf">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/LJEI">[源代码]</a>
             </li> 
         </ol>
     <h3 id="ts">&emsp;时间序列</h3>
@@ -70,8 +70,8 @@ author_profile: true
                 <br>
                 IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-11, Feb 2021
                 <br>
-                <a href="../files/publications/2021/[Wang 2021 TIM] Model for Nonstationary Time Series.pdf">[Paper]</a>
-                <a href="https://github.com/Spratm-Asleaf/TVLAP-KF">[Codes]</a>
+                <a href="../files/publications/2021/[Wang 2021 TIM] Model for Nonstationary Time Series.pdf">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/TVLAP-KF">[源代码]</a>
             </li> 
         </ol>
     <h3 id="pt">&emsp;定位和跟踪</h3>
@@ -84,8 +84,8 @@ author_profile: true
                 <br>
                 IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-13, May 2021
                 <br>
-                <a href="../files/publications/2021/[Wang 2021 TIM] Range Based Positioning.pdf">[Paper]</a>
-                <a href="https://github.com/Spratm-Asleaf/Range-Correction">[Codes]</a>
+                <a href="../files/publications/2021/[Wang 2021 TIM] Range Based Positioning.pdf">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/Range-Correction">[源代码]</a>
             </li> 
         </ol>
 <h2 id="it">智能交通</h2>
@@ -97,8 +97,9 @@ author_profile: true
             <br>
             IEEE Transactions on Intelligent Transportation Systems, Vol. 23, pp. 6347-6356, Feb 2021
             <br>
-            <a href="../files/publications/2021/[Wang 2021 TITS] ROPHS - Determine Real Time Status.pdf">[Paper]</a>
-            <a href="https://github.com/Spratm-Asleaf/GSE-Tracking">[Codes]</a>
+            <a href="../files/publications/2021/[Wang 2021 TITS] ROPHS - Determine Real Time Status.pdf">[论文]</a>
+            <a href="https://www.bilibili.com/video/BV1Ru411c7mb/">[演示视频]</a>
+            <a href="https://github.com/Spratm-Asleaf/GSE-Tracking">[源代码]</a>
         </li> 
         <li>
             <a href="https://ieeexplore.ieee.org/document/9125922">Accurate Tracking, Collision Detection, and Optimal Scheduling of Airport Ground Support Equipment</a>
@@ -107,8 +108,9 @@ author_profile: true
             <br>
             IEEE Internet of Things Journal, Vol. 8, pp. 572-584, Jun 2020
             <br>
-            <a href="../files/publications/2021/[Wang 2021 IOT] Accurate Tracking, Collision_Detection and Optimal_Scheduling.pdf">[Paper]</a>
-            <a href="https://github.com/Spratm-Asleaf/GSE-Management">[Codes]</a>
+            <a href="../files/publications/2021/[Wang 2021 IOT] Accurate Tracking, Collision_Detection and Optimal_Scheduling.pdf">[论文]</a>
+            <a href="https://www.bilibili.com/video/BV1bH4y1S72a/">[演示视频]</a>
+            <a href="https://github.com/Spratm-Asleaf/GSE-Management">[源代码]</a>
         </li> 
     </ol>
 <h2 id="pp">预印本</h2>
