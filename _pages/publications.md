@@ -18,6 +18,17 @@ author_profile: true
     <h3 id="se">&emsp;状态估计</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
+                <a href="../files/publications/2023/[Wang 2023 TSP] Distributionally Robust State Estimation - Jump.pdf">Distributionally Robust State Estimation for Jump Linear Systems</a>
+                <br>
+                <b>Shixiong Wang</b>
+                <br>
+                IEEE Transactions on Signal Processing, 2023
+                <br>
+                <a href="../files/publications/2023/[Wang 2023 TSP] Distributionally Robust State Estimation - Jump.pdf">[论文]</a>
+                <a href="../files/publications/2023/[Wang 2023 TSP] [Suppl] Distributionally Robust State Estimation - Jump.pdf">[补充材料]</a>
+                <a href="https://github.com/Spratm-Asleaf/DRSE-Jump">[源代码]</a>
+            </li> 
+            <li>
                 <a href="https://ieeexplore.ieee.org/document/9872130">Distributionally Robust State Estimation for Nonlinear Systems</a>
                 <br>
                 <b>Shixiong Wang</b>
@@ -135,13 +146,6 @@ author_profile: true
             <b>Shixiong Wang</b>, Xinke Li, Zhirui Chen, and Yang Liu
             <br>
             Submitted on 24 Nov 2022, Revised on 11 May 2023 and 6 Sep 2023
-        </li> 
-        <li>
-            Distributionally Robust State Estimation for Jump Linear Systems
-            <br>
-            <b>Shixiong Wang</b>
-            <br>
-            Submitted on 23 Jun 2022, Revised on 31 Jan 2023 and 22 Jun 2023, Current Status: In Peer Review
         </li> 
     </ol>
 </body>
