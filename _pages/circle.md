@@ -31,7 +31,7 @@ author_profile: true
   * [吴中明教授](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
     - Mathematical Programming, Optimization, Operations Research
   * [车玉馨博士](https://scholar.google.com.sg/citations?user=Cj8PVYYAAAAJ&hl=en)
-    - Packing, Vehicel Routing, Scheduling
+    - Packing, Vehicle Routing, Scheduling
   * [赵皇杰博士](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en)
     - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
 
@@ -40,9 +40,9 @@ author_profile: true
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
   * [王皓纬博士](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
     - Bayesian Optimization, Uncertainty Analysis
-  * [李欣科](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
+  * [李欣科博士](https://scholar.google.com/citations?user=l4LPBs0AAAAJ&hl=zh-CN)
     - Deep Learning, 3D Vision, Geometry Learning
-  * [Zhirui Chen](https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en)
+  * [陈志锐](https://scholar.google.com/citations?user=MMxA2qAAAAAJ&hl=en)
     - Multi-armed Bandits, Machine Learning
 
 + __如下所列是我的长期全方位合作者__:
@@ -57,7 +57,7 @@ author_profile: true
   * [从乾昊博士](https://scholar.google.com/citations?user=BoyWviYAAAAJ&hl=en)
     - Blockchain, Graph Algorithms
   * [潘斌斌博士](https://scholar.google.com/citations?user=fjOhMJoAAAAJ&hl=en)
-    - Logistics, Transportations, Operations Research, Supply Chain
+    - Logistics, Transportation, Operations Research, Supply Chain
   * [胡侃新博士](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
     - Machine Scheduling, Combinatorial Optimization
   * [李一辰博士](https://scholar.google.com/citations?user=GglmcQQAAAAJ&hl=en&oi=ao)
