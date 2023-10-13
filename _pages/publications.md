@@ -18,7 +18,7 @@ author_profile: true
     <h3 id="se">&emsp;状态估计</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="../files/publications/2023/[Wang 2023 TSP] Distributionally Robust State Estimation - Jump.pdf">Distributionally Robust State Estimation for Jump Linear Systems</a>
+                <a href="https://ieeexplore.ieee.org/document/10281374">Distributionally Robust State Estimation for Jump Linear Systems</a>
                 <br>
                 <b>Shixiong Wang</b>
                 <br>
