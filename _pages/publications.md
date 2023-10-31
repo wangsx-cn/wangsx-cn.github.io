@@ -147,6 +147,14 @@ author_profile: true
             <br>
             Submitted on 24 Nov 2022, Revised on 11 May 2023 and 6 Sep 2023
         </li> 
+        <li>
+            Robust Waveform Design for Integrated Sensing and Communication
+            <br>
+            <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
+            <br>
+            Submitted on 31 Oct 2023
+        </li>
+
     </ol>
 </body>
 </html>
