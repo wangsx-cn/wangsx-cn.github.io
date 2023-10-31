@@ -36,6 +36,10 @@ author_profile: true
     - Operations Research, Robust Optimization, Routing Optimization, Biobjective Analysis
 
 + __如下所列是我的预印本合作者__:
+  * [李烨教授, IEEE会士](https://www.imperial.ac.uk/people/geoffrey.li)
+    - Signal Processing, Machine Learning, Wireless Communications
+  * [Wei Dai教授](https://www.imperial.ac.uk/people/wei.dai1)
+    - Signal Processing, Information Theory, Random Matrix Theory
   * [刘杨教授](https://www.nuslumos.org/)
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
   * [王皓纬博士](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
