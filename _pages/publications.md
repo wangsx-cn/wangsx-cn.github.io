@@ -102,6 +102,17 @@ author_profile: true
 <h2 id="it">智能交通</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
         <li>
+            <a href="../files/publications/2023/[Wang 2023 TITS] Railway Accident Prevention System - Pilot.pdf">A Railway Accident Prevention System Using An Intelligent Pilot Vehicle</a>
+            <br>
+            <b>Shixiong Wang</b>*, Xinke Li*, Zhirui Chen, and Yang Liu (*: Equal Contribution)
+            <br>
+            IEEE Transactions on Intelligent Transportation Systems, Accepted on 1 Nov 2023
+            <br>
+            <a href="../files/publications/2023/[Wang 2023 TITS] Railway Accident Prevention System - Pilot.pdf">[Paper]</a>
+            <a href="../files/publications/2023/[Wang 2023 TITS] [Suppl] Railway Accident Prevention System - Pilot.pdf">[Supplementary]</a>
+            <a href="https://github.com/Spratm-Asleaf/Pilot-Vehicle">[Codes]</a>
+        </li> 
+        <li>
             <a href="https://ieeexplore.ieee.org/document/9352528">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
             <br>
             <b>Shixiong Wang</b>, Chongshou Li, and Andrew Lim
@@ -139,13 +150,6 @@ author_profile: true
             <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
             <br>
             Submitted on 12 Jan 2023
-        </li> 
-        <li>
-            A Railway Accident Prevention System Using An Intelligent Pilot Vehicle
-            <br>
-            <b>Shixiong Wang</b>, Xinke Li, Zhirui Chen, and Yang Liu
-            <br>
-            Submitted on 24 Nov 2022, Revised on 11 May 2023 and 6 Sep 2023
         </li> 
         <li>
             Robust Waveform Design for Integrated Sensing and Communication
