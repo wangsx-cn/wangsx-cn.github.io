@@ -108,9 +108,9 @@ author_profile: true
             <br>
             IEEE Transactions on Intelligent Transportation Systems, Accepted on 1 Nov 2023
             <br>
-            <a href="../files/publications/2023/[Wang 2023 TITS] Railway Accident Prevention System - Pilot.pdf">[Paper]</a>
-            <a href="../files/publications/2023/[Wang 2023 TITS] [Suppl] Railway Accident Prevention System - Pilot.pdf">[Supplementary]</a>
-            <a href="https://github.com/Spratm-Asleaf/Pilot-Vehicle">[Codes]</a>
+            <a href="../files/publications/2023/[Wang 2023 TITS] Railway Accident Prevention System - Pilot.pdf">[论文]</a>
+            <a href="../files/publications/2023/[Wang 2023 TITS] [Suppl] Railway Accident Prevention System - Pilot.pdf">[补充材料]</a>
+            <a href="https://github.com/Spratm-Asleaf/Pilot-Vehicle">[源代码]</a>
         </li> 
         <li>
             <a href="https://ieeexplore.ieee.org/document/9352528">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
