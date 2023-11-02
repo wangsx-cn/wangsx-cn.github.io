@@ -152,7 +152,7 @@ author_profile: true
             Submitted on 12 Jan 2023
         </li> 
         <li>
-            Robust Waveform Design for Integrated Sensing and Communication
+            <a href="https://arxiv.org/abs/2311.00071">Robust Waveform Design for Integrated Sensing and Communication</a>
             <br>
             <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
             <br>
