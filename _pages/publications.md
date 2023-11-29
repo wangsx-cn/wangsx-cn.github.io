@@ -158,6 +158,13 @@ author_profile: true
             <br>
             Submitted on 31 Oct 2023
         </li>
+        <li>
+            <a href="https://arxiv.org/abs/2311.05532">Uncertainty-Aware Bayes' Rule and Its Applications</a>
+            <br>
+            <b>Shixiong Wang</b>
+            <br>
+            Submitted on 8 Nov 2023
+        </li> 
     </ol>
 </body>
 </html>
