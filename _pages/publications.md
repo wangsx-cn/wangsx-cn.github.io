@@ -113,6 +113,17 @@ author_profile: true
             <a href="https://github.com/Spratm-Asleaf/Pilot-Vehicle">[源代码]</a>
         </li> 
         <li>
+            <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021173085">System for Managing Interconnected Objects</a>
+            <br>
+            <b>Shixiong Wang</b>, Chongshou Li, and Andrew Lim
+            <br>
+            WIPO PCT Patent, 02 Sep 2021
+            <br>
+            <a href="../files/publications/2021/[Wang 2021 PCT Patent] System for Managing Interconnected Objects.pdf">[专利原文]</a>
+            <a href="https://www.wipo.int/portal/en/index.html">[世界知识产权组织(WIPO)]</a>
+            <a href="https://www.wipo.int/pct/en/">[专利合作协议(PCT)]</a>
+        </li> 
+        <li>
             <a href="https://ieeexplore.ieee.org/document/9352528">ROPHS: Determine Real-Time Status of a Multi-Carriage Logistics Train at Airport</a>
             <br>
             <b>Shixiong Wang</b>, Chongshou Li, and Andrew Lim
