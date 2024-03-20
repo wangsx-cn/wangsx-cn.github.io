@@ -32,6 +32,11 @@ table, th, td {
           <td><b>备注</b></td>
         </tr>
         <tr>
+          <td>杰出审稿人</td>
+          <td>2023</td>
+          <td>IEEE仪器与测量汇刊</td>
+        </tr>
+        <tr>
           <td>新加坡国立大学研究奖学金</td>
           <td>2018</td>
           <td></td>
