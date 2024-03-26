@@ -159,7 +159,7 @@ author_profile: true
         <li>
             <a href="https://arxiv.org/abs/2212.09962">Distributional Robustness Bounds Generalization Errors</a>
             <br>
-            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
+            <b>Shixiong Wang</b> and Haowei Wang
             <br>
             Under Submission
             <!--Submitted on 12 Jan 2023-->
