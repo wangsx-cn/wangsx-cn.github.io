@@ -65,7 +65,7 @@ author_profile: true
     - Logistics, Transportation, Operations Research, Supply Chain
   * [胡侃新博士](https://scholar.google.com/citations?user=o_oWtloAAAAJ&hl=en)
     - Machine Scheduling, Combinatorial Optimization
-  * [赵静怡博士](https://scholar.google.com/citations?user=YkPRtnoAAAAJ&hl=en)
+  * [赵婧怡博士](https://scholar.google.com/citations?user=YkPRtnoAAAAJ&hl=en)
     - Vehicle Routing, Heuristic Algorithm
   * [李一辰博士](https://scholar.google.com/citations?user=GglmcQQAAAAJ&hl=en&oi=ao)
     - Underwater Sensor Networks, Cooperative Localization, Target Tracking, Signal Processing, Information Fusion
