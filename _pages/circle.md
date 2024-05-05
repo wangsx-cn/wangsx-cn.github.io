@@ -55,8 +55,8 @@ author_profile: true
     - Robust Optimization, Adversarial Machine Learning
   * [李静文博士](https://scholar.google.com.sg/citations?user=2nbigR8AAAAJ&hl=en)
     - Deep Reinforcement Learning, Combinatorial Optimization
-  * [张洵博士](https://scholar.google.com/citations?user=hHphcVMAAAAJ&hl=en)
-    - Operations Management, Asymptotic Statistics, Optimization Algorithms
+  <!--* [张洵博士](https://scholar.google.com/citations?user=hHphcVMAAAAJ&hl=en)-->
+  <!--  - Operations Management, Asymptotic Statistics, Optimization Algorithms-->
   * [黄禹铭博士](https://scholar.google.com/citations?user=xv6lgqIAAAAJ&hl=en&oi=ao)
     - Blockchain, Cryptocurrency, Decentralized Systems
   * [从乾昊博士](https://scholar.google.com/citations?user=BoyWviYAAAAJ&hl=en)
@@ -69,6 +69,6 @@ author_profile: true
     - Vehicle Routing, Heuristic Algorithm
   * [李一辰博士](https://scholar.google.com/citations?user=GglmcQQAAAAJ&hl=en&oi=ao)
     - Underwater Sensor Networks, Cooperative Localization, Target Tracking, Signal Processing, Information Fusion
-  * [王琛](https://scholar.google.com/citations?user=DnrU0k0AAAAJ&hl=en)
+  * [王琛博士](https://scholar.google.com/citations?user=DnrU0k0AAAAJ&hl=en)
     - Machine Learning, Theoretical Computer Science, Learning Theory, Sublinear Algorithms, Biostatistics
   
