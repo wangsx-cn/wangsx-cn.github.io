@@ -25,14 +25,20 @@ author_profile: true
 
 ## 合作者
 + __如下所列是我的论文合作者__:
+  * [李烨教授, IEEE会士](https://www.imperial.ac.uk/people/geoffrey.li)
+    - Signal Processing, Machine Learning, Wireless Communications
   * [Andrew Lim教授](https://scholar.google.com/citations?user=iDEgcFQAAAAJ&hl=en)
     - Transportation Research, Operations Research, Management Science, Analytics
+  * [Wei Dai教授](https://www.imperial.ac.uk/people/wei.dai1)
+    - Signal Processing, Information Theory, Random Matrix Theory
   * [李崇寿教授](https://scholar.google.com/citations?user=pQsr70EAAAAJ&hl=en)
     - Hierarchical Learning, Retail Forecasting, Point Cloud Analysis, Data Analytics
   * [吴中明教授](https://scholar.google.com/citations?user=XaPAeGsAAAAJ&hl=en)
     - Mathematical Programming, Optimization, Operations Research
   * [刘杨教授](https://www.nuslumos.org/)
     - Future Urban Mobility and Transport Systems (Shared Mobility System Operation and Design, Travel Demand and Congestion Management, Data-Driven Transportation System Modeling and Analysis)
+  * [王皓纬博士](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
+    - Bayesian Optimization, Uncertainty Analysis
   * [车玉馨博士](https://scholar.google.com.sg/citations?user=Cj8PVYYAAAAJ&hl=en)
     - Packing, Vehicle Routing, Scheduling
   * [赵皇杰博士](https://scholar.google.com/citations?user=IIf_h_8AAAAJ&hl=en)
@@ -43,12 +49,7 @@ author_profile: true
     - Multi-armed Bandits, Machine Learning
 
 + __如下所列是我的预印本合作者__:
-  * [李烨教授, IEEE会士](https://www.imperial.ac.uk/people/geoffrey.li)
-    - Signal Processing, Machine Learning, Wireless Communications
-  * [Wei Dai教授](https://www.imperial.ac.uk/people/wei.dai1)
-    - Signal Processing, Information Theory, Random Matrix Theory
-  * [王皓纬博士](https://scholar.google.com/citations?user=FJKQJywAAAAJ&hl=en)
-    - Bayesian Optimization, Uncertainty Analysis
+
 
 + __如下所列是我的长期全方位合作者__:
   * [赵越博士](https://scholar.google.com/citations?user=CGSAYhcAAAAJ&hl=en)
