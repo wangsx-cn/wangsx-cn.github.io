@@ -10,6 +10,7 @@ author_profile: true
 <h2>按主题查找</h2>
     &emsp;&emsp;<a href="#ssp">统计信号处理</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#se">状态估计</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#wc">无线通信</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#ts">时间序列</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">定位和跟踪</a><br>
     &emsp;&emsp;<a href="#it">智能交通</a><br>
@@ -70,6 +71,19 @@ author_profile: true
                 <br>
                 <a href="../files/publications/2019/[Wang 2019 SP] Joint Estimation and Identification.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/LJEI">[源代码]</a>
+            </li> 
+        </ol>
+    <h3 id="wc">&emsp;无线通信</h3>
+        <ol reversed>		<!-- u: unordered, l: list-->
+            <li>
+                <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">Robust Waveform Design for Integrated Sensing and Communication</a>
+                <br>
+                <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
+                <br>
+                IEEE Transactions on Signal Processing, 2024
+                <br>
+                <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[源代码]</a>
             </li> 
         </ol>
     <h3 id="ts">&emsp;时间序列</h3>
@@ -164,14 +178,6 @@ author_profile: true
             Under Submission
             <!--Submitted on 12 Jan 2023-->
         </li> 
-        <li>
-            <a href="https://arxiv.org/abs/2311.00071">Robust Waveform Design for Integrated Sensing and Communication</a>
-            <br>
-            <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
-            <br>
-            Under Submission
-            <!--Submitted on 31 Oct 2023-->
-        </li>
         <li>
             <a href="https://arxiv.org/abs/2311.05532">Uncertainty-Aware Bayes' Rule and Its Applications</a>
             <br>
