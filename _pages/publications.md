@@ -120,7 +120,7 @@ author_profile: true
             <br>
             <b>Shixiong Wang</b>*, Xinke Li*, Zhirui Chen, and Yang Liu (*: Equal Contribution)
             <br>
-            IEEE Transactions on Intelligent Transportation Systems, Dec 2023
+            IEEE Transactions on Intelligent Transportation Systems, Vol. 25, pp. 5170-5188, Dec 2023
             <br>
             <a href="../files/publications/2023/[Wang 2023 TITS] Railway Accident Prevention System - Pilot.pdf">[论文]</a>
             <a href="../files/publications/2023/[Wang 2023 TITS] [Suppl] Railway Accident Prevention System - Pilot.pdf">[补充材料]</a>
