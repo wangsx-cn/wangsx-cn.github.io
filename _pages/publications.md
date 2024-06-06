@@ -76,13 +76,14 @@ author_profile: true
     <h3 id="wc">&emsp;无线通信</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">Robust Waveform Design for Integrated Sensing and Communication</a>
+                <a href="https://ieeexplore.ieee.org/document/10549948">Robust Waveform Design for Integrated Sensing and Communication</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
                 <br>
-                IEEE Transactions on Signal Processing, 2024
+                IEEE Transactions on Signal Processing, June 2024
                 <br>
                 <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">[论文]</a>
+                <a href="../files/publications/2024/[Wang 2024 TSP] [Suppl] Robust Waveform Design for ISAC.pdf">[补充材料]</a>
                 <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[源代码]</a>
             </li> 
         </ol>
