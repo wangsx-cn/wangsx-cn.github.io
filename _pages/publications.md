@@ -188,7 +188,7 @@ author_profile: true
             <!--Submitted on 8 Nov 2023-->
         </li> 
         <li>
-            <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Beamforming and Estimation of Wireless Signals</a>
+            <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Receive Beamforming</a>
             <br>
             <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
             <br>
