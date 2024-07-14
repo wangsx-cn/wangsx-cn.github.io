@@ -72,4 +72,6 @@ author_profile: true
     - Underwater Sensor Networks, Cooperative Localization, Target Tracking, Signal Processing, Information Fusion
   * [王琛博士](https://scholar.google.com/citations?user=DnrU0k0AAAAJ&hl=en)
     - Machine Learning, Theoretical Computer Science, Learning Theory, Sublinear Algorithms, Biostatistics
-  
+  * [姚希博士](https://scholar.google.com/citations?hl=en&user=m5E-KEMAAAAJ)
+    - Optimization, Compressed Sensing
+
