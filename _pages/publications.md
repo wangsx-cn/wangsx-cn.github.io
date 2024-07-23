@@ -80,7 +80,7 @@ author_profile: true
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, Haowei Wang, and Geoffrey Ye Li
                 <br>
-                IEEE Transactions on Signal Processing, Vol. 72, pp. 3122-3138, June 2024
+                IEEE Transactions on Signal Processing, Vol. 72, pp. 3122-3138, Jun 2024
                 <br>
                 <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">[论文]</a>
                 <a href="../files/publications/2024/[Wang 2024 TSP] [Suppl] Robust Waveform Design for ISAC.pdf">[补充材料]</a>
