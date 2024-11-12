@@ -85,7 +85,7 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文]</a>
             </li> 
             <li>
-                <a href="../files/publications/2024/[Wang 2024 MLSP] Distributionally Robust Outlier-Aware Receive Beamforming.pdf">Distributionally Robust Outlier-Aware Receive Beamforming</a>
+                <a href="https://ieeexplore.ieee.org/abstract/document/10734797">Distributionally Robust Outlier-Aware Receive Beamforming</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
                 <br>
@@ -213,6 +213,13 @@ author_profile: true
             <br>
             Under Submission
             <!--Submitted on 8 Nov 2023-->
+        </li> 
+        <li>
+            <a href="https://arxiv.org/abs/2411.06564">Robust Beamforming with Application in High-Resolution Sensing</a>
+            <br>
+            <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
+            <br>
+            Under Submission
         </li> 
     </ol>
 </body>
