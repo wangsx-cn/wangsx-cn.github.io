@@ -14,7 +14,7 @@ Please visit my [English site](https://bear-wangsx.github.io/).
 ## 工作经历
 * [帝国理工学院](https://www.imperial.ac.uk/)[智能传输与处理实验室](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/)
   - 博士后研究员 <!--(https://ids.nus.edu.sg/people-researchers.html)-->
-  - 指导老师: [Wei Dai教授](https://www.imperial.ac.uk/people/wei.dai1) 和 [Geoffrey Ye Li教授](https://www.imperial.ac.uk/people/geoffrey.li) (IEEE Fellow)
+  - 指导老师: [Wei Dai教授](https://www.imperial.ac.uk/people/wei.dai1) 和 [Geoffrey Ye Li教授](https://www.imperial.ac.uk/people/geoffrey.li) (IEEE Fellow, [英国皇家工程院院士](https://raeng.org.uk/about-us/fellowship/new-fellows-2024/professor-geoffrey-ye-li-freng))
   - 2023年5月 – 
 
 * [新加坡国立大学](https://www.nus.edu.sg/)[数据科学研究院](https://ids.nus.edu.sg/)
