@@ -76,13 +76,16 @@ author_profile: true
     <h3 id="wc">&emsp;无线通信</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://arxiv.org/pdf/2407.11595">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
+                <a href="https://www-file.huawei.com/-/media/corp2020/pdf/publications/huawei-research/2024/huawei-research-issue7-en.pdf">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
                 <br>
                 <b>Shixiong Wang</b> and Geoffrey Ye Li
                 <br>
-                Communications of Huawei Research (邀稿), 2024 (即将出版).
+                Communications of Huawei Research, Issue 7, pp. 2-20, Nov 2024. (Invited Article.)
                 <br>
-                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文(英文版)]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(英文版)]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文(中文版)]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(中文版)]</a>
             </li> 
             <li>
                 <a href="https://ieeexplore.ieee.org/abstract/document/10734797">Distributionally Robust Outlier-Aware Receive Beamforming</a>
