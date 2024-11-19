@@ -80,7 +80,7 @@ author_profile: true
                 <br>
                 <b>Shixiong Wang</b> and Geoffrey Ye Li
                 <br>
-                Communications of Huawei Research, Issue 7, pp. 2-20, Nov 2024. (Invited Article.)
+                Communications of Huawei Research, Issue 7, pp. 2-20, Nov 2024. (邀稿)
                 <br>
                 <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文(英文版)]</a>
                 <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(英文版)]</a>
