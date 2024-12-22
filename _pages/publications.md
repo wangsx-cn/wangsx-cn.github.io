@@ -224,6 +224,13 @@ author_profile: true
             <br>
             Under Submission
         </li> 
+        <li>
+            <a href="https://arxiv.org/abs/2412.14369">Uncertainty Awareness in Wireless Communications, Sensing, and Learning</a>
+            <br>
+            <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
+            <br>
+            Under Submission
+        </li> 
     </ol>
 </body>
 </html>
