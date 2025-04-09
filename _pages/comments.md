@@ -29,7 +29,7 @@ author_profile: true
 <p align="justify">
 如果你想帮别人快速了解我是一个什么样的人，或者你想帮我每天都能提升自己，请随时给我发邮件（s.wang@u.nus.edu）告诉我你对我的批评、建议和意见。这些批评、建议和意见将不做任何修改地展示在下面。你也可以给我发送一封<a href="https://anonymousemail.me/">匿名邮件</a>，在不公开你的身份的前提下提出你的批评、建议和意见。
 </p>
-</body></html>
+</body></html>-->
 
 ## 我的价值观
 * __负责__
