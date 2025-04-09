@@ -9,8 +9,8 @@ main:
   - title: "出版物"
     url: /publications/
     
-  - title: "合作者"
-    url: /circle/
+  #- title: "合作者"
+  #  url: /circle/
     
   - title: "评价"
     url: /comments/
