@@ -5,7 +5,7 @@ permalink: /comments/
 author_profile: true
 ---
 
-## 导师
+## 致谢
 
 <html><body>
 <p align="justify">
