@@ -13,6 +13,8 @@ author_profile: true
     &emsp;&emsp;&emsp;&emsp;<a href="#wc">无线通信</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#ts">时间序列</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">定位和跟踪</a><br>
+    &emsp;&emsp;<a href="#sml">统计机器学习</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#gr">鲁棒性和泛化</a><br>
     &emsp;&emsp;<a href="#it">智能交通</a><br>
     &emsp;&emsp;<a href="#pp">预印本</a>
 <h2 id="ssp">统计信号处理</h2>
@@ -125,8 +127,7 @@ author_profile: true
     <h3 id="pt">&emsp;定位和跟踪</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://ieeexplore.ieee.org/document/9427087">Denoising, Outlier/Dropout Correction, and Sensor Selection in Range-Based Positioning
-</a>
+                <a href="https://ieeexplore.ieee.org/document/9427087">Denoising, Outlier/Dropout Correction, and Sensor Selection in Range-Based Positioning</a>
                 <br>
                 <b>Shixiong Wang</b>, Zhongming Wu, and Andrew Lim
                 <br>
@@ -134,6 +135,20 @@ author_profile: true
                 <br>
                 <a href="../files/publications/2021/[Wang 2021 TIM] Range Based Positioning.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/Range-Correction">[源代码]</a>
+            </li> 
+        </ol>
+<h2 id="sml">统计机器学习</h2>
+    <h3 id="gr">&emsp;鲁棒性和泛化</h3>
+        <ol reversed>		<!-- u: unordered, l: list-->
+            <li>
+                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
+                <br>
+                <b>Shixiong Wang</b>, Haowei Wang, Xinke Li, and Jean Honorio
+                <br>
+                IEEE Journal of Selected Topics in Signal Processing, 2025
+                <br>
+                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/Robustness-Specificity">[源代码]</a>
             </li> 
         </ol>
 <h2 id="it">智能交通</h2>
@@ -185,14 +200,6 @@ author_profile: true
     </ol>
 <h2 id="pp">预印本</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
-        <li>
-            <a href="https://arxiv.org/abs/2301.13565">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
-            <br>
-            <b>Shixiong Wang</b>, Haowei Wang, and Jean Honorio
-            <br>
-            Under Submission
-            <!--Submitted on 26 Jan 2023-->
-        </li> 
         <li>
             <a href="https://arxiv.org/abs/2212.09962">Distributional Robustness Bounds Generalization Errors</a>
             <br>
