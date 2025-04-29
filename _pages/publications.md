@@ -141,13 +141,13 @@ author_profile: true
     <h3 id="gr">&emsp;鲁棒性和泛化</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
+                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty.pdf">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
                 <br>
                 <b>Shixiong Wang</b>, Haowei Wang, Xinke Li, and Jean Honorio
                 <br>
                 IEEE Journal of Selected Topics in Signal Processing, 2025
                 <br>
-                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty">[论文]</a>
+                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/Robustness-Specificity">[源代码]</a>
             </li> 
         </ol>
