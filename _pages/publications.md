@@ -141,7 +141,7 @@ author_profile: true
     <h3 id="gr">&emsp;鲁棒性和泛化</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty.pdf">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
+                <a href="https://ieeexplore.ieee.org/document/10985769">Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity</a>
                 <br>
                 <b>Shixiong Wang</b>, Haowei Wang, Xinke Li, and Jean Honorio
                 <br>
