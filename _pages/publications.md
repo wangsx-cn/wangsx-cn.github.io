@@ -89,6 +89,7 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 Huawei][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文(中文版)]</a>
                 <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(中文版)]</a>
             </li> 
+            <!--
             <li>
                 <a href="https://ieeexplore.ieee.org/abstract/document/10734797">Distributionally Robust Outlier-Aware Receive Beamforming</a>
                 <br>
@@ -99,6 +100,7 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 MLSP] Distributionally Robust Outlier-Aware Receive Beamforming.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/Beamforming-Outlier">[源代码]</a>
             </li> 
+            -->
             <li>
                 <a href="https://ieeexplore.ieee.org/document/10549948">Robust Waveform Design for Integrated Sensing and Communication</a>
                 <br>
