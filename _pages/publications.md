@@ -78,6 +78,13 @@ author_profile: true
     <h3 id="wc">&emsp;无线通信</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
+                <a href="https://arxiv.org/abs/2412.14369">Uncertainty Awareness in Wireless Communications and Sensing</a>
+                <br>
+                <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
+                <br>
+                IEEE Communications Magazine, May 2025
+            </li> 
+            <li>
                 <a href="https://www-file.huawei.com/-/media/corp2020/pdf/publications/huawei-research/2024/huawei-research-issue7-en.pdf">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
                 <br>
                 <b>Shixiong Wang</b> and Geoffrey Ye Li
@@ -230,13 +237,6 @@ author_profile: true
             <a href="https://arxiv.org/abs/2411.06564">Robust Beamforming with Application in High-Resolution Sensing</a>
             <br>
             <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
-            <br>
-            Under Submission
-        </li> 
-        <li>
-            <a href="https://arxiv.org/abs/2412.14369">Uncertainty Awareness in Wireless Communications and Sensing</a>
-            <br>
-            <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
             <br>
             Under Submission
         </li> 
