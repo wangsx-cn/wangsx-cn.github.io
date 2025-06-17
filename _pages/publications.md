@@ -78,27 +78,6 @@ author_profile: true
     <h3 id="wc">&emsp;无线通信</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://arxiv.org/abs/2412.14369">Uncertainty Awareness in Wireless Communications and Sensing</a>
-                <br>
-                <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
-                <br>
-                IEEE Communications Magazine, May 2025
-                <br>
-                <a href="../files/publications/2025/[Wang 2025 ComMag] Uncertainty Awareness in Wireless Communications and Sensing.pdf">[论文]</a>
-            </li> 
-            <li>
-                <a href="https://www-file.huawei.com/-/media/corp2020/pdf/publications/huawei-research/2024/huawei-research-issue7-en.pdf">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
-                <br>
-                <b>Shixiong Wang</b> and Geoffrey Ye Li
-                <br>
-                Communications of Huawei Research, Issue 7, pp. 2-20, Nov 2024. (邀稿)
-                <br>
-                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文(英文版)]</a>
-                <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(英文版)]</a>
-                <a href="../files/publications/2024/[Wang 2024 Huawei][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文(中文版)]</a>
-                <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(中文版)]</a>
-            </li> 
-            <li>
                 <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Receive Combining</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
@@ -118,6 +97,27 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 TSP] Robust Waveform Design for ISAC.pdf">[论文]</a>
                 <a href="../files/publications/2024/[Wang 2024 TSP] [Suppl] Robust Waveform Design for ISAC.pdf">[补充材料]</a>
                 <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[源代码]</a>
+            </li> 
+            <li>
+                <a href="https://arxiv.org/abs/2412.14369">Uncertainty Awareness in Wireless Communications and Sensing</a>
+                <br>
+                <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
+                <br>
+                IEEE Communications Magazine, May 2025
+                <br>
+                <a href="../files/publications/2025/[Wang 2025 ComMag] Uncertainty Awareness in Wireless Communications and Sensing.pdf">[论文]</a>
+            </li> 
+            <li>
+                <a href="https://www-file.huawei.com/-/media/corp2020/pdf/publications/huawei-research/2024/huawei-research-issue7-en.pdf">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
+                <br>
+                <b>Shixiong Wang</b> and Geoffrey Ye Li
+                <br>
+                Communications of Huawei Research, Issue 7, pp. 2-20, Nov 2024. (邀稿)
+                <br>
+                <a href="../files/publications/2024/[Wang 2024 Huawei] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文(英文版)]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(英文版)]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[论文(中文版)]</a>
+                <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(中文版)]</a>
             </li> 
         </ol>
     <h3 id="ts">&emsp;时间序列</h3>
