@@ -83,6 +83,8 @@ author_profile: true
                 <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
                 <br>
                 IEEE Communications Magazine, May 2025
+                <br>
+                <a href="../files/publications/2025/[Wang 2025 ComMag] Uncertainty Awareness in Wireless Communications and Sensing.pdf">[论文]</a>
             </li> 
             <li>
                 <a href="https://www-file.huawei.com/-/media/corp2020/pdf/publications/huawei-research/2024/huawei-research-issue7-en.pdf">Machine Learning in Communications: A Road to Intelligent Transmission and Processing</a>
@@ -103,8 +105,8 @@ author_profile: true
                 <br>
                 IEEE Transactions on Signal Processing, Jun 2025
                 <br>
-                <a href="../files/publications/2025/[Wang 2025 TSP] Distributionally Robust Receive Combining.pdf">[Paper]</a>
-                <a href="https://github.com/Spratm-Asleaf/DRRC">[Codes]</a>
+                <a href="../files/publications/2025/[Wang 2025 TSP] Distributionally Robust Receive Combining.pdf">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/DRRC">[源代码]</a>
             </li> 
             <li>
                 <a href="https://ieeexplore.ieee.org/document/10549948">Robust Waveform Design for Integrated Sensing and Communication</a>
