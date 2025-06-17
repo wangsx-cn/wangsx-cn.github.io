@@ -10,7 +10,7 @@ author_profile: true
 <h2>按主题查找</h2>
     &emsp;&emsp;<a href="#ssp">统计信号处理</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#se">状态估计</a><br>
-    &emsp;&emsp;&emsp;&emsp;<a href="#wc">无线通信</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#wcs">无线通信与感知</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#ts">时间序列</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">定位和跟踪</a><br>
     &emsp;&emsp;<a href="#sml">统计机器学习</a><br>
@@ -75,7 +75,7 @@ author_profile: true
                 <a href="https://github.com/Spratm-Asleaf/LJEI">[源代码]</a>
             </li> 
         </ol>
-    <h3 id="wc">&emsp;无线通信</h3>
+    <h3 id="wcs">&emsp;无线通信与感知</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
                 <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Receive Combining</a>
