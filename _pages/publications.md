@@ -78,7 +78,7 @@ author_profile: true
     <h3 id="wcs">&emsp;无线通信与感知</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://arxiv.org/abs/2401.12345">Distributionally Robust Receive Combining</a>
+                <a href="https://ieeexplore.ieee.org/document/11048511">Distributionally Robust Receive Combining</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
                 <br>
