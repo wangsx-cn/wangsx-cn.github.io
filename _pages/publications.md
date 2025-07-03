@@ -78,6 +78,16 @@ author_profile: true
     <h3 id="wcs">&emsp;无线通信与感知</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
+                <a href="https://arxiv.org/abs/2411.06564">Distributionally Robust Adaptive Beamforming</a>
+                <br>
+                <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
+                <br>
+                IEEE Transactions on Signal Processing, July 2025
+                <br>
+                <a href="../files/publications/2025/[Wang 2025 TSP] Distributionally Robust Adaptive Beamforming.pdf">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/Beamforming-UDL">[源代码]</a>
+            </li> 
+            <li>
                 <a href="https://ieeexplore.ieee.org/document/11048511">Distributionally Robust Receive Combining</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
@@ -224,13 +234,6 @@ author_profile: true
             <br>
             Under Submission
             <!--Submitted on 8 Nov 2023-->
-        </li> 
-        <li>
-            <a href="https://arxiv.org/abs/2411.06564">Distributionally Robust Adaptive Beamforming</a>
-            <br>
-            <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
-            <br>
-            Under Submission
         </li> 
     </ol>
 </body>
