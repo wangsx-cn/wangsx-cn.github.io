@@ -78,7 +78,7 @@ author_profile: true
     <h3 id="wcs">&emsp;无线通信与感知</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
-                <a href="https://arxiv.org/abs/2411.06564">Distributionally Robust Adaptive Beamforming</a>
+                <a href="https://ieeexplore.ieee.org/document/11077728">Distributionally Robust Adaptive Beamforming</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
                 <br>
