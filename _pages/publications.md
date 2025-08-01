@@ -113,7 +113,7 @@ author_profile: true
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
                 <br>
-                IEEE Communications Magazine, May 2025
+                IEEE Communications Magazine, July 2025
                 <br>
                 <a href="../files/publications/2025/[Wang 2025 ComMag] Uncertainty Awareness in Wireless Communications and Sensing.pdf">[论文]</a>
             </li> 
