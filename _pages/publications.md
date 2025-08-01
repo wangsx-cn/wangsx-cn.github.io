@@ -109,7 +109,7 @@ author_profile: true
                 <a href="https://github.com/Spratm-Asleaf/Robust-Waveform">[源代码]</a>
             </li> 
             <li>
-                <a href="https://arxiv.org/abs/2412.14369">Uncertainty Awareness in Wireless Communications and Sensing</a>
+                <a href="https://ieeexplore.ieee.org/abstract/document/11098642">Uncertainty Awareness in Wireless Communications and Sensing</a>
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, Jianyong Sun, Zongben Xu, and Geoffrey Ye Li
                 <br>
