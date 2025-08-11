@@ -26,7 +26,7 @@ Please visit my [English site](https://bear-wangsx.github.io/).
 * [新加坡国立大学](https://www.nus.edu.sg/)[工业系统工程与管理系](https://cde.nus.edu.sg/isem/)哲学博士
   - 指导老师: [Andrew Lim教授](https://www.limandrew.org)
     + Andrew Lim教授于2021年4月离开新加坡国立大学。[Zhisheng Ye教授](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/)指导我于2021年12月提交了博士论文。
-  - 2018年8月 – 2022年7月（2021年12月提交学位论文，2022年7月正式获得学位）
+  - 2018年8月 – 2022年1月
   - 博士论文: [Distributionally Robust State Estimation](./files/publications/Bear/Thesis/[Wang Shixiong] PhD_Thesis.pdf)
     + [\[演示稿\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[源代码\]](https://github.com/Spratm-Asleaf/DRSE-PhD-Thesis) [\[校园访问\]](https://scholarbank.nus.edu.sg/handle/10635/229567)
 * [西北工业大学](https://www.nwpu.edu.cn/)[电子信息学院](https://dianzi.nwpu.edu.cn/)系统与控制工程系硕士
