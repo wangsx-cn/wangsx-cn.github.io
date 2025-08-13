@@ -82,7 +82,7 @@ author_profile: true
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
                 <br>
-                IEEE Transactions on Signal Processing, July 2025
+                IEEE Transactions on Signal Processing, Vol. 73, pp. 2981-2997, July 2025
                 <br>
                 <a href="../files/publications/2025/[Wang 2025 TSP] Distributionally Robust Adaptive Beamforming.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/Beamforming-UDL">[源代码]</a>
@@ -92,7 +92,7 @@ author_profile: true
                 <br>
                 <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
                 <br>
-                IEEE Transactions on Signal Processing, Jun 2025
+                IEEE Transactions on Signal Processing, Vol. 73, pp. 2736-2752, Jun 2025
                 <br>
                 <a href="../files/publications/2025/[Wang 2025 TSP] Distributionally Robust Receive Combining.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/DRRC">[源代码]</a>
