@@ -19,7 +19,7 @@ author_profile: true
 </p>
 </body></html>
 
-* 频率学派和Bayes学派统计理论
+* 频率学派和Bayes学派统计理论、鲁棒统计
 * 一般的优化理论（例如线性规划、非线性规划、凸优化、半定规划、启发式优化、代理优化等）
 * 随机规划
 * 分布鲁棒优化
@@ -35,7 +35,7 @@ author_profile: true
 ## 学术活动
 <html><body>
 <p align="justify">
-我是IEEE Transactions on Signal Processing和IEEE Transactions on Instrumentation and Measurement的活跃审稿人，但我偶尔也为IEEE Signal Processing Letters审稿。我是个认真负责的审稿人：我从不拖延（一般在接到审稿邀请的前两周内就返回审稿意见），并且我的审稿意见是非常详细和专业的。<!--然而，我对于论文的新颖性（技术性的或非技术性的）要求较高。-->
+我是IEEE Transactions on Signal Processing的活跃审稿人，但我偶尔也为IEEE Signal Processing Letters等声誉好的期刊审稿。我是个认真负责的审稿人：我从不拖延（一般在接到审稿邀请的前两周内就返回审稿意见），并且我的审稿意见是非常详细和专业的。<!--然而，我对于论文的新颖性（技术性的或非技术性的）要求较高。-->
 </p>
 </body></html>
 
