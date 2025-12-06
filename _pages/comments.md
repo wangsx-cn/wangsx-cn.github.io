@@ -31,7 +31,7 @@ author_profile: true
 
 <html><body>
 <p align="justify">
-能被良师指导和保护，是我一生巨大的运气和造化:
+能被良师指导和保护，是巨大的运气和造化:
 </p>
 </body></html>
   * [Geoffrey Ye Li (李烨) 教授](https://www.imperial.ac.uk/people/geoffrey.li) (英国皇家工程院院士，IEEE会士，我的博士后导师)
