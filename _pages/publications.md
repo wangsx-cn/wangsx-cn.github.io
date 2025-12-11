@@ -219,18 +219,27 @@ author_profile: true
     </ol>
 <h2 id="pp">预印本</h2>
     <ol reversed>		<!-- u: unordered, l: list-->
+        <!--
         <li>
             <a href="https://arxiv.org/abs/2212.09962">Distributional Robustness Bounds Generalization Errors</a>
             <br>
             <b>Shixiong Wang</b> and Haowei Wang
             <br>
             Under Submission
-            <!--Submitted on 12 Jan 2023-->
         </li> 
+        -->
         <li>
             <a href="https://arxiv.org/abs/2311.05532">Uncertainty-Aware Bayes' Rule and Its Applications</a>
             <br>
             <b>Shixiong Wang</b>
+            <br>
+            Under Submission
+            <!--Submitted on 8 Nov 2023-->
+        </li> 
+        <li>
+            <a href="https://arxiv.org/abs/2512.09098">A New Particle Filter for Target Tracking in MIMO OFDM Integrated Sensing and Communications</a>
+            <br>
+            <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
             <br>
             Under Submission
             <!--Submitted on 8 Nov 2023-->
