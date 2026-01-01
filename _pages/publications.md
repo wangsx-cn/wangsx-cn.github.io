@@ -164,7 +164,7 @@ author_profile: true
                 <br>
                 <b>Shixiong Wang</b>, Haowei Wang, Xinke Li, and Jean Honorio
                 <br>
-                IEEE Journal of Selected Topics in Signal Processing, 2025
+                IEEE Journal of Selected Topics in Signal Processing, Vol. 19, pp. 1420-1435, Oct 2025
                 <br>
                 <a href="../files/publications/2025/[Wang 2025 JSTSP] Learning Against Distributional Uncertainty.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/Robustness-Specificity">[源代码]</a>
