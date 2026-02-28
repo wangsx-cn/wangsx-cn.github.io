@@ -244,6 +244,14 @@ author_profile: true
             Under Submission
             <!--Submitted on 8 Nov 2023-->
         </li> 
+        <li>
+            <a href="https://arxiv.org/abs/2602.09848">Robust Processing and Learning: Principles, Methods, and Wireless Applications</a>
+            <br>
+            <b>Shixiong Wang</b>, Wei Dai, Li-Chun Wang, and Geoffrey Ye Li
+            <br>
+            Under Submission
+            <!--Submitted on 8 Nov 2023-->
+        </li> 
     </ol>
 </body>
 </html>
