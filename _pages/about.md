@@ -12,10 +12,15 @@ redirect_from:
 Please visit my [English site](https://bear-wangsx.github.io/).
 
 ## 工作经历
+* [西安交通大学](https://www.xjtu.edu.cn/)[数学与统计学院](https://math.xjtu.edu.cn/)信息科学系
+  - 教授 <!--(https://ids.nus.edu.sg/people-researchers.html)-->
+  - 海外优青(2025)
+  - 2026年3月 – 
+
 * [帝国理工学院](https://www.imperial.ac.uk/)[智能传输与处理实验室](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory/)
   - 博士后研究员 <!--(https://ids.nus.edu.sg/people-researchers.html)-->
   - 指导老师: [Geoffrey Ye Li教授](https://www.imperial.ac.uk/people/geoffrey.li) (IEEE Fellow, [英国皇家工程院院士](https://raeng.org.uk/about-us/fellowship/new-fellows-2024/professor-geoffrey-ye-li-freng)) 和 [Wei Dai教授](https://www.imperial.ac.uk/people/wei.dai1)
-  - 2023年5月 – 
+  - 2023年5月 – 2026年2月
 
 * [新加坡国立大学](https://www.nus.edu.sg/)[数据科学研究院](https://ids.nus.edu.sg/)
   - 博士后研究员 <!--(https://ids.nus.edu.sg/people-researchers.html)-->
