@@ -32,13 +32,6 @@ author_profile: true
 * 仪器与测量系统
 * 无线通信、通感一体化
 
-## 学术活动
-<html><body>
-<p align="justify">
-我是IEEE Transactions on Signal Processing的活跃审稿人，但我偶尔也为IEEE Signal Processing Letters等声誉好的期刊审稿。我是个认真负责的审稿人：我从不拖延（一般在接到审稿邀请的前两周内就返回审稿意见），并且我的审稿意见是非常详细和专业的。<!--然而，我对于论文的新颖性（技术性的或非技术性的）要求较高。-->
-</p>
-</body></html>
-
 ## 修过的课程
 + __博士课程__
   * 所有课程都获得A+/A/A-的成绩
