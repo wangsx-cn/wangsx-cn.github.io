@@ -25,7 +25,7 @@ table, th, td {
         </tr>
         <tr>
           <td><a href="https://ieee-ims.org/contact/shixiong-wang">编委 (副编辑)</a></td>
-          <td>IEEE仪器与测量汇刊</td>
+          <td>IEEE仪器与测量汇刊 (IEEE TIM)</td>
           <td>2026年3月- </td>
           <td></td>
         </tr>
@@ -43,13 +43,13 @@ table, th, td {
         </tr>
         <tr>
           <td>审稿人</td>
-          <td>IEEE信号处理汇刊</td>
+          <td>IEEE信号处理汇刊 (IEEE TSP)</td>
           <td>2021-</td>
           <td></td>
         </tr>
         <tr>
           <td>审稿人</td>
-          <td>IEEE仪器与测量汇刊</td>
+          <td>IEEE仪器与测量汇刊 (IEEE TIM)</td>
           <td>2021-2024</td>
           <td><a href="https://ieee-ims.org/publication/ieee-tim/tim-outstanding-reviewers">2023杰出审稿人</a></td>
         </tr>
