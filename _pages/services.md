@@ -78,7 +78,25 @@ table, th, td {
           <td>助教</td>
           <td>概率统计与随机过程 (西安交大MATH295607)</td>
           <td>2025-2026年第二学期</td>
-          <td></td>
+          <td>西安交通大学本科生课程</td>
+        </tr>
+        <tr>
+          <td>助教</td>
+          <td>成本分析与工程经济 (新国立IE5003)</td>
+          <td>(I Forgot The Time Period)</td>
+          <td>新加坡国立大学硕士研究生课程</td>
+        </tr>
+        <tr>
+          <td>助教</td>
+          <td>决策建模与风险分析 (新国立IE4243)</td>
+          <td>(I Forgot The Time Period)</td>
+          <td>新加坡国立大学本科生课程</td>
+        </tr>
+        <tr>
+          <td>助教</td>
+          <td>工业系统工程的原理与实践 (新国立IE1111R)</td>
+          <td>(I Forgot The Time Period)</td>
+          <td>新加坡国立大学本科生课程</td>
         </tr>
     </table>
 </body>
