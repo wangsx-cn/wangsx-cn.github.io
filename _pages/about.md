@@ -44,5 +44,5 @@ Please visit my [English site](https://bear-wangsx.github.io/).
   - 优秀学位论文奖
 
 ## 联系我
-* 邮箱: s.wang@xjtu.edu.cn
+* 邮箱: s.wang (_at_) xjtu.edu.cn
 
