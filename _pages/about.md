@@ -12,8 +12,8 @@ redirect_from:
 Please visit my [English site](https://bear-wangsx.github.io/).
 
 ## 工作经历
-* [西安交通大学](https://www.xjtu.edu.cn/)[数学与统计学院](https://math.xjtu.edu.cn/)信息科学系
-  - 教授 <!--(https://ids.nus.edu.sg/people-researchers.html)-->
+* [西安交通大学](https://www.xjtu.edu.cn/)[数学与统计学院](https://math.xjtu.edu.cn/)[信息科学系](https://math.xjtu.edu.cn/info/1370/14522.htm)
+  - [教授](https://math.xjtu.edu.cn/info/1370/14522.htm) <!--(https://ids.nus.edu.sg/people-researchers.html)-->
   - 海外优青 (2025)
   - 2026年3月 – 
 
