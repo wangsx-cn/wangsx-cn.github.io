@@ -252,6 +252,14 @@ author_profile: true
             Under Submission
             <!--Submitted on 8 Nov 2023-->
         </li> 
+        <li>
+            <a href="https://arxiv.org/abs/2608.19850">Resilience in Trustworthy Wireless Systems</a>
+            <br>
+            <b>Shixiong Wang</b>, Yumeng Zhang, and Hongyu Li
+            <br>
+            Under Submission
+            <!--Submitted on 8 Nov 2023-->
+        </li> 
     </ol>
 </body>
 </html>
