@@ -11,8 +11,8 @@ author_profile: true
     &emsp;&emsp;<a href="#ssp">统计信号处理</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#se">状态估计</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#wcs">无线通信与感知</a><br>
-    &emsp;&emsp;&emsp;&emsp;<a href="#ts">时间序列</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#pt">定位和跟踪</a><br>
+    &emsp;&emsp;&emsp;&emsp;<a href="#ts">时间序列</a><br>
     &emsp;&emsp;<a href="#sml">统计机器学习</a><br>
     &emsp;&emsp;&emsp;&emsp;<a href="#gr">鲁棒性和泛化</a><br>
     &emsp;&emsp;<a href="#it">智能交通</a><br>
@@ -130,6 +130,29 @@ author_profile: true
                 <a href="../files/publications/2024/[Wang 2024 Huawei][Full Issue][CN] Machine Learning in Communications - A Road to Intelligent Transmission and Processing.pdf">[本期全文(中文版)]</a>
             </li> 
         </ol>
+    <h3 id="pt">&emsp;定位和跟踪</h3>
+        <ol reversed>		<!-- u: unordered, l: list-->
+            <li>
+                <a href="https://arxiv.org/abs/2512.09098">A New Particle Filter for Radar Target Tracking and Its Application to MIMO-OFDM ISAC</a>
+                <br>
+                <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
+                <br>
+                IEEE Transactions on Signal Processing, Nov 2026
+                <br>
+                <a href="[Wang 2026 TSP] A New Particle Filter for Radar Target Tracking and Its Application to MIMO-OFDM ISAC.pdf">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/PF-SLTR-MIMO-OFDM">[源代码]</a>
+            </li> 
+            <li>
+                <a href="https://ieeexplore.ieee.org/document/9427087">Denoising, Outlier/Dropout Correction, and Sensor Selection in Range-Based Positioning</a>
+                <br>
+                <b>Shixiong Wang</b>, Zhongming Wu, and Andrew Lim
+                <br>
+                IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-13, May 2021
+                <br>
+                <a href="../files/publications/2021/[Wang 2021 TIM] Range Based Positioning.pdf">[论文]</a>
+                <a href="https://github.com/Spratm-Asleaf/Range-Correction">[源代码]</a>
+            </li> 
+        </ol>
     <h3 id="ts">&emsp;时间序列</h3>
         <ol reversed>		<!-- u: unordered, l: list-->
             <li>
@@ -141,19 +164,6 @@ author_profile: true
                 <br>
                 <a href="../files/publications/2021/[Wang 2021 TIM] Model for Nonstationary Time Series.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/TVLAP-KF">[源代码]</a>
-            </li> 
-        </ol>
-    <h3 id="pt">&emsp;定位和跟踪</h3>
-        <ol reversed>		<!-- u: unordered, l: list-->
-            <li>
-                <a href="https://ieeexplore.ieee.org/document/9427087">Denoising, Outlier/Dropout Correction, and Sensor Selection in Range-Based Positioning</a>
-                <br>
-                <b>Shixiong Wang</b>, Zhongming Wu, and Andrew Lim
-                <br>
-                IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-13, May 2021
-                <br>
-                <a href="../files/publications/2021/[Wang 2021 TIM] Range Based Positioning.pdf">[论文]</a>
-                <a href="https://github.com/Spratm-Asleaf/Range-Correction">[源代码]</a>
             </li> 
         </ol>
 <h2 id="sml">统计机器学习</h2>
@@ -232,14 +242,6 @@ author_profile: true
             <a href="https://arxiv.org/abs/2311.05532">Uncertainty-Aware Bayes' Rule and Its Applications</a>
             <br>
             <b>Shixiong Wang</b>
-            <br>
-            Under Submission
-            <!--Submitted on 8 Nov 2023-->
-        </li> 
-        <li>
-            <a href="https://arxiv.org/abs/2512.09098">A New Particle Filter for Target Tracking in MIMO OFDM Integrated Sensing and Communications</a>
-            <br>
-            <b>Shixiong Wang</b>, Wei Dai, and Geoffrey Ye Li
             <br>
             Under Submission
             <!--Submitted on 8 Nov 2023-->
