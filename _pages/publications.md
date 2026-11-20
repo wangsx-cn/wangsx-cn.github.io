@@ -139,7 +139,7 @@ author_profile: true
                 <br>
                 IEEE Transactions on Signal Processing, Nov 2026
                 <br>
-                <a href="[Wang 2026 TSP] A New Particle Filter for Radar Target Tracking and Its Application to MIMO-OFDM ISAC.pdf">[论文]</a>
+                <a href="../files/publications/2026/[Wang 2026 TSP] A New Particle Filter for Radar Target Tracking and Its Application to MIMO-OFDM ISAC.pdf">[论文]</a>
                 <a href="https://github.com/Spratm-Asleaf/PF-SLTR-MIMO-OFDM">[源代码]</a>
             </li> 
             <li>
